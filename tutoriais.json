@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-05T22:29:13.393Z",
- "total": 5,
+ "gerado_em": "2026-10-05T23:10:48.308Z",
+ "total": 10,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -41,6 +41,46 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-07.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-07.jpg",
    "duracao": 217.5
+  },
+  "/dashboard/subscricao/evolucao-sinistralidade": {
+   "id": "sin-01",
+   "titulo": "Visão Geral",
+   "caminho": "Evolução da Sinistralidade › Visão Geral",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-01.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-01.jpg",
+   "duracao": 298.3
+  },
+  "/dashboard/subscricao/evolucao-sinistralidade/tipo-contratacao": {
+   "id": "sin-02",
+   "titulo": "Tipo de Contratação",
+   "caminho": "Evolução da Sinistralidade › Tipo de Contratação",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-02.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-02.jpg",
+   "duracao": 206.9
+  },
+  "/dashboard/subscricao": {
+   "id": "ass-01",
+   "titulo": "Visão Geral",
+   "caminho": "Gestão Assistencial › Risco de Subscrição › Visão Geral",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-01.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-01.jpg",
+   "duracao": 273.7
+  },
+  "/dashboard/subscricao/frequencia-utilizacao": {
+   "id": "ass-02",
+   "titulo": "Frequência de Utilização",
+   "caminho": "Gestão Assistencial › Risco de Subscrição › Frequência de Utilização",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-02.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-02.jpg",
+   "duracao": 281.6
+  },
+  "/dashboard/inicio": {
+   "id": "ini-01",
+   "titulo": "Início",
+   "caminho": "Início",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ini-01.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ini-01.jpg",
+   "duracao": 209.6
   }
  }
 }
