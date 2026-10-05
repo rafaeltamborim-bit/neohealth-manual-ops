@@ -1,0 +1,46 @@
+{
+ "gerado_em": "2026-10-05T22:29:13.393Z",
+ "total": 5,
+ "tutoriais": {
+  "/dashboard/management-dashboard": {
+   "id": "mgd-01",
+   "titulo": "Management Dashboard",
+   "caminho": "Management Dashboard",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/mgd-01.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/mgd-01.jpg",
+   "duracao": 390.2
+  },
+  "/dashboard/subscricao/evolucao-sinistralidade/grupos-contratos": {
+   "id": "sin-04",
+   "titulo": "Grupos de Contratos",
+   "caminho": "Evolução da Sinistralidade › Grupos de Contratos",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-04.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-04.jpg",
+   "duracao": 197
+  },
+  "/dashboard/subscricao/evolucao-sinistralidade/contratos": {
+   "id": "sin-05",
+   "titulo": "Contratos",
+   "caminho": "Evolução da Sinistralidade › Contratos",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-05.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-05.jpg",
+   "duracao": 215
+  },
+  "/dashboard/subscricao/evolucao-sinistralidade/produtos": {
+   "id": "sin-06",
+   "titulo": "Produtos",
+   "caminho": "Evolução da Sinistralidade › Produtos",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-06.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-06.jpg",
+   "duracao": 237.3
+  },
+  "/dashboard/subscricao/evolucao-sinistralidade/beneficiarios": {
+   "id": "sin-07",
+   "titulo": "Beneficiários",
+   "caminho": "Evolução da Sinistralidade › Beneficiários",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-07.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-07.jpg",
+   "duracao": 217.5
+  }
+ }
+}
