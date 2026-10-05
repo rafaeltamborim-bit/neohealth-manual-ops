@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-05T23:10:48.308Z",
- "total": 10,
+ "gerado_em": "2026-10-05T23:21:36.725Z",
+ "total": 11,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -81,6 +81,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ini-01.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ini-01.jpg",
    "duracao": 209.6
+  },
+  "/dashboard/glossario": {
+   "id": "glo-01",
+   "titulo": "Glossário das Telas",
+   "caminho": "Glossário › Visão Geral",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/glo-01.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/glo-01.jpg",
+   "duracao": 185.9
   }
  }
 }
