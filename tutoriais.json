@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T03:27:52.966Z",
- "total": 18,
+ "gerado_em": "2026-10-06T03:37:44.581Z",
+ "total": 19,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -145,6 +145,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-09.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-09.jpg",
    "duracao": 194.1
+  },
+  "/dashboard/gestao-assistencial/opme": {
+   "id": "ass-29",
+   "titulo": "OPME e Insumos de Alto Custo",
+   "caminho": "Gestão Assistencial › OPME e Insumos de Alto Custo",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-29.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-29.jpg",
+   "duracao": 276.4
   }
  }
 }
