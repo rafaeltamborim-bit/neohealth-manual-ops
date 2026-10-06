@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-06T01:58:22.637Z",
+ "gerado_em": "2026-10-06T01:58:44.624Z",
  "total": 12,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -16,7 +16,7 @@
    "caminho": "Evolução da Sinistralidade › Visão Geral",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-01.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-01.jpg",
-   "duracao": 298.3
+   "duracao": 308.8
   },
   "/dashboard/subscricao": {
    "id": "ass-01",
