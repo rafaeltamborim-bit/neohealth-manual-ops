@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T13:28:23.607Z",
- "total": 50,
+ "gerado_em": "2026-10-06T13:38:21.723Z",
+ "total": 51,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -401,6 +401,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-05.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-05.jpg",
    "duracao": 221.2
+  },
+  "/dashboard/gestao-rn-623/escalonados": {
+   "id": "ate-06",
+   "titulo": "Escalonados e Prazos",
+   "caminho": "Gestão de Atendimentos › Gestão da RN 623 › Escalonados e Prazos",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-06.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-06.jpg",
+   "duracao": 218.8
   }
  }
 }
