@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T21:14:19.564Z",
- "total": 67,
+ "gerado_em": "2026-10-06T21:24:19.031Z",
+ "total": 68,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -537,6 +537,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-17.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-17.jpg",
    "duracao": 258.1
+  },
+  "/dashboard/regulacao-ans/dados-abertos": {
+   "id": "ans-02",
+   "titulo": "Dados Abertos",
+   "caminho": "Gestão Obrigações ANS › Regulação ANS › Dados Abertos",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-02.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-02.jpg",
+   "duracao": 148.5
   }
  }
 }
