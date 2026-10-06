@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T11:48:17.586Z",
- "total": 40,
+ "gerado_em": "2026-10-06T11:58:25.385Z",
+ "total": 41,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -321,6 +321,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-18.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-18.jpg",
    "duracao": 198.7
+  },
+  "/dashboard/gestao-assistencial/producao-medica": {
+   "id": "ass-14",
+   "titulo": "Produção Médica",
+   "caminho": "Gestão Assistencial › Produção Médica",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-14.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-14.jpg",
+   "duracao": 284.5
   }
  }
 }
