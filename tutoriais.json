@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T00:57:49.278Z",
- "total": 9,
+ "gerado_em": "2026-10-06T01:28:07.837Z",
+ "total": 10,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -48,7 +48,7 @@
    "caminho": "Glossário › Visão Geral",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/glo-01.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/glo-01.jpg",
-   "duracao": 185.9
+   "duracao": 196.4
   },
   "/dashboard/subscricao/ofensores-assistenciais": {
    "id": "ass-05",
@@ -73,6 +73,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-06.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-06.jpg",
    "duracao": 197.5
+  },
+  "/dashboard/subscricao/vazamento-rede": {
+   "id": "ass-07",
+   "titulo": "Vazamento de Rede",
+   "caminho": "Gestão Assistencial › Risco de Subscrição › Vazamento de Rede",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-07.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-07.jpg",
+   "duracao": 179.2
   }
  }
 }
