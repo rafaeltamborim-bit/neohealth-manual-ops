@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T06:27:37.549Z",
- "total": 35,
+ "gerado_em": "2026-10-06T06:37:39.579Z",
+ "total": 37,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -281,6 +281,22 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-04.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-04.jpg",
    "duracao": 131.8
+  },
+  "/dashboard/subscricao/consultas-exames": {
+   "id": "ass-04",
+   "titulo": "Consultas e Exames",
+   "caminho": "Gestão Assistencial › Risco de Subscrição › Consultas e Exames",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-04.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-04.jpg",
+   "duracao": 217.2
+  },
+  "/dashboard/massa-beneficiarios/produtos": {
+   "id": "ben-05",
+   "titulo": "Produtos",
+   "caminho": "Gestão de Contratos e Beneficiários › Massa de Beneficiários › Produtos",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-05.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-05.jpg",
+   "duracao": 136.9
   }
  }
 }
