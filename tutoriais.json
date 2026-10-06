@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T21:24:19.031Z",
- "total": 68,
+ "gerado_em": "2026-10-06T21:44:20.112Z",
+ "total": 69,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -545,6 +545,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-02.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-02.jpg",
    "duracao": 148.5
+  },
+  "/dashboard/sala-situacao-ans/ressarcimento-iep": {
+   "id": "ans-18",
+   "titulo": "Ressarcimento — IEP e GRUs",
+   "caminho": "Gestão Obrigações ANS › Sala de Situação ANS › Ressarcimento — IEP e GRUs",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-18.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-18.jpg",
+   "duracao": 223.3
   }
  }
 }
