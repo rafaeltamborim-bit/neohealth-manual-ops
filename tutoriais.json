@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T13:38:21.723Z",
- "total": 51,
+ "gerado_em": "2026-10-06T13:48:21.310Z",
+ "total": 52,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -409,6 +409,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-06.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-06.jpg",
    "duracao": 218.8
+  },
+  "/dashboard/movimentacao-beneficiarios": {
+   "id": "ben-12",
+   "titulo": "Visão Geral",
+   "caminho": "Gestão de Contratos e Beneficiários › Movimentação de Beneficiários › Visão Geral",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-12.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-12.jpg",
+   "duracao": 298.1
   }
  }
 }
