@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T03:07:37.798Z",
- "total": 17,
+ "gerado_em": "2026-10-06T03:27:52.966Z",
+ "total": 18,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -8,7 +8,7 @@
    "caminho": "Management Dashboard",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/mgd-01.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/mgd-01.jpg",
-   "duracao": 390.2
+   "duracao": 400.7
   },
   "/dashboard/subscricao/evolucao-sinistralidade": {
    "id": "sin-01",
@@ -137,6 +137,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-26.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-26.jpg",
    "duracao": 259.5
+  },
+  "/dashboard/subscricao/vcmh": {
+   "id": "ass-09",
+   "titulo": "VCMH Próprio",
+   "caminho": "Gestão Assistencial › Risco de Subscrição › VCMH Próprio",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-09.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-09.jpg",
+   "duracao": 194.1
   }
  }
 }
