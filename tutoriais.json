@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-06T00:37:38.515Z",
+ "gerado_em": "2026-10-06T00:47:43.748Z",
  "total": 8,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -40,7 +40,7 @@
    "caminho": "Início",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ini-01.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ini-01.jpg",
-   "duracao": 209.6
+   "duracao": 220.1
   },
   "/dashboard/glossario": {
    "id": "glo-01",
