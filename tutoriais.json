@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T12:38:20.146Z",
- "total": 45,
+ "gerado_em": "2026-10-06T12:48:18.956Z",
+ "total": 46,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -361,6 +361,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-20.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-20.jpg",
    "duracao": 157
+  },
+  "/dashboard/gestao de glosas/por procedimento": {
+   "id": "ass-17",
+   "titulo": "Por Procedimento",
+   "caminho": "Gestão Assistencial › Gestão de Glosas › Por Procedimento",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-17.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-17.jpg",
+   "duracao": 191.4
   }
  }
 }
