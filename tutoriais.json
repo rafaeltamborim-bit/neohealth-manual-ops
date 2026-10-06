@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T13:48:21.310Z",
- "total": 52,
+ "gerado_em": "2026-10-06T13:58:18.939Z",
+ "total": 54,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -417,6 +417,22 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-12.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-12.jpg",
    "duracao": 298.1
+  },
+  "/dashboard/gestao-rn-623/detalhamento": {
+   "id": "ate-08",
+   "titulo": "Detalhamento",
+   "caminho": "Gestão de Atendimentos › Gestão da RN 623 › Detalhamento",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-08.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-08.jpg",
+   "duracao": 155.3
+  },
+  "/dashboard/movimentacao-beneficiarios/produtos": {
+   "id": "ben-15",
+   "titulo": "Produtos e Canais de Venda",
+   "caminho": "Gestão de Contratos e Beneficiários › Movimentação de Beneficiários › Produtos e Canais de Venda",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-15.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-15.jpg",
+   "duracao": 153.2
   }
  }
 }
