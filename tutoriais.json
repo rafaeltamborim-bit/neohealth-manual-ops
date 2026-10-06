@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T12:08:35.298Z",
- "total": 42,
+ "gerado_em": "2026-10-06T12:28:31.540Z",
+ "total": 44,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -337,6 +337,22 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-19.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-19.jpg",
    "duracao": 143.1
+  },
+  "/dashboard/gestao de glosas/por prestador": {
+   "id": "ass-16",
+   "titulo": "Por Prestador",
+   "caminho": "Gestão Assistencial › Gestão de Glosas › Por Prestador",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-16.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-16.jpg",
+   "duracao": 184.1
+  },
+  "/dashboard/gestao-atendimentos": {
+   "id": "ate-01",
+   "titulo": "Visão Geral",
+   "caminho": "Gestão de Atendimentos › Atendimentos › Visão Geral",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-01.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-01.jpg",
+   "duracao": 289
   }
  }
 }
