@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T13:58:18.939Z",
- "total": 54,
+ "gerado_em": "2026-10-06T20:16:03.465Z",
+ "total": 64,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -433,6 +433,86 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-15.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-15.jpg",
    "duracao": 153.2
+  },
+  "/dashboard/gestao-rn-623/processos": {
+   "id": "ate-10",
+   "titulo": "Processos, NIPs e Reclamações",
+   "caminho": "Gestão de Atendimentos › Gestão da RN 623 › Processos, NIPs e Reclamações",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-10.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-10.jpg",
+   "duracao": 151.6
+  },
+  "/dashboard/movimentacao-beneficiarios/perfil": {
+   "id": "ben-16",
+   "titulo": "Perfil dos Beneficiários",
+   "caminho": "Gestão de Contratos e Beneficiários › Movimentação de Beneficiários › Perfil dos Beneficiários",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-16.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-16.jpg",
+   "duracao": 149.5
+  },
+  "/dashboard/gestao-rn-623/canais-digitais": {
+   "id": "ate-12",
+   "titulo": "Canais Digitais",
+   "caminho": "Gestão de Atendimentos › Gestão da RN 623 › Canais Digitais",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-12.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-12.jpg",
+   "duracao": 168.6
+  },
+  "/dashboard/movimentacao-beneficiarios/permanencia": {
+   "id": "ben-17",
+   "titulo": "Permanência e Rotatividade",
+   "caminho": "Gestão de Contratos e Beneficiários › Movimentação de Beneficiários › Permanência e Rotatividade",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-17.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-17.jpg",
+   "duracao": 155.4
+  },
+  "/dashboard/gestao-rn-623/ouvidoria": {
+   "id": "ate-11",
+   "titulo": "Ouvidoria (RN 323)",
+   "caminho": "Gestão de Atendimentos › Gestão da RN 623 › Ouvidoria (RN 323)",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-11.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-11.jpg",
+   "duracao": 211.4
+  },
+  "/dashboard/movimentacao-beneficiarios/qualidade": {
+   "id": "ben-18",
+   "titulo": "Qualidade Movimentação",
+   "caminho": "Gestão de Contratos e Beneficiários › Movimentação de Beneficiários › Qualidade Movimentação",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-18.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-18.jpg",
+   "duracao": 229.4
+  },
+  "/dashboard/gestao-rn-623/memoria-calculo": {
+   "id": "ate-09",
+   "titulo": "Memória de Cálculo",
+   "caminho": "Gestão de Atendimentos › Gestão da RN 623 › Memória de Cálculo",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-09.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-09.jpg",
+   "duracao": 187.6
+  },
+  "/dashboard/movimentacao-beneficiarios/motivos": {
+   "id": "ben-13",
+   "titulo": "Motivos de Entrada e Saída",
+   "caminho": "Gestão de Contratos e Beneficiários › Movimentação de Beneficiários › Motivos de Entrada e Saída",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-13.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-13.jpg",
+   "duracao": 168.8
+  },
+  "/dashboard/movimentacao-beneficiarios/contratos": {
+   "id": "ben-14",
+   "titulo": "Contratos e Grupos",
+   "caminho": "Gestão de Contratos e Beneficiários › Movimentação de Beneficiários › Contratos e Grupos",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-14.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-14.jpg",
+   "duracao": 172.3
+  },
+  "/dashboard/gestao-rn-623/canais": {
+   "id": "ate-07",
+   "titulo": "Canais e Protocolos",
+   "caminho": "Gestão de Atendimentos › Gestão da RN 623 › Canais e Protocolos",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-07.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-07.jpg",
+   "duracao": 168
   }
  }
 }
