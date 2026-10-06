@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T06:07:38.783Z",
- "total": 33,
+ "gerado_em": "2026-10-06T06:17:41.435Z",
+ "total": 34,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -265,6 +265,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-03.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-03.jpg",
    "duracao": 161.3
+  },
+  "/dashboard/subscricao/explorador-producao": {
+   "id": "ass-03",
+   "titulo": "Explorador da Produção",
+   "caminho": "Gestão Assistencial › Risco de Subscrição › Explorador da Produção",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-03.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-03.jpg",
+   "duracao": 234.9
   }
  }
 }
