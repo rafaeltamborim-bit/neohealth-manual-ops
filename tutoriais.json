@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T23:24:19.358Z",
- "total": 76,
+ "gerado_em": "2026-10-06T23:34:19.299Z",
+ "total": 77,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -609,6 +609,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-09.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-09.jpg",
    "duracao": 195.4
+  },
+  "/dashboard/gestao-idss/idgr": {
+   "id": "ans-10",
+   "titulo": "IDGR - Gestão de Processos e Regulação",
+   "caminho": "Gestão Obrigações ANS › Gestão de IDSS › IDGR - Gestão de Processos e Regulação",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-10.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-10.jpg",
+   "duracao": 182.2
   }
  }
 }
