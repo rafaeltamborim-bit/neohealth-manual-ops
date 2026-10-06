@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T02:57:38.619Z",
- "total": 16,
+ "gerado_em": "2026-10-06T03:07:37.798Z",
+ "total": 17,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -129,6 +129,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-06.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-06.jpg",
    "duracao": 259.6
+  },
+  "/dashboard/gestao-assistencial/cesarea": {
+   "id": "ass-26",
+   "titulo": "Partos: % de Cesárea (RN 368)",
+   "caminho": "Gestão Assistencial › Partos: % de Cesárea (RN 368)",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-26.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-26.jpg",
+   "duracao": 259.5
   }
  }
 }
