@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T02:08:20.677Z",
- "total": 13,
+ "gerado_em": "2026-10-06T02:18:12.467Z",
+ "total": 14,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -105,6 +105,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-08.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-08.jpg",
    "duracao": 174.1
+  },
+  "/dashboard/gestao-assistencial/saude-mental": {
+   "id": "ass-25",
+   "titulo": "Saúde Mental e Terapias (RN 541)",
+   "caminho": "Gestão Assistencial › Saúde Mental e Terapias (RN 541)",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-25.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-25.jpg",
+   "duracao": 292.4
   }
  }
 }
