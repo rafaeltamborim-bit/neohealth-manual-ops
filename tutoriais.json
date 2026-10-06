@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T21:04:20.419Z",
- "total": 66,
+ "gerado_em": "2026-10-06T21:14:19.564Z",
+ "total": 67,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -529,6 +529,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-01.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-01.jpg",
    "duracao": 233.8
+  },
+  "/dashboard/sala-situacao-ans/glosa": {
+   "id": "ans-17",
+   "titulo": "Glosa × Painel ANS",
+   "caminho": "Gestão Obrigações ANS › Sala de Situação ANS › Glosa × Painel ANS",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-17.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-17.jpg",
+   "duracao": 258.1
   }
  }
 }
