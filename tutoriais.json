@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T05:48:41.475Z",
- "total": 30,
+ "gerado_em": "2026-10-06T05:57:44.005Z",
+ "total": 32,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -241,6 +241,22 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-32.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-32.jpg",
    "duracao": 270.2
+  },
+  "/dashboard/subscricao/evolucao-sinistralidade/contratos": {
+   "id": "sin-05",
+   "titulo": "Contratos",
+   "caminho": "Evolução da Sinistralidade › Contratos",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-05.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-05.jpg",
+   "duracao": 233.4
+  },
+  "/dashboard/massa-beneficiarios/continuidade": {
+   "id": "ben-11",
+   "titulo": "Carteira em Continuidade (arts. 30 e 31)",
+   "caminho": "Gestão de Contratos e Beneficiários › Massa de Beneficiários › Carteira em Continuidade (arts. 30 e 31)",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-11.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-11.jpg",
+   "duracao": 194.9
   }
  }
 }
