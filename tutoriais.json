@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T13:08:15.808Z",
- "total": 48,
+ "gerado_em": "2026-10-06T13:28:23.607Z",
+ "total": 50,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -385,6 +385,22 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-04.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-04.jpg",
    "duracao": 329.6
+  },
+  "/dashboard/gestao-assistencial/estratificacao-risco": {
+   "id": "ass-11",
+   "titulo": "Estratificação de Risco",
+   "caminho": "Gestão Assistencial › Estratificação de Risco",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-11.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-11.jpg",
+   "duracao": 386.5
+  },
+  "/dashboard/gestao-rn-623/primeiro-atendimento": {
+   "id": "ate-05",
+   "titulo": "Resolvidos no 1º Atendimento",
+   "caminho": "Gestão de Atendimentos › Gestão da RN 623 › Resolvidos no 1º Atendimento",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-05.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-05.jpg",
+   "duracao": 221.2
   }
  }
 }
