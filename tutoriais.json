@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T11:58:25.385Z",
- "total": 41,
+ "gerado_em": "2026-10-06T12:08:35.298Z",
+ "total": 42,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -329,6 +329,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-14.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-14.jpg",
    "duracao": 284.5
+  },
+  "/dashboard/gestao de glosas/dashboards": {
+   "id": "ass-19",
+   "titulo": "Dashboards",
+   "caminho": "Gestão Assistencial › Gestão de Glosas › Dashboards",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-19.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-19.jpg",
+   "duracao": 143.1
   }
  }
 }
