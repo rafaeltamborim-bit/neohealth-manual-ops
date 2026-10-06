@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T23:04:19.422Z",
- "total": 75,
+ "gerado_em": "2026-10-06T23:24:19.358Z",
+ "total": 76,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -601,6 +601,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-08.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-08.jpg",
    "duracao": 183.8
+  },
+  "/dashboard/gestao-idss/idsm": {
+   "id": "ans-09",
+   "titulo": "IDSM - Sustentabilidade no Mercado",
+   "caminho": "Gestão Obrigações ANS › Gestão de IDSS › IDSM - Sustentabilidade no Mercado",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-09.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-09.jpg",
+   "duracao": 195.4
   }
  }
 }
