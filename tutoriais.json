@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T12:28:31.540Z",
- "total": 44,
+ "gerado_em": "2026-10-06T12:38:20.146Z",
+ "total": 45,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -353,6 +353,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-01.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-01.jpg",
    "duracao": 289
+  },
+  "/dashboard/gestao-de-glosas/outliers": {
+   "id": "ass-20",
+   "titulo": "Outliers",
+   "caminho": "Gestão Assistencial › Gestão de Glosas › Outliers",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-20.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-20.jpg",
+   "duracao": 157
   }
  }
 }
