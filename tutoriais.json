@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T20:54:23.365Z",
- "total": 65,
+ "gerado_em": "2026-10-06T21:04:20.419Z",
+ "total": 66,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -521,6 +521,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-19.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-19.jpg",
    "duracao": 194.7
+  },
+  "/dashboard/regulacao-ans/rol-de-procedimentos": {
+   "id": "ans-01",
+   "titulo": "Rol de Procedimentos",
+   "caminho": "Gestão Obrigações ANS › Regulação ANS › Rol de Procedimentos",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-01.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-01.jpg",
+   "duracao": 233.8
   }
  }
 }
