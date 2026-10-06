@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T00:27:38.370Z",
- "total": 7,
+ "gerado_em": "2026-10-06T00:37:38.515Z",
+ "total": 8,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -57,6 +57,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-05.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-05.jpg",
    "duracao": 275.9
+  },
+  "/dashboard/subscricao/evolucao-sinistralidade/previsao": {
+   "id": "sin-08",
+   "titulo": "Previsão da Sinistralidade",
+   "caminho": "Evolução da Sinistralidade › Previsão da Sinistralidade",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-08.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-08.jpg",
+   "duracao": 426.5
   }
  }
 }
