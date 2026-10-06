@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T05:18:12.738Z",
- "total": 29,
+ "gerado_em": "2026-10-06T05:48:41.475Z",
+ "total": 30,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -32,7 +32,7 @@
    "caminho": "Gestão Assistencial › Risco de Subscrição › Frequência de Utilização",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-02.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-02.jpg",
-   "duracao": 281.6
+   "duracao": 292.1
   },
   "/dashboard/inicio": {
    "id": "ini-01",
@@ -233,6 +233,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-10.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-10.jpg",
    "duracao": 172.9
+  },
+  "/dashboard/gestao-assistencial/diabetes": {
+   "id": "ass-32",
+   "titulo": "Ciclo de Cuidado do Diabético",
+   "caminho": "Gestão Assistencial › Ciclo de Cuidado do Diabético",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-32.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-32.jpg",
+   "duracao": 270.2
   }
  }
 }
