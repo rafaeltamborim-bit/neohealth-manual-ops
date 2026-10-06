@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T03:37:44.581Z",
- "total": 19,
+ "gerado_em": "2026-10-06T03:57:36.968Z",
+ "total": 20,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -153,6 +153,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-29.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-29.jpg",
    "duracao": 276.4
+  },
+  "/dashboard/subscricao/dispersao-preco": {
+   "id": "ass-10",
+   "titulo": "Dispersão de Preço por Procedimento",
+   "caminho": "Gestão Assistencial › Risco de Subscrição › Dispersão de Preço por Procedimento",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-10.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-10.jpg",
+   "duracao": 188.4
   }
  }
 }
