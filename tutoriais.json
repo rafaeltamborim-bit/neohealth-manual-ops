@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T04:07:38.830Z",
- "total": 21,
+ "gerado_em": "2026-10-06T04:17:47.708Z",
+ "total": 23,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -169,6 +169,22 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-13.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-13.jpg",
    "duracao": 311.4
+  },
+  "/dashboard/subscricao/evolucao-sinistralidade/tipo-contratacao": {
+   "id": "sin-02",
+   "titulo": "Tipo de Contratação",
+   "caminho": "Evolução da Sinistralidade › Tipo de Contratação",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-02.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-02.jpg",
+   "duracao": 225.3
+  },
+  "/dashboard/massa-beneficiarios": {
+   "id": "ben-01",
+   "titulo": "Visão Geral",
+   "caminho": "Gestão de Contratos e Beneficiários › Massa de Beneficiários › Visão Geral",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-01.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-01.jpg",
+   "duracao": 263.7
   }
  }
 }
