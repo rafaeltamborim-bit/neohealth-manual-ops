@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T04:58:06.588Z",
- "total": 27,
+ "gerado_em": "2026-10-06T05:18:12.738Z",
+ "total": 29,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -217,6 +217,22 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-30.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-30.jpg",
    "duracao": 291
+  },
+  "/dashboard/subscricao/evolucao-sinistralidade/grupos-contratos": {
+   "id": "sin-04",
+   "titulo": "Grupos de Contratos",
+   "caminho": "Evolução da Sinistralidade › Grupos de Contratos",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-04.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-04.jpg",
+   "duracao": 215.4
+  },
+  "/dashboard/massa-beneficiarios/portabilidade": {
+   "id": "ben-10",
+   "titulo": "Portabilidade de Carências (RN 438)",
+   "caminho": "Gestão de Contratos e Beneficiários › Massa de Beneficiários › Portabilidade de Carências (RN 438)",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-10.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-10.jpg",
+   "duracao": 172.9
   }
  }
 }
