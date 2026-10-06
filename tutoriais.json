@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T01:37:54.655Z",
- "total": 11,
+ "gerado_em": "2026-10-06T01:58:22.637Z",
+ "total": 12,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -89,6 +89,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-09.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-09.jpg",
    "duracao": 299.3
+  },
+  "/dashboard/gestao-assistencial/alto-custo": {
+   "id": "ass-12",
+   "titulo": "Alto Custo e Gestão de Caso",
+   "caminho": "Gestão Assistencial › Alto Custo e Gestão de Caso",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-12.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-12.jpg",
+   "duracao": 293.1
   }
  }
 }
