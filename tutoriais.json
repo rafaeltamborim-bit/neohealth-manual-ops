@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T03:57:36.968Z",
- "total": 20,
+ "gerado_em": "2026-10-06T04:07:38.830Z",
+ "total": 21,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -161,6 +161,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-10.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-10.jpg",
    "duracao": 188.4
+  },
+  "/dashboard/simulador-assistencial": {
+   "id": "ass-13",
+   "titulo": "Simulador Assistencial",
+   "caminho": "Gestão Assistencial › Simulador Assistencial",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-13.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-13.jpg",
+   "duracao": 311.4
   }
  }
 }
