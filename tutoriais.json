@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T22:04:19.260Z",
- "total": 71,
+ "gerado_em": "2026-10-06T22:24:22.972Z",
+ "total": 72,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -569,6 +569,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-04.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-04.jpg",
    "duracao": 167.3
+  },
+  "/dashboard/gestao-idss/comparativo": {
+   "id": "ans-05",
+   "titulo": "Comparativo — Calculado × ANS",
+   "caminho": "Gestão Obrigações ANS › Gestão de IDSS › Comparativo — Calculado × ANS",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-05.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-05.jpg",
+   "duracao": 245
   }
  }
 }
