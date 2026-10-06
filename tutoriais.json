@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T02:18:12.467Z",
- "total": 14,
+ "gerado_em": "2026-10-06T02:27:55.639Z",
+ "total": 15,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -113,6 +113,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-25.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-25.jpg",
    "duracao": 292.4
+  },
+  "/dashboard/subscricao/faixas-etarias": {
+   "id": "ass-08",
+   "titulo": "Subsídio Cruzado por Faixa Etária",
+   "caminho": "Gestão Assistencial › Risco de Subscrição › Subsídio Cruzado por Faixa Etária",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-08.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-08.jpg",
+   "duracao": 210.3
   }
  }
 }
