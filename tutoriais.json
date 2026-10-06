@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T22:44:19.939Z",
- "total": 73,
+ "gerado_em": "2026-10-06T22:54:24.638Z",
+ "total": 74,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -585,6 +585,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-06.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-06.jpg",
    "duracao": 274.3
+  },
+  "/dashboard/gestao-idss/idqs": {
+   "id": "ans-07",
+   "titulo": "IDQS - Qualidade em Atenção à Saúde",
+   "caminho": "Gestão Obrigações ANS › Gestão de IDSS › IDQS - Qualidade em Atenção à Saúde",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-07.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-07.jpg",
+   "duracao": 197.1
   }
  }
 }
