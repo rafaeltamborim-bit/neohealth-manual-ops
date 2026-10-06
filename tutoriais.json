@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T04:47:39.645Z",
- "total": 26,
+ "gerado_em": "2026-10-06T04:58:06.588Z",
+ "total": 27,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -24,7 +24,7 @@
    "caminho": "Gestão Assistencial › Risco de Subscrição › Visão Geral",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-01.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-01.jpg",
-   "duracao": 273.7
+   "duracao": 284.3
   },
   "/dashboard/subscricao/frequencia-utilizacao": {
    "id": "ass-02",
@@ -209,6 +209,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-09.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-09.jpg",
    "duracao": 201.4
+  },
+  "/dashboard/gestao-assistencial/oncologia": {
+   "id": "ass-30",
+   "titulo": "Oncologia: Diagnóstico ao Tratamento",
+   "caminho": "Gestão Assistencial › Oncologia: Diagnóstico ao Tratamento",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-30.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-30.jpg",
+   "duracao": 291
   }
  }
 }
