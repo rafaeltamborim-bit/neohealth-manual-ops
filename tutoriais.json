@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T00:47:43.748Z",
- "total": 8,
+ "gerado_em": "2026-10-06T00:57:49.278Z",
+ "total": 9,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -65,6 +65,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-08.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-08.jpg",
    "duracao": 426.5
+  },
+  "/dashboard/subscricao/previsao-producao": {
+   "id": "ass-06",
+   "titulo": "Previsão da Produção",
+   "caminho": "Gestão Assistencial › Risco de Subscrição › Previsão da Produção",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-06.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-06.jpg",
+   "duracao": 197.5
   }
  }
 }
