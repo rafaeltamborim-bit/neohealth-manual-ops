@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T12:58:31.715Z",
- "total": 47,
+ "gerado_em": "2026-10-06T13:08:15.808Z",
+ "total": 48,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -377,6 +377,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-21.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-21.jpg",
    "duracao": 258
+  },
+  "/dashboard/gestao-rn-623": {
+   "id": "ate-04",
+   "titulo": "Visão Geral",
+   "caminho": "Gestão de Atendimentos › Gestão da RN 623 › Visão Geral",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-04.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-04.jpg",
+   "duracao": 329.6
   }
  }
 }
