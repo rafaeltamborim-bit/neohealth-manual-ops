@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-05T23:26:55.404Z",
- "total": 6,
+ "gerado_em": "2026-10-06T00:27:38.370Z",
+ "total": 7,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -49,6 +49,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/glo-01.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/glo-01.jpg",
    "duracao": 185.9
+  },
+  "/dashboard/subscricao/ofensores-assistenciais": {
+   "id": "ass-05",
+   "titulo": "Ofensores Assistenciais",
+   "caminho": "Gestão Assistencial › Risco de Subscrição › Ofensores Assistenciais",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-05.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-05.jpg",
+   "duracao": 275.9
   }
  }
 }
