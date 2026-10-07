@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-07T00:34:19.713Z",
- "total": 81,
+ "gerado_em": "2026-10-07T01:04:20.072Z",
+ "total": 82,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -649,6 +649,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-16.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-16.jpg",
    "duracao": 240.5
+  },
+  "/dashboard/sala-situacao-ans/garantia-atendimento": {
+   "id": "ans-19",
+   "titulo": "Garantia de Atendimento por Produto",
+   "caminho": "Gestão Obrigações ANS › Sala de Situação ANS › Garantia de Atendimento por Produto",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-19.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-19.jpg",
+   "duracao": 341.4
   }
  }
 }
