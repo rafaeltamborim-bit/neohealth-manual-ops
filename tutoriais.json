@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-07T04:54:22.811Z",
- "total": 94,
+ "gerado_em": "2026-10-07T05:14:20.263Z",
+ "total": 95,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -753,6 +753,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-01.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-01.jpg",
    "duracao": 392
+  },
+  "/dashboard/gestao-reajustes/calendario": {
+   "id": "men-03",
+   "titulo": "Calendário de Aniversários",
+   "caminho": "Gestão de Mensalidades › Gestão de Reajustes › Calendário de Aniversários",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-03.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-03.jpg",
+   "duracao": 246.4
   }
  }
 }
