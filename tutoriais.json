@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-07T02:44:19.454Z",
- "total": 88,
+ "gerado_em": "2026-10-07T03:04:19.966Z",
+ "total": 89,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -705,6 +705,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-27.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-27.jpg",
    "duracao": 206.4
+  },
+  "/dashboard/monitoramento-tiss/conciliacao-diops": {
+   "id": "ans-28",
+   "titulo": "Conciliação com o DIOPS",
+   "caminho": "Gestão Obrigações ANS › Monitoramento TISS › Conciliação com o DIOPS",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-28.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-28.jpg",
+   "duracao": 251.1
   }
  }
 }
