@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-07T07:14:20.670Z",
- "total": 102,
+ "gerado_em": "2026-10-07T07:24:20.193Z",
+ "total": 103,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -817,6 +817,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-13.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-13.jpg",
    "duracao": 217
+  },
+  "/dashboard/mensalidades/por-tipo-pessoa": {
+   "id": "men-14",
+   "titulo": "Por Tipo de Pessoa",
+   "caminho": "Gestão de Mensalidades › Mensalidades › Por Tipo de Pessoa",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-14.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-14.jpg",
+   "duracao": 237.1
   }
  }
 }
