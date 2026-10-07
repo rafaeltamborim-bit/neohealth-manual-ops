@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-06T23:44:19.281Z",
- "total": 78,
+ "gerado_em": "2026-10-07T00:04:19.620Z",
+ "total": 79,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -625,6 +625,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-13.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-13.jpg",
    "duracao": 215.7
+  },
+  "/dashboard/sala-situacao-ans/carteira": {
+   "id": "ans-14",
+   "titulo": "Composição de Carteira",
+   "caminho": "Gestão Obrigações ANS › Sala de Situação ANS › Composição de Carteira",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-14.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-14.jpg",
+   "duracao": 280.5
   }
  }
 }
