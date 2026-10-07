@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-07T03:24:20.100Z",
- "total": 90,
+ "gerado_em": "2026-10-07T03:34:19.542Z",
+ "total": 91,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -721,6 +721,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-29.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-29.jpg",
    "duracao": 264.5
+  },
+  "/dashboard/monitoramento-tiss/inconsistencias": {
+   "id": "ans-30",
+   "titulo": "Inconsistências",
+   "caminho": "Gestão Obrigações ANS › Monitoramento TISS › Inconsistências",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-30.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-30.jpg",
+   "duracao": 176.5
   }
  }
 }
