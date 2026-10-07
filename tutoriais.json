@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-07T03:44:19.251Z",
- "total": 92,
+ "gerado_em": "2026-10-07T04:04:19.639Z",
+ "total": 93,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -737,6 +737,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-31.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-31.jpg",
    "duracao": 213.3
+  },
+  "/dashboard/monitoramento-tiss/urgencia-emergencia": {
+   "id": "ans-33",
+   "titulo": "Urgência e Emergência (IDSS 2.3)",
+   "caminho": "Gestão Obrigações ANS › Monitoramento TISS › Urgência e Emergência (IDSS 2.3)",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-33.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-33.jpg",
+   "duracao": 268.6
   }
  }
 }
