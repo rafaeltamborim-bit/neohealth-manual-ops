@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-07T00:04:19.620Z",
- "total": 79,
+ "gerado_em": "2026-10-07T00:24:19.111Z",
+ "total": 80,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -633,6 +633,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-14.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-14.jpg",
    "duracao": 280.5
+  },
+  "/dashboard/sala-situacao-ans/ressarcimento": {
+   "id": "ans-15",
+   "titulo": "Ressarcimento ao SUS",
+   "caminho": "Gestão Obrigações ANS › Sala de Situação ANS › Ressarcimento ao SUS",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-15.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-15.jpg",
+   "duracao": 272.2
   }
  }
 }
