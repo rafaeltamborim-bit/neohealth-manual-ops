@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-07T05:14:20.263Z",
- "total": 95,
+ "gerado_em": "2026-10-07T05:34:20.115Z",
+ "total": 96,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -761,6 +761,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-03.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-03.jpg",
    "duracao": 246.4
+  },
+  "/dashboard/gestao-reajustes/indices": {
+   "id": "men-04",
+   "titulo": "Índices Aplicados",
+   "caminho": "Gestão de Mensalidades › Gestão de Reajustes › Índices Aplicados",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-04.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-04.jpg",
+   "duracao": 267.9
   }
  }
 }
