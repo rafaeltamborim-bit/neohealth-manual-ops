@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-07T00:24:19.111Z",
- "total": 80,
+ "gerado_em": "2026-10-07T00:34:19.713Z",
+ "total": 81,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -641,6 +641,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-15.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-15.jpg",
    "duracao": 272.2
+  },
+  "/dashboard/sala-situacao-ans/nip": {
+   "id": "ans-16",
+   "titulo": "Reclamações (NIP)",
+   "caminho": "Gestão Obrigações ANS › Sala de Situação ANS › Reclamações (NIP)",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-16.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-16.jpg",
+   "duracao": 240.5
   }
  }
 }
