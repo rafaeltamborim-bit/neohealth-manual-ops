@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-07T05:34:20.115Z",
- "total": 96,
+ "gerado_em": "2026-10-07T05:54:19.846Z",
+ "total": 97,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -769,6 +769,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-04.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-04.jpg",
    "duracao": 267.9
+  },
+  "/dashboard/gestao-reajustes/coletivos": {
+   "id": "men-05",
+   "titulo": "Contratos Coletivos (IDSS 3.6)",
+   "caminho": "Gestão de Mensalidades › Gestão de Reajustes › Contratos Coletivos (IDSS 3.6)",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-05.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-05.jpg",
+   "duracao": 299.1
   }
  }
 }
