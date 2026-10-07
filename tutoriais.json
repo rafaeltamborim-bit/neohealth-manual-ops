@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-07T01:04:20.072Z",
- "total": 82,
+ "gerado_em": "2026-10-07T01:24:20.124Z",
+ "total": 83,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -657,6 +657,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-19.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-19.jpg",
    "duracao": 341.4
+  },
+  "/dashboard/sib-ans": {
+   "id": "ans-20",
+   "titulo": "Visão Geral",
+   "caminho": "Gestão Obrigações ANS › SIB ANS › Visão Geral",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-20.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-20.jpg",
+   "duracao": 268.5
   }
  }
 }
