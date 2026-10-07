@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-07T01:24:20.124Z",
- "total": 83,
+ "gerado_em": "2026-10-07T01:34:19.435Z",
+ "total": 84,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -665,6 +665,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-20.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-20.jpg",
    "duracao": 268.5
+  },
+  "/dashboard/sib-ans/rejeicoes": {
+   "id": "ans-22",
+   "titulo": "Rejeições da ANS",
+   "caminho": "Gestão Obrigações ANS › SIB ANS › Rejeições da ANS",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-22.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-22.jpg",
+   "duracao": 221.7
   }
  }
 }
