@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-07T03:04:19.966Z",
- "total": 89,
+ "gerado_em": "2026-10-07T03:24:20.100Z",
+ "total": 90,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -713,6 +713,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-28.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-28.jpg",
    "duracao": 251.1
+  },
+  "/dashboard/monitoramento-tiss/critica-pre-envio": {
+   "id": "ans-29",
+   "titulo": "Crítica de Pré-envio e CBO",
+   "caminho": "Gestão Obrigações ANS › Monitoramento TISS › Crítica de Pré-envio e CBO",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-29.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-29.jpg",
+   "duracao": 264.5
   }
  }
 }
