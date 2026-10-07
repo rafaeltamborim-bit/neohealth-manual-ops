@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-07T03:34:19.542Z",
- "total": 91,
+ "gerado_em": "2026-10-07T03:44:19.251Z",
+ "total": 92,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -729,6 +729,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-30.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-30.jpg",
    "duracao": 176.5
+  },
+  "/dashboard/monitoramento-tiss/producao": {
+   "id": "ans-31",
+   "titulo": "Produção Enviada",
+   "caminho": "Gestão Obrigações ANS › Monitoramento TISS › Produção Enviada",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-31.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-31.jpg",
+   "duracao": 213.3
   }
  }
 }
