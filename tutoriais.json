@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-07T01:34:19.435Z",
- "total": 84,
+ "gerado_em": "2026-10-07T01:54:19.594Z",
+ "total": 85,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -673,6 +673,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-22.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-22.jpg",
    "duracao": 221.7
+  },
+  "/dashboard/monitoramento-tiss": {
+   "id": "ans-24",
+   "titulo": "Visão Geral",
+   "caminho": "Gestão Obrigações ANS › Monitoramento TISS › Visão Geral",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-24.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-24.jpg",
+   "duracao": 319.5
   }
  }
 }
