@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-07T07:24:20.193Z",
- "total": 103,
+ "gerado_em": "2026-10-07T07:44:19.870Z",
+ "total": 104,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -825,6 +825,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-14.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-14.jpg",
    "duracao": 237.1
+  },
+  "/dashboard/mensalidades/simulador-reajuste": {
+   "id": "men-15",
+   "titulo": "Simulador de Reajuste",
+   "caminho": "Gestão de Mensalidades › Mensalidades › Simulador de Reajuste",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-15.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-15.jpg",
+   "duracao": 231.5
   }
  }
 }
