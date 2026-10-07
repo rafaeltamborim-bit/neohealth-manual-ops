@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-07T06:14:20.990Z",
- "total": 98,
+ "gerado_em": "2026-10-07T06:24:19.515Z",
+ "total": 99,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -785,6 +785,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-09.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-09.jpg",
    "duracao": 329.7
+  },
+  "/dashboard/mensalidades/por-contrato": {
+   "id": "men-10",
+   "titulo": "Por Contrato",
+   "caminho": "Gestão de Mensalidades › Mensalidades › Por Contrato",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-10.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-10.jpg",
+   "duracao": 237.9
   }
  }
 }
