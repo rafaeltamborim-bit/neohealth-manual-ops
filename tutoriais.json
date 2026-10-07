@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-07T01:54:19.594Z",
- "total": 85,
+ "gerado_em": "2026-10-07T02:14:26.277Z",
+ "total": 86,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -681,6 +681,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-24.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-24.jpg",
    "duracao": 319.5
+  },
+  "/dashboard/monitoramento-tiss/lotes": {
+   "id": "ans-25",
+   "titulo": "Lotes e Arquivos",
+   "caminho": "Gestão Obrigações ANS › Monitoramento TISS › Lotes e Arquivos",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-25.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-25.jpg",
+   "duracao": 232
   }
  }
 }
