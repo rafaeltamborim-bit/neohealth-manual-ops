@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-10T23:28:04.021Z",
- "total": 110,
+ "gerado_em": "2026-10-10T23:37:57.247Z",
+ "total": 111,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -881,6 +881,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pan-02.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pan-02.jpg",
    "duracao": 208
+  },
+  "/dashboard/contabilidade/pesl": {
+   "id": "con-14",
+   "titulo": "PESL × Eventos Avisados",
+   "caminho": "Contabilidade › PESL × Eventos Avisados",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-14.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-14.jpg",
+   "duracao": 210.3
   }
  }
 }
