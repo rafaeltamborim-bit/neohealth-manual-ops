@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-10T23:18:01.135Z",
- "total": 107,
+ "gerado_em": "2026-10-10T23:28:04.021Z",
+ "total": 110,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -857,6 +857,30 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pan-01.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pan-01.jpg",
    "duracao": 301.8
+  },
+  "/dashboard/contabilidade/peona-relatorio": {
+   "id": "con-12",
+   "titulo": "PEONA — Relatório",
+   "caminho": "Contabilidade › PEONA — Relatório",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-12.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-12.jpg",
+   "duracao": 231.8
+  },
+  "/dashboard/contabilidade/ppsc": {
+   "id": "con-13",
+   "titulo": "PPSC × Inadimplência",
+   "caminho": "Contabilidade › PPSC × Inadimplência",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-13.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-13.jpg",
+   "duracao": 254.6
+  },
+  "/dashboard/sala-situacao-ans/precificacao/composicao": {
+   "id": "pan-02",
+   "titulo": "Composição do Preço",
+   "caminho": "Painéis ANS › Composição do Preço",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pan-02.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pan-02.jpg",
+   "duracao": 208
   }
  }
 }
