@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-10T23:37:57.247Z",
- "total": 111,
+ "gerado_em": "2026-10-10T23:48:01.567Z",
+ "total": 113,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -889,6 +889,22 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-14.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-14.jpg",
    "duracao": 210.3
+  },
+  "/dashboard/contabilidade/sinais-iris": {
+   "id": "con-16",
+   "titulo": "Sinais de Tendência (IRIS)",
+   "caminho": "Contabilidade › Sinais de Tendência (IRIS)",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-16.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-16.jpg",
+   "duracao": 218.2
+  },
+  "/dashboard/sala-situacao-ans/igr": {
+   "id": "pan-04",
+   "titulo": "IGR x Mercado",
+   "caminho": "Painéis ANS › IGR x Mercado",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pan-04.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pan-04.jpg",
+   "duracao": 284.8
   }
  }
 }
