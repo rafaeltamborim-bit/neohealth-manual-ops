@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-10T23:07:57.885Z",
- "total": 105,
+ "gerado_em": "2026-10-10T23:18:01.135Z",
+ "total": 107,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -841,6 +841,22 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-11.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-11.jpg",
    "duracao": 258.8
+  },
+  "/dashboard/governanca-corporativa/algoritmos": {
+   "id": "con-10",
+   "titulo": "Governança de Algoritmos",
+   "caminho": "Contabilidade › RN 518 › Governança de Algoritmos",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-10.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-10.jpg",
+   "duracao": 264.9
+  },
+  "/dashboard/sala-situacao-ans/precificacao": {
+   "id": "pan-01",
+   "titulo": "Preço x Mercado",
+   "caminho": "Painéis ANS › Preço x Mercado",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pan-01.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pan-01.jpg",
+   "duracao": 301.8
   }
  }
 }
