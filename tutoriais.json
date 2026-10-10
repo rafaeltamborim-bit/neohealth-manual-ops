@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-07T07:44:19.870Z",
- "total": 104,
+ "gerado_em": "2026-10-10T23:07:57.885Z",
+ "total": 105,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -833,6 +833,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-15.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-15.jpg",
    "duracao": 231.5
+  },
+  "/dashboard/governanca-corporativa/acreditacao-rn507": {
+   "id": "con-11",
+   "titulo": "Prontidão para Acreditação (RN 507)",
+   "caminho": "Contabilidade › RN 518 › Prontidão para Acreditação (RN 507)",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-11.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-11.jpg",
+   "duracao": 258.8
   }
  }
 }
