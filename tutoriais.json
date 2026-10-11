@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T15:57:59.221Z",
- "total": 210,
+ "gerado_em": "2026-10-11T16:17:59.416Z",
+ "total": 211,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1681,6 +1681,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-11.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-11.jpg",
    "duracao": 185.1
+  },
+  "/dashboard/subscricao/evolucao-sinistralidade/beneficiarios": {
+   "id": "sin-07",
+   "titulo": "Beneficiários",
+   "caminho": "Evolução da Sinistralidade › Beneficiários",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-07.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-07.jpg",
+   "duracao": 239.9
   }
  }
 }
