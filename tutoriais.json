@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T07:18:02.232Z",
- "total": 155,
+ "gerado_em": "2026-10-11T07:28:10.735Z",
+ "total": 157,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1241,6 +1241,22 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-02.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-02.jpg",
    "duracao": 217.8
+  },
+  "/dashboard/requisicoes-autorizacoes/pendencias": {
+   "id": "aut-03",
+   "titulo": "Pendências e Execução",
+   "caminho": "Gestão de Autorizações › Requisições para Autorizações › Pendências e Execução",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-03.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-03.jpg",
+   "duracao": 203.6
+  },
+  "/dashboard/requisicoes-autorizacoes/prestadores": {
+   "id": "aut-04",
+   "titulo": "Prestadores e Solicitantes",
+   "caminho": "Gestão de Autorizações › Requisições para Autorizações › Prestadores e Solicitantes",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-04.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-04.jpg",
+   "duracao": 248.1
   }
  }
 }
