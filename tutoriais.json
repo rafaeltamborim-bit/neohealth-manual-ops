@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T11:47:59.724Z",
- "total": 195,
+ "gerado_em": "2026-10-11T12:48:01.448Z",
+ "total": 196,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1561,6 +1561,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-34.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-34.jpg",
    "duracao": 225
+  },
+  "/dashboard/sib-ans/movimentacoes": {
+   "id": "ans-21",
+   "titulo": "Movimentações",
+   "caminho": "Gestão Obrigações ANS › SIB ANS › Movimentações",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-21.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-21.jpg",
+   "duracao": 182.9
   }
  }
 }
