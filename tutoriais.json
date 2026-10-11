@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T09:38:02.681Z",
- "total": 172,
+ "gerado_em": "2026-10-11T09:48:03.168Z",
+ "total": 174,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1377,6 +1377,22 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-17.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-17.jpg",
    "duracao": 219.4
+  },
+  "/dashboard/central-chamados/dashboard": {
+   "id": "cha-01",
+   "titulo": "Dashboard",
+   "caminho": "Central de Chamados › Dashboard",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/cha-01.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/cha-01.jpg",
+   "duracao": 181.8
+  },
+  "/dashboard/central-chamados/fila": {
+   "id": "cha-03",
+   "titulo": "Fila de Atendimento",
+   "caminho": "Central de Chamados › Fila de Atendimento",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/cha-03.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/cha-03.jpg",
+   "duracao": 154.4
   }
  }
 }
