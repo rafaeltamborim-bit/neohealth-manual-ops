@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T08:17:58.486Z",
- "total": 163,
+ "gerado_em": "2026-10-11T08:48:02.705Z",
+ "total": 165,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1305,6 +1305,22 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-16.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-16.jpg",
    "duracao": 279.7
+  },
+  "/dashboard/sala-situacao-ans/mapa-assistencial": {
+   "id": "pan-03",
+   "titulo": "Utilização x Mercado",
+   "caminho": "Painéis ANS › Utilização x Mercado",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pan-03.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pan-03.jpg",
+   "duracao": 184.8
+  },
+  "/dashboard/prestadores-profissionais/honorario-medico": {
+   "id": "pre-13",
+   "titulo": "Honorário Médico por Especialidade",
+   "caminho": "Prestadores x Profissionais › Honorário Médico por Especialidade",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-13.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-13.jpg",
+   "duracao": 263.3
   }
  }
 }
