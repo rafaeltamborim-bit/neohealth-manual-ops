@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T08:57:58.874Z",
- "total": 166,
+ "gerado_em": "2026-10-11T09:18:05.007Z",
+ "total": 169,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1329,6 +1329,30 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-05.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-05.jpg",
    "duracao": 259.5
+  },
+  "/dashboard/gestao-reajustes/aplicacao": {
+   "id": "men-02",
+   "titulo": "Aplicação e Pendências",
+   "caminho": "Gestão de Mensalidades › Gestão de Reajustes › Aplicação e Pendências",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-02.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-02.jpg",
+   "duracao": 229.6
+  },
+  "/dashboard/gestao-reajustes/detalhamento": {
+   "id": "men-06",
+   "titulo": "Detalhamento",
+   "caminho": "Gestão de Mensalidades › Gestão de Reajustes › Detalhamento",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-06.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-06.jpg",
+   "duracao": 156.3
+  },
+  "/dashboard/gestao-reajustes/auditoria": {
+   "id": "men-07",
+   "titulo": "Auditoria de Reajustes",
+   "caminho": "Gestão de Mensalidades › Gestão de Reajustes › Auditoria de Reajustes",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-07.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-07.jpg",
+   "duracao": 201.7
   }
  }
 }
