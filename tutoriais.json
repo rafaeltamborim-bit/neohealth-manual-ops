@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T07:28:10.735Z",
- "total": 157,
+ "gerado_em": "2026-10-11T07:38:03.759Z",
+ "total": 158,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1257,6 +1257,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-04.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-04.jpg",
    "duracao": 248.1
+  },
+  "/dashboard/requisicoes-autorizacoes/beneficiarios": {
+   "id": "aut-05",
+   "titulo": "Beneficiários e Contratos",
+   "caminho": "Gestão de Autorizações › Requisições para Autorizações › Beneficiários e Contratos",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-05.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-05.jpg",
+   "duracao": 231.7
   }
  }
 }
