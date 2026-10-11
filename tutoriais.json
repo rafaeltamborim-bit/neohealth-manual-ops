@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T02:58:00.856Z",
- "total": 134,
+ "gerado_em": "2026-10-11T03:07:59.871Z",
+ "total": 135,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1073,6 +1073,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-08.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-08.jpg",
    "duracao": 240.2
+  },
+  "/dashboard/prestadores-profissionais/verticalizacao": {
+   "id": "pre-09",
+   "titulo": "Verticalização (Rede Própria x Credenciada)",
+   "caminho": "Prestadores x Profissionais › Verticalização (Rede Própria x Credenciada)",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-09.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-09.jpg",
+   "duracao": 188.2
   }
  }
 }
