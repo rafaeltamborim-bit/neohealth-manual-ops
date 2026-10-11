@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T07:48:05.226Z",
- "total": 161,
+ "gerado_em": "2026-10-11T08:07:58.435Z",
+ "total": 162,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1289,6 +1289,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-08.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-08.jpg",
    "duracao": 227.2
+  },
+  "/dashboard/gestao-autorizacoes/glosa-autorizado": {
+   "id": "aut-13",
+   "titulo": "Glosa do Autorizado",
+   "caminho": "Gestão de Autorizações › Glosa do Autorizado",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-13.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-13.jpg",
+   "duracao": 191.8
   }
  }
 }
