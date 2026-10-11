@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T14:38:03.096Z",
- "total": 201,
+ "gerado_em": "2026-10-11T14:48:08.869Z",
+ "total": 204,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1609,6 +1609,30 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/fin-03.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/fin-03.jpg",
    "duracao": 222.5
+  },
+  "/dashboard/autorizacoes/fraude": {
+   "id": "aut-11",
+   "titulo": "Uso fora Padrão",
+   "caminho": "Gestão de Autorizações › Uso fora Padrão",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-11.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-11.jpg",
+   "duracao": 245.4
+  },
+  "/dashboard/titulos-pagar-receber/vencimentos": {
+   "id": "fin-04",
+   "titulo": "Vencimentos e Inadimplência",
+   "caminho": "Gestão Financeira › Títulos a Pagar e a Receber › Vencimentos e Inadimplência",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/fin-04.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/fin-04.jpg",
+   "duracao": 212.5
+  },
+  "/dashboard/titulos-pagar-receber/detalhamento": {
+   "id": "fin-05",
+   "titulo": "Detalhamento",
+   "caminho": "Gestão Financeira › Títulos a Pagar e a Receber › Detalhamento",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/fin-05.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/fin-05.jpg",
+   "duracao": 192
   }
  }
 }
