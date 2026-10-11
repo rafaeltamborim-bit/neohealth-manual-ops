@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T11:18:01.867Z",
- "total": 191,
+ "gerado_em": "2026-10-11T11:28:03.516Z",
+ "total": 192,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1529,6 +1529,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-27.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-27.jpg",
    "duracao": 245.7
+  },
+  "/dashboard/gestao-assistencial/casemix": {
+   "id": "ass-28",
+   "titulo": "Custo por Internação Ajustado (case-mix)",
+   "caminho": "Gestão Assistencial › Custo por Internação Ajustado (case-mix)",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-28.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-28.jpg",
+   "duracao": 230.2
   }
  }
 }
