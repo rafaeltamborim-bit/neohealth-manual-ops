@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T04:17:58.198Z",
- "total": 143,
+ "gerado_em": "2026-10-11T04:28:02.825Z",
+ "total": 145,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1145,6 +1145,22 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-04.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-04.jpg",
    "duracao": 169.9
+  },
+  "/dashboard/contabilidade/peona": {
+   "id": "con-05",
+   "titulo": "PEONA",
+   "caminho": "Contabilidade › PEONA",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-05.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-05.jpg",
+   "duracao": 289.6
+  },
+  "/dashboard/governanca-corporativa/risco-subscricao": {
+   "id": "con-07",
+   "titulo": "Anexo I — Risco de Subscrição",
+   "caminho": "Contabilidade › RN 518 › Anexo I — Risco de Subscrição",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-07.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-07.jpg",
+   "duracao": 280.3
   }
  }
 }
