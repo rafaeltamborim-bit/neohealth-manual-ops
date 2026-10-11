@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T15:08:08.502Z",
- "total": 206,
+ "gerado_em": "2026-10-11T15:18:13.773Z",
+ "total": 208,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1649,6 +1649,22 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-01.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-01.jpg",
    "duracao": 266.8
+  },
+  "/dashboard/intercambio/glosas": {
+   "id": "int-07",
+   "titulo": "Glosas e Contestação (A550)",
+   "caminho": "Intercâmbio › Glosas e Contestação (A550)",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-07.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-07.jpg",
+   "duracao": 221.4
+  },
+  "/dashboard/intercambio/movimentacao": {
+   "id": "int-08",
+   "titulo": "Movimentação PTU (A100 a A1350)",
+   "caminho": "Intercâmbio › Movimentação PTU (A100 a A1350)",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-08.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-08.jpg",
+   "duracao": 200.6
   }
  }
 }
