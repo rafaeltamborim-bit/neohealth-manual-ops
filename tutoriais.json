@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T05:38:03.722Z",
- "total": 148,
+ "gerado_em": "2026-10-11T06:08:13.263Z",
+ "total": 150,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1185,6 +1185,22 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/fin-07.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/fin-07.jpg",
    "duracao": 218.4
+  },
+  "/dashboard/intercambio/cobranca-pagamento": {
+   "id": "int-02",
+   "titulo": "Contas e Cobrança (A500)",
+   "caminho": "Intercâmbio › Contas e Cobrança (A500)",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-02.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-02.jpg",
+   "duracao": 333.5
+  },
+  "/dashboard/intercambio/a-receber": {
+   "id": "int-03",
+   "titulo": "Intercâmbio a Receber",
+   "caminho": "Intercâmbio › Intercâmbio a Receber",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-03.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-03.jpg",
+   "duracao": 279.1
   }
  }
 }
