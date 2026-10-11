@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T01:48:00.726Z",
- "total": 124,
+ "gerado_em": "2026-10-11T01:58:04.517Z",
+ "total": 126,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -993,6 +993,22 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-09.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-09.jpg",
    "duracao": 175.6
+  },
+  "/dashboard/financeiro/relatorio-cobranca": {
+   "id": "fin-08",
+   "titulo": "Relatório de Cobrança",
+   "caminho": "Gestão Financeira › Relatório de Cobrança",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/fin-08.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/fin-08.jpg",
+   "duracao": 288.5
+  },
+  "/dashboard/financeiro/safras": {
+   "id": "fin-09",
+   "titulo": "Inadimplência por Safra e Canal",
+   "caminho": "Gestão Financeira › Inadimplência por Safra e Canal",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/fin-09.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/fin-09.jpg",
+   "duracao": 236.9
   }
  }
 }
