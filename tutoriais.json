@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T14:48:08.869Z",
- "total": 204,
+ "gerado_em": "2026-10-11T14:58:02.243Z",
+ "total": 205,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1633,6 +1633,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/fin-05.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/fin-05.jpg",
    "duracao": 192
+  },
+  "/dashboard/governanca-corporativa/anexo-iv": {
+   "id": "con-06",
+   "titulo": "Anexo IV — Indicadores",
+   "caminho": "Contabilidade › RN 518 › Anexo IV — Indicadores",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-06.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-06.jpg",
+   "duracao": 234
   }
  }
 }
