@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T03:47:58.244Z",
- "total": 139,
+ "gerado_em": "2026-10-11T04:08:04.895Z",
+ "total": 142,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1113,6 +1113,30 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-18.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-18.jpg",
    "duracao": 415.7
+  },
+  "/dashboard/contabilidade/balancete": {
+   "id": "con-01",
+   "titulo": "Balancete",
+   "caminho": "Contabilidade › Balancete",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-01.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-01.jpg",
+   "duracao": 182.3
+  },
+  "/dashboard/contabilidade/dre": {
+   "id": "con-02",
+   "titulo": "Demonstrativo (DRE)",
+   "caminho": "Contabilidade › Demonstrativo (DRE)",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-02.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-02.jpg",
+   "duracao": 195.1
+  },
+  "/dashboard/contabilidade/dre-previsao": {
+   "id": "con-03",
+   "titulo": "Previsão do DRE",
+   "caminho": "Contabilidade › Previsão do DRE",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-03.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-03.jpg",
+   "duracao": 156.3
   }
  }
 }
