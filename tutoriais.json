@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T10:48:02.888Z",
- "total": 185,
+ "gerado_em": "2026-10-11T10:58:02.122Z",
+ "total": 187,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1481,6 +1481,22 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-18.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-18.jpg",
    "duracao": 149.8
+  },
+  "/dashboard/gestao-idss/capital-regulatorio": {
+   "id": "ans-11",
+   "titulo": "Capital Regulatório",
+   "caminho": "Gestão Obrigações ANS › Gestão de IDSS › Capital Regulatório",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-11.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-11.jpg",
+   "duracao": 246
+  },
+  "/dashboard/monitoramento-tiss/guias": {
+   "id": "ans-32",
+   "titulo": "Guias do Lote",
+   "caminho": "Gestão Obrigações ANS › Monitoramento TISS › Guias do Lote",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-32.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-32.jpg",
+   "duracao": 185.8
   }
  }
 }
