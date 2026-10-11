@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T10:58:02.122Z",
- "total": 187,
+ "gerado_em": "2026-10-11T11:08:03.005Z",
+ "total": 189,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1497,6 +1497,22 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-32.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-32.jpg",
    "duracao": 185.8
+  },
+  "/dashboard/gestao-assistencial/icsap": {
+   "id": "ass-22",
+   "titulo": "Internações Sensíveis à Atenção Primária (ICSAP)",
+   "caminho": "Gestão Assistencial › Internações Sensíveis à Atenção Primária (ICSAP)",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-22.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-22.jpg",
+   "duracao": 201.6
+  },
+  "/dashboard/gestao-assistencial/utilizacao-hospitalar": {
+   "id": "ass-23",
+   "titulo": "Utilização Hospitalar da Carteira",
+   "caminho": "Gestão Assistencial › Utilização Hospitalar da Carteira",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-23.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-23.jpg",
+   "duracao": 228.2
   }
  }
 }
