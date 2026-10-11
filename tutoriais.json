@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T12:57:58.702Z",
- "total": 197,
+ "gerado_em": "2026-10-11T14:18:24.277Z",
+ "total": 199,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1577,6 +1577,22 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-23.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-23.jpg",
    "duracao": 202.6
+  },
+  "/dashboard/central-chamados/meus-chamados": {
+   "id": "cha-02",
+   "titulo": "Meus Chamados",
+   "caminho": "Central de Chamados › Meus Chamados",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/cha-02.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/cha-02.jpg",
+   "duracao": 133.8
+  },
+  "/dashboard/gestao-idss/configuracoes": {
+   "id": "ans-12",
+   "titulo": "Configurações",
+   "caminho": "Gestão Obrigações ANS › Gestão de IDSS › Configurações",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-12.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-12.jpg",
+   "duracao": 213
   }
  }
 }
