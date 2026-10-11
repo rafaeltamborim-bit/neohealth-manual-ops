@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T02:38:00.616Z",
- "total": 132,
+ "gerado_em": "2026-10-11T02:58:00.856Z",
+ "total": 134,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1057,6 +1057,22 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-06.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-06.jpg",
    "duracao": 181.6
+  },
+  "/dashboard/prestadores-profissionais/qualidade": {
+   "id": "pre-07",
+   "titulo": "Painel de Monitoramento da Qualidade Hospitalar",
+   "caminho": "Prestadores x Profissionais › Painel de Monitoramento da Qualidade Hospitalar",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-07.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-07.jpg",
+   "duracao": 247.6
+  },
+  "/dashboard/prestadores-profissionais/rotatividade": {
+   "id": "pre-08",
+   "titulo": "Rotatividade da Rede (RN 585)",
+   "caminho": "Prestadores x Profissionais › Rotatividade da Rede (RN 585)",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-08.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-08.jpg",
+   "duracao": 240.2
   }
  }
 }
