@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T10:28:05.410Z",
- "total": 181,
+ "gerado_em": "2026-10-11T10:38:04.107Z",
+ "total": 184,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1449,6 +1449,30 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-14.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-14.jpg",
    "duracao": 159.5
+  },
+  "/dashboard/gestao-agendas/especialidades": {
+   "id": "ate-15",
+   "titulo": "Especialidades",
+   "caminho": "Gestão de Atendimentos › Gestão de Agendas › Especialidades",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-15.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-15.jpg",
+   "duracao": 161.7
+  },
+  "/dashboard/gestao-agendas/confirmacoes": {
+   "id": "ate-16",
+   "titulo": "Confirmações e Faltas",
+   "caminho": "Gestão de Atendimentos › Gestão de Agendas › Confirmações e Faltas",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-16.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-16.jpg",
+   "duracao": 166.3
+  },
+  "/dashboard/gestao-agendas/pacientes": {
+   "id": "ate-17",
+   "titulo": "Perfil dos Pacientes",
+   "caminho": "Gestão de Atendimentos › Gestão de Agendas › Perfil dos Pacientes",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-17.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-17.jpg",
+   "duracao": 153
   }
  }
 }
