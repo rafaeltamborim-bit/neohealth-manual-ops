@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T11:38:01.317Z",
- "total": 194,
+ "gerado_em": "2026-10-11T11:47:59.724Z",
+ "total": 195,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1553,6 +1553,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-33.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-33.jpg",
    "duracao": 213.4
+  },
+  "/dashboard/gestao-assistencial/home-care": {
+   "id": "ass-34",
+   "titulo": "Atenção Domiciliar (Home Care)",
+   "caminho": "Gestão Assistencial › Atenção Domiciliar (Home Care)",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-34.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-34.jpg",
+   "duracao": 225
   }
  }
 }
