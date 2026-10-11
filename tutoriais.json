@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T11:08:03.005Z",
- "total": 189,
+ "gerado_em": "2026-10-11T11:18:01.867Z",
+ "total": 191,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1513,6 +1513,22 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-23.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-23.jpg",
    "duracao": 228.2
+  },
+  "/dashboard/gestao-assistencial/reinternacao": {
+   "id": "ass-24",
+   "titulo": "Reinternação em 30 Dias (Carteira)",
+   "caminho": "Gestão Assistencial › Reinternação em 30 Dias (Carteira)",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-24.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-24.jpg",
+   "duracao": 212.4
+  },
+  "/dashboard/gestao-assistencial/pronto-socorro": {
+   "id": "ass-27",
+   "titulo": "Uso de Pronto-Socorro",
+   "caminho": "Gestão Assistencial › Uso de Pronto-Socorro",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-27.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-27.jpg",
+   "duracao": 245.7
   }
  }
 }
