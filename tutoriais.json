@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T09:27:58.399Z",
- "total": 170,
+ "gerado_em": "2026-10-11T09:38:02.681Z",
+ "total": 172,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1361,6 +1361,22 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-08.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-08.jpg",
    "duracao": 174
+  },
+  "/dashboard/mensalidades/inconsistencias": {
+   "id": "men-16",
+   "titulo": "Inconsistências de Cobrança",
+   "caminho": "Gestão de Mensalidades › Mensalidades › Inconsistências de Cobrança",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-16.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-16.jpg",
+   "duracao": 266.2
+  },
+  "/dashboard/gestao-reajustes/agrupamento": {
+   "id": "men-17",
+   "titulo": "Agrupamento de Contratos (menos de 30 vidas)",
+   "caminho": "Gestão de Mensalidades › Gestão de Reajustes › Agrupamento de Contratos (menos de 30 vidas)",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-17.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-17.jpg",
+   "duracao": 219.4
   }
  }
 }
