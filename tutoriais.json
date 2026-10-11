@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T03:28:00.601Z",
- "total": 138,
+ "gerado_em": "2026-10-11T03:47:58.244Z",
+ "total": 139,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1105,6 +1105,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-12.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-12.jpg",
    "duracao": 233.8
+  },
+  "/dashboard/gestao-reajustes/renovacao": {
+   "id": "men-18",
+   "titulo": "Renovação dos Coletivos",
+   "caminho": "Gestão de Mensalidades › Gestão de Reajustes › Renovação dos Coletivos: Reajuste Técnico",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-18.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-18.jpg",
+   "duracao": 415.7
   }
  }
 }
