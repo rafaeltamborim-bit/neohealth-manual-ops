@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T08:48:02.705Z",
- "total": 165,
+ "gerado_em": "2026-10-11T08:57:58.874Z",
+ "total": 166,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1321,6 +1321,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-13.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-13.jpg",
    "duracao": 263.3
+  },
+  "/dashboard/intercambio/autorizacoes": {
+   "id": "int-05",
+   "titulo": "Autorizações de Intercâmbio",
+   "caminho": "Intercâmbio › Autorizações de Intercâmbio",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-05.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-05.jpg",
+   "duracao": 259.5
   }
  }
 }
