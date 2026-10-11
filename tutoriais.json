@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T02:08:01.233Z",
- "total": 128,
+ "gerado_em": "2026-10-11T02:28:00.665Z",
+ "total": 130,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1025,6 +1025,22 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-02.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-02.jpg",
    "duracao": 192.5
+  },
+  "/dashboard/prestadores-profissionais/rede": {
+   "id": "pre-03",
+   "titulo": "Rede e Contratação",
+   "caminho": "Prestadores x Profissionais › Rede e Contratação",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-03.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-03.jpg",
+   "duracao": 263.2
+  },
+  "/dashboard/prestadores-profissionais/cobertura": {
+   "id": "pre-04",
+   "titulo": "Cobertura Geográfica",
+   "caminho": "Prestadores x Profissionais › Cobertura Geográfica",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-04.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-04.jpg",
+   "duracao": 180.6
   }
  }
 }
