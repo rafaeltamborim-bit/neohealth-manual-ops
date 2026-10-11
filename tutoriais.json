@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T01:27:58.156Z",
- "total": 123,
+ "gerado_em": "2026-10-11T01:48:00.726Z",
+ "total": 124,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -985,6 +985,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/fin-02.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/fin-02.jpg",
    "duracao": 238.2
+  },
+  "/dashboard/intercambio/prestadores": {
+   "id": "int-09",
+   "titulo": "Prestadores Trocados (A400)",
+   "caminho": "Intercâmbio › Prestadores Trocados (A400)",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-09.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-09.jpg",
+   "duracao": 175.6
   }
  }
 }
