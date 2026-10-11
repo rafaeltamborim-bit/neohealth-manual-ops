@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T00:08:04.007Z",
- "total": 115,
+ "gerado_em": "2026-10-11T00:18:03.959Z",
+ "total": 117,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -921,6 +921,22 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pan-05.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pan-05.jpg",
    "duracao": 231
+  },
+  "/dashboard/requisicoes-autorizacoes": {
+   "id": "aut-01",
+   "titulo": "Visão Geral",
+   "caminho": "Gestão de Autorizações › Requisições para Autorizações › Visão Geral",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-01.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-01.jpg",
+   "duracao": 402.8
+  },
+  "/dashboard/sala-situacao-ans/promoprev": {
+   "id": "pan-06",
+   "titulo": "Promoção e Prevenção",
+   "caminho": "Painéis ANS › Promoção e Prevenção",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pan-06.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pan-06.jpg",
+   "duracao": 182.3
   }
  }
 }
