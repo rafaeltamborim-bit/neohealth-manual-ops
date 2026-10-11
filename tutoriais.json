@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T07:38:03.759Z",
- "total": 158,
+ "gerado_em": "2026-10-11T07:48:05.226Z",
+ "total": 161,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1265,6 +1265,30 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-05.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-05.jpg",
    "duracao": 231.7
+  },
+  "/dashboard/requisicoes-autorizacoes/glosas": {
+   "id": "aut-06",
+   "titulo": "Glosas e Ocorrências",
+   "caminho": "Gestão de Autorizações › Requisições para Autorizações › Glosas e Ocorrências",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-06.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-06.jpg",
+   "duracao": 260.8
+  },
+  "/dashboard/requisicoes-autorizacoes/usuarios": {
+   "id": "aut-07",
+   "titulo": "Auditoria e Usuários",
+   "caminho": "Gestão de Autorizações › Requisições para Autorizações › Auditoria e Usuários",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-07.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-07.jpg",
+   "duracao": 208.3
+  },
+  "/dashboard/requisicoes-autorizacoes/detalhamento": {
+   "id": "aut-08",
+   "titulo": "Detalhamento",
+   "caminho": "Gestão de Autorizações › Requisições para Autorizações › Detalhamento",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-08.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-08.jpg",
+   "duracao": 227.2
   }
  }
 }
