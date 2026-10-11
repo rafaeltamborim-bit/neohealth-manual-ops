@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T11:28:03.516Z",
- "total": 192,
+ "gerado_em": "2026-10-11T11:38:01.317Z",
+ "total": 194,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1537,6 +1537,22 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-28.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-28.jpg",
    "duracao": 230.2
+  },
+  "/dashboard/gestao-assistencial/fim-de-vida": {
+   "id": "ass-31",
+   "titulo": "Cuidado no Fim da Vida (Earle)",
+   "caminho": "Gestão Assistencial › Cuidado no Fim da Vida (Earle)",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-31.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-31.jpg",
+   "duracao": 238
+  },
+  "/dashboard/gestao-assistencial/aps-continuidade": {
+   "id": "ass-33",
+   "titulo": "Vínculo e Continuidade do Cuidado (APS)",
+   "caminho": "Gestão Assistencial › Vínculo e Continuidade do Cuidado (APS)",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-33.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-33.jpg",
+   "duracao": 213.4
   }
  }
 }
