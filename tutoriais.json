@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T10:08:09.953Z",
- "total": 177,
+ "gerado_em": "2026-10-11T10:17:58.515Z",
+ "total": 178,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1417,6 +1417,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-20.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-20.jpg",
    "duracao": 234.5
+  },
+  "/dashboard/gestao-atendimentos/beneficiarios": {
+   "id": "ate-02",
+   "titulo": "Beneficiários",
+   "caminho": "Gestão de Atendimentos › Atendimentos › Beneficiários",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-02.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-02.jpg",
+   "duracao": 236.8
   }
  }
 }
