@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T15:18:13.773Z",
- "total": 208,
+ "gerado_em": "2026-10-11T15:28:13.368Z",
+ "total": 210,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1665,6 +1665,22 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-08.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-08.jpg",
    "duracao": 200.6
+  },
+  "/dashboard/autorizacoes/prazos": {
+   "id": "aut-12",
+   "titulo": "Prazos de Autorização, RN 566 e 623",
+   "caminho": "Gestão de Autorizações › Prazos de Autorização (RN 566 e 623)",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-12.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-12.jpg",
+   "duracao": 270.5
+  },
+  "/dashboard/intercambio/indicadores": {
+   "id": "int-11",
+   "titulo": "Indicadores do Intercâmbio",
+   "caminho": "Intercâmbio › Indicadores do Intercâmbio",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-11.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-11.jpg",
+   "duracao": 185.1
   }
  }
 }
