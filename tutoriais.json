@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T03:18:00.263Z",
- "total": 136,
+ "gerado_em": "2026-10-11T03:28:00.601Z",
+ "total": 138,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1089,6 +1089,22 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-10.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-10.jpg",
    "duracao": 240.8
+  },
+  "/dashboard/prestadores-profissionais/reajuste-efetivo": {
+   "id": "pre-11",
+   "titulo": "Reajuste Efetivo por Prestador x IPCA",
+   "caminho": "Prestadores x Profissionais › Reajuste Efetivo por Prestador x IPCA",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-11.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-11.jpg",
+   "duracao": 255.8
+  },
+  "/dashboard/prestadores-profissionais/remuneracao": {
+   "id": "pre-12",
+   "titulo": "Modelos de Remuneração da Rede",
+   "caminho": "Prestadores x Profissionais › Modelos de Remuneração da Rede",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-12.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-12.jpg",
+   "duracao": 233.8
   }
  }
 }
