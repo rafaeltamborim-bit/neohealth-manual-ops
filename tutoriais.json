@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T00:37:58.115Z",
- "total": 120,
+ "gerado_em": "2026-10-11T00:47:57.898Z",
+ "total": 121,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -961,6 +961,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-01.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-01.jpg",
    "duracao": 329.8
+  },
+  "/dashboard/autorizacoes/tempo-realizacao": {
+   "id": "aut-14",
+   "titulo": "Tempo até a Realização (RN 566)",
+   "caminho": "Gestão de Autorizações › Tempo até a Realização (RN 566)",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-14.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-14.jpg",
+   "duracao": 255.8
   }
  }
 }
