@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T04:38:04.058Z",
- "total": 146,
+ "gerado_em": "2026-10-11T05:38:03.722Z",
+ "total": 148,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1169,6 +1169,22 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-08.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-08.jpg",
    "duracao": 233.9
+  },
+  "/dashboard/financeiro/inadimplencia": {
+   "id": "fin-06",
+   "titulo": "Inadimplência e Devedor Contumaz",
+   "caminho": "Gestão Financeira › Inadimplência e Devedor Contumaz",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/fin-06.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/fin-06.jpg",
+   "duracao": 294.7
+  },
+  "/dashboard/financeiro/atrasos": {
+   "id": "fin-07",
+   "titulo": "Dias de Atraso por Beneficiário",
+   "caminho": "Gestão Financeira › Dias de Atraso por Beneficiário",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/fin-07.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/fin-07.jpg",
+   "duracao": 218.4
   }
  }
 }
