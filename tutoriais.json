@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T07:08:02.171Z",
- "total": 154,
+ "gerado_em": "2026-10-11T07:18:02.232Z",
+ "total": 155,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1233,6 +1233,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-15.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-15.jpg",
    "duracao": 225.9
+  },
+  "/dashboard/requisicoes-autorizacoes/procedimentos": {
+   "id": "aut-02",
+   "titulo": "Procedimentos e Materiais",
+   "caminho": "Gestão de Autorizações › Requisições para Autorizações › Procedimentos e Materiais",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-02.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-02.jpg",
+   "duracao": 217.8
   }
  }
 }
