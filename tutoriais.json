@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T09:18:05.007Z",
- "total": 169,
+ "gerado_em": "2026-10-11T09:27:58.399Z",
+ "total": 170,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1353,6 +1353,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-07.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-07.jpg",
    "duracao": 201.7
+  },
+  "/dashboard/gestao-reajustes/benchmark-rpc": {
+   "id": "men-08",
+   "titulo": "Benchmark de Reajuste x Mercado (RPC)",
+   "caminho": "Gestão de Mensalidades › Gestão de Reajustes › Benchmark de Reajuste x Mercado (RPC)",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-08.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-08.jpg",
+   "duracao": 174
   }
  }
 }
