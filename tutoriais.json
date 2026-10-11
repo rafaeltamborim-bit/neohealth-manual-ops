@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T06:08:13.263Z",
- "total": 150,
+ "gerado_em": "2026-10-11T06:37:58.569Z",
+ "total": 151,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1201,6 +1201,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-03.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-03.jpg",
    "duracao": 279.1
+  },
+  "/dashboard/intercambio/a-pagar": {
+   "id": "int-04",
+   "titulo": "Intercâmbio a Pagar",
+   "caminho": "Intercâmbio › Intercâmbio a Pagar",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-04.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-04.jpg",
+   "duracao": 261.3
   }
  }
 }
