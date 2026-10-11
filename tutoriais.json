@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T10:38:04.107Z",
- "total": 184,
+ "gerado_em": "2026-10-11T10:48:02.888Z",
+ "total": 185,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1473,6 +1473,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-17.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-17.jpg",
    "duracao": 153
+  },
+  "/dashboard/gestao-agendas/detalhamento": {
+   "id": "ate-18",
+   "titulo": "Detalhamento",
+   "caminho": "Gestão de Atendimentos › Gestão de Agendas › Detalhamento",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-18.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-18.jpg",
+   "duracao": 149.8
   }
  }
 }
