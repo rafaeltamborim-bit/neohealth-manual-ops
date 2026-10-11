@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T09:48:03.168Z",
- "total": 174,
+ "gerado_em": "2026-10-11T09:57:58.560Z",
+ "total": 175,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1393,6 +1393,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/cha-03.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/cha-03.jpg",
    "duracao": 154.4
+  },
+  "/dashboard/central-chamados/indicadores": {
+   "id": "cha-04",
+   "titulo": "Indicadores",
+   "caminho": "Central de Chamados › Indicadores",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/cha-04.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/cha-04.jpg",
+   "duracao": 166.7
   }
  }
 }
