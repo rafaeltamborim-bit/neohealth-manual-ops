@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T04:28:02.825Z",
- "total": 145,
+ "gerado_em": "2026-10-11T04:38:04.058Z",
+ "total": 146,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1161,6 +1161,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-07.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-07.jpg",
    "duracao": 280.3
+  },
+  "/dashboard/governanca-corporativa/contratos-coletivos": {
+   "id": "con-08",
+   "titulo": "Anexo I — Contratos Coletivos",
+   "caminho": "Contabilidade › RN 518 › Anexo I — Contratos Coletivos",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-08.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-08.jpg",
+   "duracao": 233.9
   }
  }
 }
