@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T01:58:04.517Z",
- "total": 126,
+ "gerado_em": "2026-10-11T02:08:01.233Z",
+ "total": 128,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1009,6 +1009,22 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/fin-09.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/fin-09.jpg",
    "duracao": 236.9
+  },
+  "/dashboard/intercambio/beneficiarios": {
+   "id": "int-10",
+   "titulo": "Beneficiários e Elegibilidade",
+   "caminho": "Intercâmbio › Beneficiários e Elegibilidade",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-10.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-10.jpg",
+   "duracao": 170.5
+  },
+  "/dashboard/prestadores-profissionais/especialidades": {
+   "id": "pre-02",
+   "titulo": "Especialidades",
+   "caminho": "Prestadores x Profissionais › Especialidades",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-02.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-02.jpg",
+   "duracao": 192.5
   }
  }
 }
