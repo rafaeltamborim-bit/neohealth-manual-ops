@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-10T23:48:01.567Z",
- "total": 113,
+ "gerado_em": "2026-10-11T00:08:04.007Z",
+ "total": 115,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -905,6 +905,22 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pan-04.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pan-04.jpg",
    "duracao": 284.8
+  },
+  "/dashboard/contabilidade/ativos-garantidores": {
+   "id": "con-17",
+   "titulo": "Ativos Garantidores x Provisões",
+   "caminho": "Contabilidade › Ativos Garantidores x Provisões",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-17.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-17.jpg",
+   "duracao": 314.9
+  },
+  "/dashboard/sala-situacao-ans/ressarcimento-ciclo": {
+   "id": "pan-05",
+   "titulo": "Ressarcimento - Ciclo",
+   "caminho": "Painéis ANS › Ressarcimento - Ciclo",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pan-05.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pan-05.jpg",
+   "duracao": 231
   }
  }
 }
