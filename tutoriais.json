@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T04:08:04.895Z",
- "total": 142,
+ "gerado_em": "2026-10-11T04:17:58.198Z",
+ "total": 143,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1137,6 +1137,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-03.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-03.jpg",
    "duracao": 156.3
+  },
+  "/dashboard/contabilidade/dre-simulador": {
+   "id": "con-04",
+   "titulo": "Simulador DRE",
+   "caminho": "Contabilidade › Simulador DRE",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-04.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-04.jpg",
+   "duracao": 169.9
   }
  }
 }
