@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T08:07:58.435Z",
- "total": 162,
+ "gerado_em": "2026-10-11T08:17:58.486Z",
+ "total": 163,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1297,6 +1297,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-13.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-13.jpg",
    "duracao": 191.8
+  },
+  "/dashboard/autorizacoes/integridade-pagamento": {
+   "id": "aut-16",
+   "titulo": "Integridade do Pagamento",
+   "caminho": "Gestão de Autorizações › Integridade do Pagamento (Conta × Autorização)",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-16.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-16.jpg",
+   "duracao": 279.7
   }
  }
 }
