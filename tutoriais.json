@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T00:47:57.898Z",
- "total": 121,
+ "gerado_em": "2026-10-11T01:07:58.652Z",
+ "total": 122,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -969,6 +969,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-14.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-14.jpg",
    "duracao": 255.8
+  },
+  "/dashboard/titulos-pagar-receber": {
+   "id": "fin-01",
+   "titulo": "Visão Geral",
+   "caminho": "Gestão Financeira › Títulos a Pagar e a Receber › Visão Geral",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/fin-01.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/fin-01.jpg",
+   "duracao": 297.5
   }
  }
 }
