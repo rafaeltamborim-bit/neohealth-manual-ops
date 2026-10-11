@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T14:58:02.243Z",
- "total": 205,
+ "gerado_em": "2026-10-11T15:08:08.502Z",
+ "total": 206,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1641,6 +1641,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-06.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-06.jpg",
    "duracao": 234
+  },
+  "/dashboard/prestadores-profissionais": {
+   "id": "pre-01",
+   "titulo": "Visão Geral",
+   "caminho": "Prestadores x Profissionais › Visão Geral",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-01.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-01.jpg",
+   "duracao": 266.8
   }
  }
 }
