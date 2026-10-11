@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T12:48:01.448Z",
- "total": 196,
+ "gerado_em": "2026-10-11T12:57:58.702Z",
+ "total": 197,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1569,6 +1569,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-21.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-21.jpg",
    "duracao": 182.9
+  },
+  "/dashboard/sib-ans/conferencia-ans": {
+   "id": "ans-23",
+   "titulo": "Conferência ANS x Sistema",
+   "caminho": "Gestão Obrigações ANS › SIB ANS › Conferência ANS x Sistema",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-23.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-23.jpg",
+   "duracao": 202.6
   }
  }
 }
