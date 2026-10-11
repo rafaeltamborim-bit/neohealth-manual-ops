@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T00:28:00.260Z",
- "total": 119,
+ "gerado_em": "2026-10-11T00:37:58.115Z",
+ "total": 120,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -953,6 +953,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-10.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-10.jpg",
    "duracao": 250.6
+  },
+  "/dashboard/intercambio": {
+   "id": "int-01",
+   "titulo": "Visão Geral",
+   "caminho": "Intercâmbio › Visão Geral",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-01.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-01.jpg",
+   "duracao": 329.8
   }
  }
 }
