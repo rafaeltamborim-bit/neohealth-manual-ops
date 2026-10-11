@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T06:48:03.821Z",
- "total": 152,
+ "gerado_em": "2026-10-11T07:08:02.171Z",
+ "total": 154,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1217,6 +1217,22 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-06.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-06.jpg",
    "duracao": 272.2
+  },
+  "/dashboard/governanca-corporativa/matriz-risco": {
+   "id": "con-09",
+   "titulo": "Matriz de Risco Corporativo",
+   "caminho": "Contabilidade › RN 518 › Matriz de Risco Corporativo",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-09.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-09.jpg",
+   "duracao": 165.4
+  },
+  "/dashboard/contabilidade/resultado-operacional": {
+   "id": "con-15",
+   "titulo": "Resultado Operacional e EBITDA",
+   "caminho": "Contabilidade › Resultado Operacional e EBITDA",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-15.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-15.jpg",
+   "duracao": 225.9
   }
  }
 }
