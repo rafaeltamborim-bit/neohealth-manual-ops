@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T10:17:58.515Z",
- "total": 178,
+ "gerado_em": "2026-10-11T10:28:05.410Z",
+ "total": 181,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1425,6 +1425,30 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-02.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-02.jpg",
    "duracao": 236.8
+  },
+  "/dashboard/gestao-atendimentos/resumo-ano": {
+   "id": "ate-03",
+   "titulo": "Resumo por Ano",
+   "caminho": "Gestão de Atendimentos › Atendimentos › Resumo por Ano",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-03.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-03.jpg",
+   "duracao": 195.6
+  },
+  "/dashboard/gestao-agendas": {
+   "id": "ate-13",
+   "titulo": "Visão Geral",
+   "caminho": "Gestão de Atendimentos › Gestão de Agendas › Visão Geral",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-13.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-13.jpg",
+   "duracao": 201.4
+  },
+  "/dashboard/gestao-agendas/profissionais": {
+   "id": "ate-14",
+   "titulo": "Produtividade dos Profissionais",
+   "caminho": "Gestão de Atendimentos › Gestão de Agendas › Produtividade dos Profissionais",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-14.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ate-14.jpg",
+   "duracao": 159.5
   }
  }
 }
