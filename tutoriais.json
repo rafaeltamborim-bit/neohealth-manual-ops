@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T03:07:59.871Z",
- "total": 135,
+ "gerado_em": "2026-10-11T03:18:00.263Z",
+ "total": 136,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1081,6 +1081,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-09.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-09.jpg",
    "duracao": 188.2
+  },
+  "/dashboard/prestadores-profissionais/prazo-pagamento": {
+   "id": "pre-10",
+   "titulo": "Prazo de Pagamento ao Prestador",
+   "caminho": "Prestadores x Profissionais › Prazo de Pagamento ao Prestador",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-10.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-10.jpg",
+   "duracao": 240.8
   }
  }
 }
