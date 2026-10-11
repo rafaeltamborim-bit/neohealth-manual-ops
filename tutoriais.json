@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T09:57:58.560Z",
- "total": 175,
+ "gerado_em": "2026-10-11T10:08:09.953Z",
+ "total": 177,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1401,6 +1401,22 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/cha-04.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/cha-04.jpg",
    "duracao": 166.7
+  },
+  "/dashboard/movimentacao-beneficiarios/detalhamento": {
+   "id": "ben-19",
+   "titulo": "Detalhamento",
+   "caminho": "Gestão de Contratos e Beneficiários › Movimentação de Beneficiários › Detalhamento",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-19.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-19.jpg",
+   "duracao": 224.1
+  },
+  "/dashboard/massa-beneficiarios/selecao-risco": {
+   "id": "ben-20",
+   "titulo": "Seleção de Risco por Canal (O/E, margem e CAC)",
+   "caminho": "Gestão de Contratos e Beneficiários › Massa de Beneficiários › Seleção de Risco por Canal",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-20.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-20.jpg",
+   "duracao": 234.5
   }
  }
 }
