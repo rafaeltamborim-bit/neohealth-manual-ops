@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T00:18:03.959Z",
- "total": 117,
+ "gerado_em": "2026-10-11T00:28:00.260Z",
+ "total": 119,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -937,6 +937,22 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pan-06.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pan-06.jpg",
    "duracao": 182.3
+  },
+  "/dashboard/autorizacoes/fila": {
+   "id": "aut-09",
+   "titulo": "Fila de Análise",
+   "caminho": "Gestão de Autorizações › Fila de Análise",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-09.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-09.jpg",
+   "duracao": 278.9
+  },
+  "/dashboard/autorizacoes/auditoria-medica": {
+   "id": "aut-10",
+   "titulo": "Auditoria Médica",
+   "caminho": "Gestão de Autorizações › Auditoria Médica",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-10.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-10.jpg",
+   "duracao": 250.6
   }
  }
 }
