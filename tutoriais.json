@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-18T05:15:37.595Z",
- "total": 211,
+ "gerado_em": "2026-10-18T05:30:50.401Z",
+ "total": 214,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1689,6 +1689,30 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-07.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-07.jpg",
    "duracao": 239.9
+  },
+  "/dashboard/cockpit": {
+   "id": "coc-01",
+   "titulo": "Cockpit Executivo",
+   "caminho": "Cockpit Executivo",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/coc-01.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/coc-01.jpg",
+   "duracao": 346.5
+  },
+  "/dashboard/gestao-de-glosas/sugestao-glosas": {
+   "id": "ass-35",
+   "titulo": "Sugestão de Glosas na Rede",
+   "caminho": "Gestão de Glosas › Glosas de Contas Médicas › Sugestão de Glosas na Rede",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-35.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-35.jpg",
+   "duracao": 415.3
+  },
+  "/dashboard/informacoes-saude": {
+   "id": "sau-01",
+   "titulo": "Visão Geral",
+   "caminho": "Informações de Saúde › Visão Geral",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sau-01.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sau-01.jpg",
+   "duracao": 324.4
   }
  }
 }
