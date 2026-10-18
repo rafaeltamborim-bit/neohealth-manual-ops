@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-18T05:50:01.530Z",
- "total": 216,
+ "gerado_em": "2026-10-18T06:40:30.190Z",
+ "total": 220,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1729,6 +1729,38 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/cha-05.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/cha-05.jpg",
    "duracao": 242.4
+  },
+  "/dashboard/informacoes-saude/beneficiarios": {
+   "id": "sau-02",
+   "titulo": "Beneficiários Conectados",
+   "caminho": "Informações de Saúde › Beneficiários Conectados",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sau-02.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sau-02.jpg",
+   "duracao": 232.2
+  },
+  "/dashboard/informacoes-saude/creditos": {
+   "id": "sau-03",
+   "titulo": "Crédito de Saúde",
+   "caminho": "Informações de Saúde › Crédito de Saúde",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sau-03.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sau-03.jpg",
+   "duracao": 218.6
+  },
+  "/dashboard/informacoes-saude/conectar": {
+   "id": "sau-04",
+   "titulo": "Conectar Dispositivos",
+   "caminho": "Informações de Saúde › Conectar Dispositivos",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sau-04.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sau-04.jpg",
+   "duracao": 205.3
+  },
+  "/dashboard/informacoes-saude/modelo": {
+   "id": "sau-05",
+   "titulo": "Como é Calculado",
+   "caminho": "Informações de Saúde › Como é Calculado",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sau-05.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sau-05.jpg",
+   "duracao": 251.1
   }
  }
 }
