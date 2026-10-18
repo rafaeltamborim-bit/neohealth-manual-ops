@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-18T13:26:48.086Z",
- "total": 221,
+ "gerado_em": "2026-10-18T15:43:34.189Z",
+ "total": 222,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1769,6 +1769,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ach-01.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ach-01.jpg",
    "duracao": 493
+  },
+  "/dashboard/movimentacao-beneficiarios/migracoes": {
+   "id": "ben-21",
+   "titulo": "Migração de Beneficiários",
+   "caminho": "Gestão de Contratos e Beneficiários › Movimentação de Beneficiários › Migração de Beneficiários",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-21.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-21.jpg",
+   "duracao": 370.6
   }
  }
 }
