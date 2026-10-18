@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-18T05:44:13.887Z",
- "total": 215,
+ "gerado_em": "2026-10-18T05:50:01.530Z",
+ "total": 216,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1721,6 +1721,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-10.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-10.jpg",
    "duracao": 249.1
+  },
+  "/dashboard/central-chamados/configuracoes": {
+   "id": "cha-05",
+   "titulo": "Configurações",
+   "caminho": "Central de Chamados › Configurações",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/cha-05.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/cha-05.jpg",
+   "duracao": 242.4
   }
  }
 }
