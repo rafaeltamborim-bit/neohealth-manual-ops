@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-18T06:40:30.190Z",
- "total": 220,
+ "gerado_em": "2026-10-18T13:26:48.086Z",
+ "total": 221,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1761,6 +1761,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sau-05.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sau-05.jpg",
    "duracao": 251.1
+  },
+  "/dashboard/achados": {
+   "id": "ach-01",
+   "titulo": "Achados",
+   "caminho": "Achados",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ach-01.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ach-01.jpg",
+   "duracao": 493
   }
  }
 }
