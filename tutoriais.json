@@ -1,14 +1,14 @@
 {
- "gerado_em": "2026-10-18T04:45:50.926Z",
+ "gerado_em": "2026-10-18T05:15:37.595Z",
  "total": 211,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
-   "titulo": "Management Dashboard",
-   "caminho": "Management Dashboard",
+   "titulo": "Painel de Gestão",
+   "caminho": "Painel de Gestão",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/mgd-01.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/mgd-01.jpg",
-   "duracao": 400.7
+   "duracao": 434
   },
   "/dashboard/subscricao/evolucao-sinistralidade": {
    "id": "sin-01",
