@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-18T05:30:50.401Z",
- "total": 214,
+ "gerado_em": "2026-10-18T05:44:13.887Z",
+ "total": 215,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1713,6 +1713,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sau-01.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sau-01.jpg",
    "duracao": 324.4
+  },
+  "/dashboard/subscricao/evolucao-sinistralidade/projetado-real": {
+   "id": "sin-10",
+   "titulo": "Projetado x Real",
+   "caminho": "Evolução da Sinistralidade › Projetado x Real",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-10.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-10.jpg",
+   "duracao": 249.1
   }
  }
 }
