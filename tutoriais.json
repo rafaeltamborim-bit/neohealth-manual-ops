@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-11T16:17:59.416Z",
+ "gerado_em": "2026-10-18T04:45:50.926Z",
  "total": 211,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -1080,7 +1080,7 @@
    "caminho": "Prestadores x Profissionais › Verticalização (Rede Própria x Credenciada)",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-09.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-09.jpg",
-   "duracao": 188.2
+   "duracao": 187.3
   },
   "/dashboard/prestadores-profissionais/prazo-pagamento": {
    "id": "pre-10",
