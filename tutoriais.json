@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-18T15:43:34.189Z",
+ "gerado_em": "2026-10-19T03:02:18.949Z",
  "total": 222,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -1696,7 +1696,7 @@
    "caminho": "Cockpit Executivo",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/coc-01.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/coc-01.jpg",
-   "duracao": 346.5
+   "duracao": 490.8
   },
   "/dashboard/gestao-de-glosas/sugestao-glosas": {
    "id": "ass-35",
