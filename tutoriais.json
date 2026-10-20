@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-19T03:02:18.949Z",
+ "gerado_em": "2026-10-20T19:13:07.429Z",
  "total": 222,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -85,10 +85,10 @@
   "/dashboard/subscricao/evolucao-sinistralidade/simulador-resultado": {
    "id": "sin-09",
    "titulo": "Simulador de Resultado",
-   "caminho": "Evolução da Sinistralidade › Simulador de Resultado",
+   "caminho": "Simuladores › Simulador de Resultado",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-09.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-09.jpg",
-   "duracao": 299.3
+   "duracao": 330.1
   },
   "/dashboard/gestao-assistencial/alto-custo": {
    "id": "ass-12",
@@ -780,11 +780,11 @@
   },
   "/dashboard/mensalidades/dashboards": {
    "id": "men-09",
-   "titulo": "Dashboards",
-   "caminho": "Gestão de Mensalidades › Mensalidades › Dashboards",
+   "titulo": "Visão Geral",
+   "caminho": "Gestão de Mensalidades › Mensalidades › Visão Geral",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-09.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-09.jpg",
-   "duracao": 329.7
+   "duracao": 362.7
   },
   "/dashboard/mensalidades/por-contrato": {
    "id": "men-10",
