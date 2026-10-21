@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-21T03:21:24.585Z",
+ "gerado_em": "2026-10-21T07:43:04.319Z",
  "total": 222,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -120,7 +120,7 @@
    "caminho": "Gestão Assistencial › Risco de Subscrição › Subsídio Cruzado por Faixa Etária",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-08.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-08.jpg",
-   "duracao": 210.3
+   "duracao": 243.3
   },
   "/dashboard/subscricao/evolucao-sinistralidade/produtos": {
    "id": "sin-06",
@@ -144,7 +144,7 @@
    "caminho": "Gestão Assistencial › Risco de Subscrição › VCMH Próprio",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-09.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-09.jpg",
-   "duracao": 194.1
+   "duracao": 221.3
   },
   "/dashboard/gestao-assistencial/opme": {
    "id": "ass-29",
@@ -160,7 +160,7 @@
    "caminho": "Gestão Assistencial › Risco de Subscrição › Dispersão de Preço por Procedimento",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-10.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-10.jpg",
-   "duracao": 188.4
+   "duracao": 226.8
   },
   "/dashboard/simulador-assistencial": {
    "id": "ass-13",
