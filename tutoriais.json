@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-21T07:43:04.319Z",
+ "gerado_em": "2026-10-21T08:04:09.991Z",
  "total": 222,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -24,7 +24,7 @@
    "caminho": "Gestão Assistencial › Risco de Subscrição › Visão Geral",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-01.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-01.jpg",
-   "duracao": 284.3
+   "duracao": 332.7
   },
   "/dashboard/subscricao/frequencia-utilizacao": {
    "id": "ass-02",
@@ -32,7 +32,7 @@
    "caminho": "Gestão Assistencial › Risco de Subscrição › Frequência de Utilização",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-02.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-02.jpg",
-   "duracao": 292.1
+   "duracao": 316.5
   },
   "/dashboard/inicio": {
    "id": "ini-01",
@@ -272,7 +272,7 @@
    "caminho": "Gestão Assistencial › Risco de Subscrição › Explorador da Produção",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-03.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-03.jpg",
-   "duracao": 234.9
+   "duracao": 297.6
   },
   "/dashboard/massa-beneficiarios/municipios": {
    "id": "ben-04",
@@ -288,7 +288,7 @@
    "caminho": "Gestão Assistencial › Risco de Subscrição › Consultas e Exames",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-04.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-04.jpg",
-   "duracao": 217.2
+   "duracao": 276.2
   },
   "/dashboard/massa-beneficiarios/produtos": {
    "id": "ben-05",
