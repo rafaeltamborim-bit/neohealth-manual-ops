@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-21T09:38:10.647Z",
+ "gerado_em": "2026-10-21T09:47:56.294Z",
  "total": 222,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -56,7 +56,7 @@
    "caminho": "Gestão Assistencial › Risco de Subscrição › Ofensores Assistenciais",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-05.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-05.jpg",
-   "duracao": 275.9
+   "duracao": 340.9
   },
   "/dashboard/subscricao/evolucao-sinistralidade/previsao": {
    "id": "sin-08",
@@ -72,7 +72,7 @@
    "caminho": "Gestão Assistencial › Risco de Subscrição › Previsão da Produção",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-06.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-06.jpg",
-   "duracao": 197.5
+   "duracao": 225.8
   },
   "/dashboard/subscricao/vazamento-rede": {
    "id": "ass-07",
@@ -80,7 +80,7 @@
    "caminho": "Gestão Assistencial › Risco de Subscrição › Vazamento de Rede",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-07.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-07.jpg",
-   "duracao": 179.2
+   "duracao": 209.9
   },
   "/dashboard/subscricao/evolucao-sinistralidade/simulador-resultado": {
    "id": "sin-09",
@@ -328,7 +328,7 @@
    "caminho": "Gestão Assistencial › Produção Médica",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-14.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-14.jpg",
-   "duracao": 284.5
+   "duracao": 335.1
   },
   "/dashboard/gestao de glosas/dashboards": {
    "id": "ass-19",
