@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-21T08:04:09.991Z",
+ "gerado_em": "2026-10-21T08:17:32.330Z",
  "total": 222,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -8,7 +8,7 @@
    "caminho": "Painel de Gestão",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/mgd-01.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/mgd-01.jpg",
-   "duracao": 434
+   "duracao": 499.1
   },
   "/dashboard/subscricao/evolucao-sinistralidade": {
    "id": "sin-01",
@@ -1704,7 +1704,7 @@
    "caminho": "Gestão de Glosas › Glosas de Contas Médicas › Sugestão de Glosas na Rede",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-35.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-35.jpg",
-   "duracao": 415.3
+   "duracao": 689
   },
   "/dashboard/informacoes-saude": {
    "id": "sau-01",
