@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-20T19:13:07.429Z",
+ "gerado_em": "2026-10-21T03:21:24.585Z",
  "total": 222,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -16,7 +16,7 @@
    "caminho": "Evolução da Sinistralidade › Visão Geral",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-01.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-01.jpg",
-   "duracao": 308.8
+   "duracao": 342.6
   },
   "/dashboard/subscricao": {
    "id": "ass-01",
@@ -165,10 +165,10 @@
   "/dashboard/simulador-assistencial": {
    "id": "ass-13",
    "titulo": "Simulador Assistencial",
-   "caminho": "Gestão Assistencial › Simulador Assistencial",
+   "caminho": "Simuladores › Simulador Assistencial",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-13.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-13.jpg",
-   "duracao": 311.4
+   "duracao": 341.6
   },
   "/dashboard/subscricao/evolucao-sinistralidade/tipo-contratacao": {
    "id": "sin-02",
@@ -829,10 +829,10 @@
   "/dashboard/mensalidades/simulador-reajuste": {
    "id": "men-15",
    "titulo": "Simulador de Reajuste",
-   "caminho": "Gestão de Mensalidades › Mensalidades › Simulador de Reajuste",
+   "caminho": "Simuladores › Simulador de Reajuste",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-15.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/men-15.jpg",
-   "duracao": 231.5
+   "duracao": 263.9
   },
   "/dashboard/governanca-corporativa/acreditacao-rn507": {
    "id": "con-11",
@@ -1141,10 +1141,10 @@
   "/dashboard/contabilidade/dre-simulador": {
    "id": "con-04",
    "titulo": "Simulador DRE",
-   "caminho": "Contabilidade › Simulador DRE",
+   "caminho": "Simuladores › Simulador DRE",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-04.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-04.jpg",
-   "duracao": 169.9
+   "duracao": 218.3
   },
   "/dashboard/contabilidade/peona": {
    "id": "con-05",
