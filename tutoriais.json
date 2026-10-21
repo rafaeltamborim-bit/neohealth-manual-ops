@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-21T08:17:32.330Z",
+ "gerado_em": "2026-10-21T09:38:10.647Z",
  "total": 222,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -16,7 +16,7 @@
    "caminho": "Evolução da Sinistralidade › Visão Geral",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-01.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-01.jpg",
-   "duracao": 342.6
+   "duracao": 431.1
   },
   "/dashboard/subscricao": {
    "id": "ass-01",
@@ -176,7 +176,7 @@
    "caminho": "Evolução da Sinistralidade › Tipo de Contratação",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-02.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/sin-02.jpg",
-   "duracao": 225.3
+   "duracao": 321.4
   },
   "/dashboard/massa-beneficiarios": {
    "id": "ben-01",
@@ -416,7 +416,7 @@
    "caminho": "Gestão de Contratos e Beneficiários › Movimentação de Beneficiários › Visão Geral",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-12.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-12.jpg",
-   "duracao": 298.1
+   "duracao": 362.4
   },
   "/dashboard/gestao-rn-623/detalhamento": {
    "id": "ate-08",
@@ -496,7 +496,7 @@
    "caminho": "Gestão de Contratos e Beneficiários › Movimentação de Beneficiários › Motivos de Entrada e Saída",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-13.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-13.jpg",
-   "duracao": 168.8
+   "duracao": 242.4
   },
   "/dashboard/movimentacao-beneficiarios/contratos": {
    "id": "ben-14",
