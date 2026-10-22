@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-21T09:47:56.294Z",
- "total": 222,
+ "gerado_em": "2026-10-22T21:51:08.956Z",
+ "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1777,6 +1777,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-21.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-21.jpg",
    "duracao": 370.6
+  },
+  "/admin/sso": {
+   "id": "adm-01",
+   "titulo": "Login Corporativo (SSO)",
+   "caminho": "Administração › Login Corporativo (SSO)",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/adm-01.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/adm-01.jpg",
+   "duracao": 596.9
   }
  }
 }
