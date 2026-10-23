@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T13:35:42.505Z",
+ "gerado_em": "2026-10-23T13:51:32.537Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -1120,7 +1120,7 @@
    "caminho": "Contabilidade › Balancete",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-01.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-01.jpg",
-   "duracao": 182.3
+   "duracao": 181.9
   },
   "/dashboard/contabilidade/dre": {
    "id": "con-02",
