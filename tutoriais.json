@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T18:33:01.588Z",
+ "gerado_em": "2026-10-23T18:57:52.591Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -1032,7 +1032,7 @@
    "caminho": "Prestadores x Profissionais › Rede e Contratação",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-03.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-03.jpg",
-   "duracao": 263.2
+   "duracao": 262.8
   },
   "/dashboard/prestadores-profissionais/cobertura": {
    "id": "pre-04",
