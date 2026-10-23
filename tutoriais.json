@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T10:15:21.936Z",
+ "gerado_em": "2026-10-23T10:30:06.040Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -744,7 +744,7 @@
    "caminho": "Gestão Obrigações ANS › Monitoramento TISS › Urgência e Emergência (IDSS 2.3)",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-33.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-33.jpg",
-   "duracao": 268.6
+   "duracao": 268.1
   },
   "/dashboard/gestao-reajustes": {
    "id": "men-01",
