@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T06:59:57.306Z",
+ "gerado_em": "2026-10-23T07:45:31.240Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -688,7 +688,7 @@
    "caminho": "Gestão Obrigações ANS › Monitoramento TISS › Lotes e Arquivos",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-25.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-25.jpg",
-   "duracao": 232
+   "duracao": 231.7
   },
   "/dashboard/monitoramento-tiss/retorno-ans": {
    "id": "ans-26",
