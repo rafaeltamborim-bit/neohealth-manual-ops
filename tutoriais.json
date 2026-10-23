@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T14:12:03.953Z",
+ "gerado_em": "2026-10-23T15:03:01.589Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -1152,7 +1152,7 @@
    "caminho": "Contabilidade › PEONA",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-05.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-05.jpg",
-   "duracao": 289.6
+   "duracao": 289.1
   },
   "/dashboard/governanca-corporativa/risco-subscricao": {
    "id": "con-07",
