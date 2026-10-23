@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T05:14:02.353Z",
+ "gerado_em": "2026-10-23T05:35:18.292Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -336,7 +336,7 @@
    "caminho": "Gestão Assistencial › Gestão de Glosas › Dashboards",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-19.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-19.jpg",
-   "duracao": 143.1
+   "duracao": 142.4
   },
   "/dashboard/gestao de glosas/por prestador": {
    "id": "ass-16",
