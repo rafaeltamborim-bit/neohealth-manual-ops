@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T09:35:26.306Z",
+ "gerado_em": "2026-10-23T09:45:19.493Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -728,7 +728,7 @@
    "caminho": "Gestão Obrigações ANS › Monitoramento TISS › Inconsistências",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-30.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-30.jpg",
-   "duracao": 176.5
+   "duracao": 176.4
   },
   "/dashboard/monitoramento-tiss/producao": {
    "id": "ans-31",
