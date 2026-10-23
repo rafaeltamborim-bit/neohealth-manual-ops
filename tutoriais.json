@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T12:34:20.799Z",
+ "gerado_em": "2026-10-23T12:46:38.838Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -1400,7 +1400,7 @@
    "caminho": "Central de Chamados › Indicadores",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/cha-04.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/cha-04.jpg",
-   "duracao": 166.7
+   "duracao": 166
   },
   "/dashboard/movimentacao-beneficiarios/detalhamento": {
    "id": "ben-19",
