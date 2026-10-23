@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T05:35:18.292Z",
+ "gerado_em": "2026-10-23T05:43:30.074Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -576,7 +576,7 @@
    "caminho": "Gestão Obrigações ANS › Gestão de IDSS › Comparativo — Calculado × ANS",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-05.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-05.jpg",
-   "duracao": 245
+   "duracao": 244.5
   },
   "/dashboard/gestao-idss/plano-acao": {
    "id": "ans-06",
