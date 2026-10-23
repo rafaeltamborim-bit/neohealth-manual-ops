@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-22T21:51:08.956Z",
+ "gerado_em": "2026-10-23T00:47:21.039Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -552,7 +552,7 @@
    "caminho": "Gestão Obrigações ANS › Sala de Situação ANS › Ressarcimento — IEP e GRUs",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-18.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-18.jpg",
-   "duracao": 223.3
+   "duracao": 222.9
   },
   "/dashboard/gestao-idss": {
    "id": "ans-03",
