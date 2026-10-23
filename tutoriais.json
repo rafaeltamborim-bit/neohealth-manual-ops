@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T08:51:56.950Z",
+ "gerado_em": "2026-10-23T09:15:34.570Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -720,7 +720,7 @@
    "caminho": "Gestão Obrigações ANS › Monitoramento TISS › Crítica de Pré-envio e CBO",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-29.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-29.jpg",
-   "duracao": 264.5
+   "duracao": 264.2
   },
   "/dashboard/monitoramento-tiss/inconsistencias": {
    "id": "ans-30",
