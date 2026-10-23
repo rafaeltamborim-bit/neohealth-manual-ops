@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T11:54:59.024Z",
+ "gerado_em": "2026-10-23T12:04:26.467Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -1416,7 +1416,7 @@
    "caminho": "Gestão de Contratos e Beneficiários › Massa de Beneficiários › Seleção de Risco por Canal",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-20.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-20.jpg",
-   "duracao": 234.5
+   "duracao": 234
   },
   "/dashboard/gestao-atendimentos/beneficiarios": {
    "id": "ate-02",
