@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T10:59:18.496Z",
+ "gerado_em": "2026-10-23T10:59:23.742Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -1392,7 +1392,7 @@
    "caminho": "Central de Chamados › Fila de Atendimento",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/cha-03.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/cha-03.jpg",
-   "duracao": 154.4
+   "duracao": 153.9
   },
   "/dashboard/central-chamados/indicadores": {
    "id": "cha-04",
@@ -1600,7 +1600,7 @@
    "caminho": "Gestão de Autorizações › Negativas de Cobertura por Motivo",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-15.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-15.jpg",
-   "duracao": 280.7
+   "duracao": 281.2
   },
   "/dashboard/titulos-pagar-receber/a-pagar": {
    "id": "fin-03",
