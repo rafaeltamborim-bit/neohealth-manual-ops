@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T08:10:45.396Z",
+ "gerado_em": "2026-10-23T08:30:01.311Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -696,7 +696,7 @@
    "caminho": "Gestão Obrigações ANS › Monitoramento TISS › Retorno da ANS",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-26.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-26.jpg",
-   "duracao": 203.1
+   "duracao": 202.8
   },
   "/dashboard/monitoramento-tiss/pendencias": {
    "id": "ans-27",
