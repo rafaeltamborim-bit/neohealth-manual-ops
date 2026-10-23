@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T04:34:41.931Z",
+ "gerado_em": "2026-10-23T05:13:00.136Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -1624,7 +1624,7 @@
    "caminho": "Gestão Financeira › Títulos a Pagar e a Receber › Vencimentos e Inadimplência",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/fin-04.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/fin-04.jpg",
-   "duracao": 212.5
+   "duracao": 212.9
   },
   "/dashboard/titulos-pagar-receber/detalhamento": {
    "id": "fin-05",
