@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T13:51:32.537Z",
+ "gerado_em": "2026-10-23T14:12:03.953Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -1128,7 +1128,7 @@
    "caminho": "Contabilidade › Demonstrativo (DRE)",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-02.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-02.jpg",
-   "duracao": 195.1
+   "duracao": 195
   },
   "/dashboard/contabilidade/dre-previsao": {
    "id": "con-03",
