@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T18:57:52.591Z",
+ "gerado_em": "2026-10-23T19:21:53.312Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -1064,7 +1064,7 @@
    "caminho": "Prestadores x Profissionais › Painel de Monitoramento da Qualidade Hospitalar",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-07.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-07.jpg",
-   "duracao": 247.6
+   "duracao": 247.2
   },
   "/dashboard/prestadores-profissionais/rotatividade": {
    "id": "pre-08",
