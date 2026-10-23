@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T09:15:34.570Z",
+ "gerado_em": "2026-10-23T09:35:26.306Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -952,7 +952,7 @@
    "caminho": "Gestão de Autorizações › Auditoria Médica",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-10.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-10.jpg",
-   "duracao": 250.6
+   "duracao": 250.3
   },
   "/dashboard/intercambio": {
    "id": "int-01",
