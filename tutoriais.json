@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T08:30:01.311Z",
+ "gerado_em": "2026-10-23T08:51:56.950Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -944,7 +944,7 @@
    "caminho": "Gestão de Autorizações › Fila de Análise",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-09.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-09.jpg",
-   "duracao": 278.9
+   "duracao": 278.6
   },
   "/dashboard/autorizacoes/auditoria-medica": {
    "id": "aut-10",
