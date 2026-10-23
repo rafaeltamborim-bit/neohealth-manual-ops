@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T07:45:31.240Z",
+ "gerado_em": "2026-10-23T08:10:45.396Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -1704,7 +1704,7 @@
    "caminho": "Gestão de Glosas › Glosas de Contas Médicas › Sugestão de Glosas na Rede",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-35.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-35.jpg",
-   "duracao": 689
+   "duracao": 688.9
   },
   "/dashboard/informacoes-saude": {
    "id": "sau-01",
