@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T12:27:45.942Z",
+ "gerado_em": "2026-10-23T12:34:20.799Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -1648,7 +1648,7 @@
    "caminho": "Prestadores x Profissionais › Visão Geral",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-01.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-01.jpg",
-   "duracao": 266.8
+   "duracao": 266.3
   },
   "/dashboard/intercambio/glosas": {
    "id": "int-07",
