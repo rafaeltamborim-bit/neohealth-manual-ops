@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T16:34:12.533Z",
+ "gerado_em": "2026-10-23T17:07:50.011Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -912,7 +912,7 @@
    "caminho": "Contabilidade › Ativos Garantidores x Provisões",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-17.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-17.jpg",
-   "duracao": 314.9
+   "duracao": 314.6
   },
   "/dashboard/sala-situacao-ans/ressarcimento-ciclo": {
    "id": "pan-05",
