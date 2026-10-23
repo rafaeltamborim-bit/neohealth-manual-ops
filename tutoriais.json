@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T05:43:30.074Z",
+ "gerado_em": "2026-10-23T06:13:57.225Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -1592,7 +1592,7 @@
    "caminho": "Gestão Obrigações ANS › Gestão de IDSS › Configurações",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-12.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ans-12.jpg",
-   "duracao": 213
+   "duracao": 212.9
   },
   "/dashboard/autorizacoes/negativas": {
    "id": "aut-15",
