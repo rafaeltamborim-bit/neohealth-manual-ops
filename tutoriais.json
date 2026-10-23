@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T10:59:23.742Z",
+ "gerado_em": "2026-10-23T11:28:02.748Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -208,7 +208,7 @@
    "caminho": "Gestão de Contratos e Beneficiários › Massa de Beneficiários › Sobrevivência e LTV das Coortes",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-09.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ben-09.jpg",
-   "duracao": 201.4
+   "duracao": 201.3
   },
   "/dashboard/gestao-assistencial/oncologia": {
    "id": "ass-30",
