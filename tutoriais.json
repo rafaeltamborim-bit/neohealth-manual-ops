@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T12:04:26.467Z",
+ "gerado_em": "2026-10-23T12:27:45.942Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -1384,7 +1384,7 @@
    "caminho": "Central de Chamados › Dashboard",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/cha-01.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/cha-01.jpg",
-   "duracao": 181.8
+   "duracao": 180.9
   },
   "/dashboard/central-chamados/fila": {
    "id": "cha-03",
