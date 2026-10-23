@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T11:28:02.748Z",
+ "gerado_em": "2026-10-23T11:30:19.080Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -1664,7 +1664,7 @@
    "caminho": "Intercâmbio › Movimentação PTU (A100 a A1350)",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-08.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/int-08.jpg",
-   "duracao": 200.6
+   "duracao": 200.2
   },
   "/dashboard/autorizacoes/prazos": {
    "id": "aut-12",
