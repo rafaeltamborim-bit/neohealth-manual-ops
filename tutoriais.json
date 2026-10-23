@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T06:20:46.662Z",
+ "gerado_em": "2026-10-23T06:31:17.697Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -1560,7 +1560,7 @@
    "caminho": "Gestão Assistencial › Atenção Domiciliar (Home Care)",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-34.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-34.jpg",
-   "duracao": 225
+   "duracao": 224.3
   },
   "/dashboard/sib-ans/movimentacoes": {
    "id": "ans-21",
