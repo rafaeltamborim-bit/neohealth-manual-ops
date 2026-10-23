@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T06:13:57.225Z",
+ "gerado_em": "2026-10-23T06:20:46.662Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -1088,7 +1088,7 @@
    "caminho": "Prestadores x Profissionais › Prazo de Pagamento ao Prestador",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-10.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/pre-10.jpg",
-   "duracao": 240.8
+   "duracao": 241.4
   },
   "/dashboard/prestadores-profissionais/reajuste-efetivo": {
    "id": "pre-11",
