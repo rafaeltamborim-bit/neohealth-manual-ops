@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T05:13:00.136Z",
+ "gerado_em": "2026-10-23T05:14:02.353Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -344,7 +344,7 @@
    "caminho": "Gestão Assistencial › Gestão de Glosas › Por Prestador",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-16.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-16.jpg",
-   "duracao": 184.1
+   "duracao": 183.6
   },
   "/dashboard/gestao-atendimentos": {
    "id": "ate-01",
