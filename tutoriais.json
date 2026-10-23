@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T00:47:21.039Z",
+ "gerado_em": "2026-10-23T03:42:17.026Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -32,7 +32,7 @@
    "caminho": "Gestão Assistencial › Risco de Subscrição › Frequência de Utilização",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-02.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-02.jpg",
-   "duracao": 316.5
+   "duracao": 316.6
   },
   "/dashboard/inicio": {
    "id": "ini-01",
