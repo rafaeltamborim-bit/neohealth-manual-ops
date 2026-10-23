@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T03:42:17.026Z",
+ "gerado_em": "2026-10-23T04:18:52.526Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -1784,7 +1784,7 @@
    "caminho": "Administração › Login Corporativo (SSO)",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/adm-01.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/adm-01.jpg",
-   "duracao": 596.9
+   "duracao": 635.9
   }
  }
 }
