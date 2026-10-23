@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T09:45:19.493Z",
+ "gerado_em": "2026-10-23T10:15:21.936Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -1616,7 +1616,7 @@
    "caminho": "Gestão de Autorizações › Uso fora Padrão",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-11.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/aut-11.jpg",
-   "duracao": 245.4
+   "duracao": 245.1
   },
   "/dashboard/titulos-pagar-receber/vencimentos": {
    "id": "fin-04",
