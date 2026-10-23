@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T17:07:50.011Z",
+ "gerado_em": "2026-10-23T17:25:52.495Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -1632,7 +1632,7 @@
    "caminho": "Gestão Financeira › Títulos a Pagar e a Receber › Detalhamento",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/fin-05.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/fin-05.jpg",
-   "duracao": 192
+   "duracao": 191.9
   },
   "/dashboard/governanca-corporativa/anexo-iv": {
    "id": "con-06",
