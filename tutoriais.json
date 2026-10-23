@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T04:23:53.866Z",
+ "gerado_em": "2026-10-23T04:34:41.931Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -1768,7 +1768,7 @@
    "caminho": "Achados",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ach-01.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ach-01.jpg",
-   "duracao": 493
+   "duracao": 493.5
   },
   "/dashboard/movimentacao-beneficiarios/migracoes": {
    "id": "ben-21",
