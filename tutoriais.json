@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T04:18:52.526Z",
+ "gerado_em": "2026-10-23T04:23:53.866Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -328,7 +328,7 @@
    "caminho": "Gestão Assistencial › Produção Médica",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-14.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/ass-14.jpg",
-   "duracao": 335.1
+   "duracao": 335.2
   },
   "/dashboard/gestao de glosas/dashboards": {
    "id": "ass-19",
