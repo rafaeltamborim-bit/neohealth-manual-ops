@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T15:31:23.994Z",
+ "gerado_em": "2026-10-23T15:53:27.823Z",
  "total": 223,
  "tutoriais": {
   "/dashboard/management-dashboard": {
@@ -840,7 +840,7 @@
    "caminho": "Contabilidade › RN 518 › Prontidão para Acreditação (RN 507)",
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-11.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/con-11.jpg",
-   "duracao": 258.8
+   "duracao": 258.4
   },
   "/dashboard/governanca-corporativa/algoritmos": {
    "id": "con-10",
