@@ -1,7 +1,7 @@
 ---
 titulo_seo: "Gestão de prestadores em operadoras de saúde: guia"
 meta_description: "Como operadoras podem acompanhar rede, custo, qualidade, cobertura e prazo de pagamento de prestadores com dados integrados. Guia prático."
-slug: gestao-prestadores-operadoras
+slug: 09-gestao-prestadores-operadoras
 palavra_chave_principal: "gestão de prestadores operadoras"
 palavras_chave_secundarias:
   - "gestão de rede credenciada"

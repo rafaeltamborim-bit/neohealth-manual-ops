@@ -160,6 +160,6 @@ Se a sua operadora quer enxergar glosas por prestador, procedimento, beneficiár
 
 **Funcionalidades citadas e status:** Gestão de Glosas (Por Prestador, Por Procedimento, Por Beneficiário, Dashboards, Outliers) [DISPONÍVEL]; Sugestão de Glosas na Rede [DISPONÍVEL; método: A CONFIRMAR]; Glosas em Autorizações e Intercâmbio (A550) [DISPONÍVEL]; Glosa × Painel ANS [DISPONÍVEL]; integração Oracle/Tasy [DISPONÍVEL].
 
-**Nota de imagens:** capa real sugerida `ass-35.jpg` ou `ass-19`-equivalente disponível em assets_reais, com a nota "Imagem da plataforma com dados fictícios (base de demonstração)".
+**Nota de imagens:** capa real sugerida `ass-35.jpg`, com a nota "Imagem da plataforma com dados fictícios (base de demonstração)".
 
 **LGPD / comunicação:** consentimento explícito e opt-out no formulário; sem dados pessoais de saúde.

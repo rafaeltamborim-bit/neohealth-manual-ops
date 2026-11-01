@@ -76,7 +76,7 @@ Casos de alto custo (oncologia, doenças raras, transplantes, internações prol
 - **Gestão de caso:** existência de acompanhamento, plano terapêutico e desfechos.
 - **Impacto por contrato:** em contratos pequenos, um único caso pode mudar completamente a sinistralidade.
 
-A telas de "Alto Custo e Gestão de Caso" e "Estratificação de Risco" da NeoHealth BI · OPS refletem essa lógica [DISPONÍVEL, conforme inventário; dados fictícios nos tutoriais]. Qualquer análise nominal de beneficiários deve respeitar a LGPD e o sigilo profissional: acesso restrito, finalidade definida e, quando aplicável, base legal adequada [VERIFICAR NA FONTE a Lei 13.709/2018].
+As telas de "Alto Custo e Gestão de Caso" e "Estratificação de Risco" da NeoHealth BI · OPS refletem essa lógica [DISPONÍVEL, conforme inventário; dados fictícios nos tutoriais]. Qualquer análise nominal de beneficiários deve respeitar a LGPD e o sigilo profissional: acesso restrito, finalidade definida e, quando aplicável, base legal adequada [VERIFICAR NA FONTE a Lei 13.709/2018].
 
 ## 5. Estratificação de risco
 

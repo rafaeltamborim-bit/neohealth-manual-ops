@@ -1,6 +1,6 @@
 ---
 titulo_seo: "Indicadores fundamentais para operadoras de planos de saúde"
-meta_description: "Conheça os principais indicadores para operadoras: financeiros, sinistralidade, assistenciais, carteira e regulatórios, com como definir e acompanhar cada um."
+meta_description: "Conheça os principais indicadores para operadoras: financeiros, sinistralidade, assistenciais, carteira e regulatórios, e como acompanhar cada um."
 slug: indicadores-fundamentais-operadoras
 palavra_chave_principal: "indicadores para operadoras de saúde"
 palavras_chave_secundarias:

@@ -1,7 +1,7 @@
 ---
 titulo_seo: "RN 518 da ANS: governança e controles em operadoras"
 meta_description: "Entenda a RN 518 da ANS, o que ela organiza em governança, controles internos e gestão de riscos, e como dados apoiam a rotina de conformidade."
-slug: rn-518-governanca-operadoras
+slug: 07-rn-518-governanca-operadoras
 palavra_chave_principal: "RN 518 ANS"
 palavras_chave_secundarias:
   - "governança corporativa operadoras de planos de saúde"

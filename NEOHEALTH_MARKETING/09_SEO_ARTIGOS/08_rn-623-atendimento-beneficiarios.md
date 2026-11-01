@@ -1,7 +1,7 @@
 ---
 titulo_seo: "RN 623 da ANS: atendimento ao beneficiário e prazos"
 meta_description: "Guia sobre a RN 623 da ANS: o que muda no atendimento ao beneficiário, como monitorar prazos, canais e NIPs com dados e quais pontos verificar na fonte."
-slug: rn-623-atendimento-beneficiarios
+slug: 08-rn-623-atendimento-beneficiarios
 palavra_chave_principal: "RN 623 ANS"
 palavras_chave_secundarias:
   - "RN 623 atendimento ao beneficiário"
