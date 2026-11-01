@@ -26,3 +26,9 @@ Mudanças: sem "BI para Tasy" (Tasy virou só palavra-chave de cauda), copy de i
 - Callouts "Instalação on-premise" e "Auditoria e acesso" estão disponíveis conforme a ficha; manter só se o proprietário quiser divulgar.
 - Hospitais: copy genérica (inteligência de dados e decisão, qualquer ERP) porque módulos hospitalares ainda não foram confirmados.
 - Documentos antigos desta pasta (`ESTRATEGIA_LANCES_ORCAMENTO.md`, `PESQUISA_INTENCAO_SERP.md`, `PLANO_MEDICAO_CONVERSOES.md`) foram escritos antes do reposicionamento: valores e nomes de campanha estão defasados.
+
+## Importação em um único arquivo (atualização)
+`csv_editor/IMPORTACAO_UNICA.csv` reúne campanhas, grupos, palavras, negativas, anúncios, sitelinks, callouts e snippets das 4 campanhas prontas (todas Paused, orçamentos numéricos). Dois jeitos:
+- **Google Ads Editor:** Conta > Importar > Do arquivo (ou Colar texto) > escolher esse arquivo > Processar > Revisar > Publicar.
+- **Sem o Editor, pelo navegador:** Google Ads > Ferramentas > Ações em massa > Uploads > Novo upload > Procurar arquivo > Visualizar > Aplicar. (Não testado nesta conta: se reclamar de colunas, use o Editor.)
+Fase 2 (sinistralidade e ANS) está em `csv_editor/fase2/` e não deve ser importada agora.
