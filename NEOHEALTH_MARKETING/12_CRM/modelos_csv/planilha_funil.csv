@@ -1,0 +1,9 @@
+etapa_funil,definicao,entradas_periodo,saidas_para_proxima,taxa_conversao_pct,sla_proposto,tempo_medio_dias,meta_periodo,observacao
+ATRACAO,Visitas com intencao (sessoes qualificadas),,,,,,[A DEFINIR],fonte: GA4
+INTERESSE,Visitantes recorrentes / inicio de formulario,,,,,,[A DEFINIR],fonte: GA4
+CONVERSAO,Leads com consentimento,,,,Registro em 5 min,,[A DEFINIR],fonte: CRM
+QUALIFICACAO,MQL -> SQL,,,,1 dia util (A: 4h),,[A DEFINIR],fonte: CRM
+DEMONSTRACAO,Demos realizadas,,,,Agendar em 5 dias uteis,,[A DEFINIR],fonte: CRM
+PROPOSTA,Propostas enviadas,,,,5 dias uteis apos escopo,,[A DEFINIR],fonte: CRM
+CONTRATACAO,Negocios ganhos,,,,,,[A DEFINIR],fonte: CRM
+TOTAL,Taxa visita->ganho (calcular),,,,,,,preencher com dados reais; formulas na ferramenta

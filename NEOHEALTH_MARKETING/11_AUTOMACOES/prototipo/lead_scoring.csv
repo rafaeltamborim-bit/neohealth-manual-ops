@@ -7,7 +7,7 @@ tipo_operadora,Odontológica,12,25,Aderência parcial dos módulos [A CONFIRMAR]
 tipo_operadora,Filantropia,18,25,
 tipo_operadora,Outro,5,25,
 tipo_operadora,Nao sou operadora,0,25,Descarte salvo consultoria/parceiro (tratar à parte)
-porte,Faixa 1 (menor),4,10,Faixas [A DEFINIR]
+porte,Faixa 1,4,10,Faixas [A DEFINIR]
 porte,Faixa 2,7,10,
 porte,Faixa 3,10,10,
 porte,Nao informado,3,10,

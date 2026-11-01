@@ -38,7 +38,7 @@ body{{font-family:{FONT};color:#fff;-webkit-font-smoothing:antialiased}}
  left:calc(var(--iw)*var(--rx)/-1920 + (100cqw - var(--iw)*var(--rw)/1920)/2);
  top:calc(var(--iw)*9/16*var(--ry)/-1080 + (100cqh - var(--iw)*9/16*var(--rh)/1080)/2)}}
 .logo{{border:0;box-shadow:none;border-radius:0;background:transparent}}
-.logo img{{mix-blend-mode:screen}}
+.logo img{{mix-blend-mode:lighten;filter:brightness(.85) contrast(1.35)}}
 .card{{border:1.5px solid rgba(95,190,236,.35);background:rgba(15,23,42,.8);border-radius:18px}}
 .num{{display:inline-flex;align-items:center;justify-content:center;border:1.5px solid rgba(169,239,229,.6);color:#A9EFE5;border-radius:12px;font-weight:700}}
 """
@@ -55,7 +55,7 @@ def shot(asset, style="", reg=REG, cls=""):
 def logo(h):
     w = h * 400 / 70
     return shot("ini-01", f"width:{w:.0f}px;height:{h:.0f}px;flex:none", (130, 145, 400, 70), "logo")
-def fs_fit(text, W, H, cap, fill=.62, k=.58):
+def fs_fit(text, W, H, cap, fill=.8, k=.58):
     return max(10, min(cap, math.sqrt(fill * W * H / (max(len(text), 1) * k))))
 def hl(text, fs, extra=""):
     return f'<div class="h" style="font-size:{fs:.0f}px;{extra}">{text}</div>'
@@ -85,12 +85,12 @@ def row(p):
 def col(p):
     w, h = p["w"], p["h"]; pad = w * (.07 if w > 500 else .08)
     story = p.get("story")
-    top = 200 if story else 0; bot = 230 if story else 0
+    top = 150 if story else 0; bot = 200 if story else 0
     share = p.get("share", .33)
     lh = max(18, w * .05 if w > 500 else 22)
     ht = p["h1"]; sb = p.get("sub", "")
     HW = w - 2*pad; HH = (h - top - bot) * share
-    fs = fs_fit(ht, HW, HH, w * .1)
+    fs = fs_fit(ht, HW, HH, w * (.075 if story else .1))
     bs = max(12, min(w * .04, 34)) if w > 500 else 13
     s = f'<div style="padding-top:{top}px"></div>'
     body = f'<div style="display:flex;flex-direction:column;width:100%;height:100%;padding:{pad:.0f}px {pad:.0f}px {pad*.6:.0f}px">{s}'
@@ -209,7 +209,7 @@ for i, (t, tag, a, r) in enumerate([
     add(id=f"THB-{i:02d}", cat=T, fmt="Thumbnail YouTube", w=1280, h=720, layout="thumb", h1=t, tag=tag, asset=a, cta="", canal=f"YouTube (roteiro {r:02d})", fn="Integração Oracle/Tasy: informado pelo proprietário [A CONFIRMAR detalhes]." if r == 8 else FN)
 # Stories
 S = "stories"
-st = [("Sua operadora sabe onde estão os riscos?", P["fin"], "con-02"), ("Não espere o fechamento do mês", P["sin"], "sin-01"),
+st = [("Riscos e oportunidades financeiras", P["fin"], "con-02"), ("Não espere o fechamento do mês", P["sin"], "sin-01"),
  ("Utilização que impacta o resultado", P["ass"], "ass-11"), ("Visibilidade regulatória", P["reg"], "ans-13"),
  ("Vá além do histórico", P["pre"], "sin-08"), ("Transforme dados em decisões.", "Decisões em resultados.", "coc-01"),
  ("Cockpit Executivo", "A visão da diretoria em uma tela.", "coc-01"), ("Sala de Situação ANS", "Indicadores, obrigações e riscos reunidos.", "ans-13"),

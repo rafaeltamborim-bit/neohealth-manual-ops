@@ -1,0 +1,44 @@
+{
+  "_aviso": "Definição GENÉRICA e ilustrativa. Não é um export de nenhuma ferramenta específica; adapte a n8n/Make/HubSpot/RD/Apps Script. Nenhum endpoint real configurado. NÃO ATIVAR sem aprovação.",
+  "name": "neohealth-lead-to-opportunity",
+  "version": "0.1.0",
+  "enabled": false,
+  "trigger": {
+    "type": "webhook",
+    "method": "POST",
+    "path": "/lead-capture",
+    "auth": { "type": "shared_secret_header", "header": "X-NeoHealth-Signature", "secret_ref": "ENV:WEBHOOK_SECRET" }
+  },
+  "steps": [
+    { "id": "validate", "type": "validate", "rules": [
+      { "field": "email", "rule": "email" },
+      { "field": "consentimento_contato", "rule": "equals", "value": true },
+      { "field": "honeypot", "rule": "empty" }
+    ], "on_fail": "drop_and_log" },
+    { "id": "dedupe", "type": "crm.find_contact", "key": "email_lowercase", "on_found": "update", "on_not_found": "create" },
+    { "id": "upsert_contact", "type": "crm.upsert", "object": "contact", "map": {
+      "email": "{{email}}", "firstname": "{{nome}}", "phone": "{{telefone}}", "cargo": "{{cargo}}",
+      "consentimento_contato": "{{consentimento_contato}}", "consentimento_marketing": "{{consentimento_marketing}}",
+      "consentimento_data_hora": "{{timestamp_utc}}", "consentimento_texto_versao": "{{versao_texto_consentimento}}",
+      "utm_source": "{{utm_source}}", "utm_medium": "{{utm_medium}}", "utm_campaign": "{{utm_campaign}}",
+      "utm_content": "{{utm_content}}", "utm_term": "{{utm_term}}", "origem_pagina": "{{pagina_origem}}", "form_id": "{{form_id}}"
+    }},
+    { "id": "upsert_company", "type": "crm.upsert", "object": "company", "match": "domain_from_email", "map": {
+      "name": "{{empresa}}", "tipo_operadora": "{{tipo_operadora}}", "porte_beneficiarios": "{{porte}}", "erp_utilizado": "{{erp}}" } },
+    { "id": "score", "type": "function", "ref": "scoring_csv", "source": "10_LEAD_GENERATION/12_lead_scoring.csv", "output": ["score", "classe"] },
+    { "id": "route", "type": "switch", "on": "classe", "cases": {
+      "A": ["notify_sales_4h", "create_call_task", "send_scheduling_link"],
+      "B": ["notify_sales_1d", "send_scheduling_link"],
+      "C": ["add_to_nurture_sequence"],
+      "Descarte": ["mark_discarded_with_reason"] } },
+    { "id": "followup", "type": "wait_and_check", "if_no_booking_after_days": 3, "then": "start_cadence_A" },
+    { "id": "opportunity", "type": "on_event", "event": "demo_completed", "then": "crm.create_deal", "stage": "DEMONSTRACAO" }
+  ],
+  "guards": {
+    "send_requires_consent": true,
+    "dry_run_default": true,
+    "no_external_enrichment": true,
+    "max_messages_per_contact_per_week": 1
+  },
+  "errors": { "retries": 3, "backoff_seconds": [30, 120, 600], "dead_letter": "error_queue", "alert": "internal_channel" }
+}
