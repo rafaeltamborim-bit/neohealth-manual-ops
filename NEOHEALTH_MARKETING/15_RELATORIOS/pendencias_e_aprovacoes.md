@@ -34,7 +34,7 @@ Detalhes por pasta: arquivos `PENDENCIAS*.md` em cada diretório.
 ## 4. Pendências técnicas
 - Endpoint real do formulário (hoje vazio, nada é enviado); URL de agendamento (Calendly/Cal.com); GTM/GA4, Pixel/CAPI Meta, Insight Tag LinkedIn e banner de consentimento (Consent Mode).
 - Política de privacidade da landing é **modelo** para revisão jurídica.
-- Otimizar imagens (~6,7 MB); auditoria de acessibilidade (axe/Lighthouse) e teste em outros navegadores.
+- [FEITO] Imagens da landing otimizadas (6,7 MB → 2,9 MB, 1600 px, JPEG q80).
 - Instalar Roboto Condensed na máquina de exportação (PNGs atuais usam fallback); exportar artes 1:1, 4:5, 9:16 e vídeos; só 5 de 10 thumbnails YouTube criadas (as demais usam capas CAP-01..05).
 - Substituir `DOMINIO-A-CONFIRMAR` nos CSVs do Google Ads antes de importar; criar lista compartilhada de negativas.
 - Substituir o logotipo provisório (recorte de capa) em landing e criativos.
