@@ -112,9 +112,9 @@ def leader(p):
 
 def thumb(p):
     w, h = p["w"], p["h"]; pad = 56
-    fs = fs_fit(p["h1"], 620, 330, 130, .7)
+    fs = fs_fit(p["h1"], 600, 400, 125, .75, .62)
     body = f'<div style="display:flex;flex-direction:column;justify-content:space-between;width:640px;height:100%">'
-    body += f'<div>{logo(34)}</div><div>{hl(p["h1"], fs)}</div>'
+    body += f'<div>{logo(44)}</div><div>{hl(p["h1"], fs)}</div>'
     body += f'<div><span class="pill" style="font-size:30px;padding:8px 24px">{p["tag"]}</span></div></div>'
     body += f'<div style="position:absolute;left:660px;top:{pad}px;width:{w-660-pad+20}px;height:{h-2*pad-26}px">' + shot(p["asset"], "width:100%;height:100%;border-width:2px") + '</div>'
     body += note(12, f"position:absolute;left:660px;bottom:{pad*.5:.0f}px")
@@ -145,7 +145,7 @@ def slide(sl, i, n, w=1080, h=1350):
             body += f'<div style="display:flex;align-items:center;gap:20px;font-size:40px"><span class="num" style="width:56px;height:56px;font-size:32px;flex:none">{k}</span><span>{it}</span></div>'
         body += '</div>'
     body += '<div style="flex:1"></div>'
-    if sl.get("asset"): body += shot(sl["asset"], "width:100%;height:430px;flex:none") + note(18, "margin-top:10px")
+    if sl.get("asset"): body += shot(sl["asset"], "width:100%;height:640px;flex:none") + note(18, "margin-top:10px")
     if sl.get("cta"): body += f'<div style="margin-top:30px"><span class="btn" style="font-size:40px;padding:20px 44px">{sl["cta"]}</span></div>'
     if sl.get("foot"): body += f'<div class="note" style="font-size:20px;margin-top:20px">{sl["foot"]}</div>'
     body += '</div></div>'

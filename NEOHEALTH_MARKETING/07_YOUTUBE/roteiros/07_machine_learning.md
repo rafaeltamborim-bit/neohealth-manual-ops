@@ -46,6 +46,8 @@ Imagens com dados fictícios (base de demonstração).
 
 Headline 'Antecipar cenários'; recorte de sin-08.
 
+Thumbnail HTML ainda não produzida (ver 08_CRIATIVOS/PENDENCIAS.md); capa de vídeo base: 08_CRIATIVOS/pecas/capas_video/CAP-04.html
+
 ## Regras de compliance deste vídeo
 - Sem promessa de redução de sinistralidade, economia ou melhora de indicador; usar "ajuda a identificar", "apoia", "dá visibilidade".
 - Sem clientes, depoimentos ou números de mercado.

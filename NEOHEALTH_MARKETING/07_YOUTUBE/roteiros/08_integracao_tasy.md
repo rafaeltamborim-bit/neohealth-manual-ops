@@ -46,6 +46,8 @@ Imagens com dados fictícios (base de demonstração).
 
 Headline 'Integra com Tasy'; diagrama simples + logotipo da marca. Uso do nome Philips Tasy apenas descritivo [A CONFIRMAR regras de uso de marca de terceiros].
 
+Peça HTML: 08_CRIATIVOS/pecas/thumbnails_youtube/THB-04.html
+
 ## Regras de compliance deste vídeo
 - Sem promessa de redução de sinistralidade, economia ou melhora de indicador; usar "ajuda a identificar", "apoia", "dá visibilidade".
 - Sem clientes, depoimentos ou números de mercado.

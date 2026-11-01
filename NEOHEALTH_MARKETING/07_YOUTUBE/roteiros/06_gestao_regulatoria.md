@@ -47,6 +47,8 @@ Imagens com dados fictícios (base de demonstração).
 
 Headline 'Visibilidade regulatória'; recorte de ans-13.
 
+Peça HTML: 08_CRIATIVOS/pecas/thumbnails_youtube/THB-03.html
+
 ## Regras de compliance deste vídeo
 - Sem promessa de redução de sinistralidade, economia ou melhora de indicador; usar "ajuda a identificar", "apoia", "dá visibilidade".
 - Sem clientes, depoimentos ou números de mercado.

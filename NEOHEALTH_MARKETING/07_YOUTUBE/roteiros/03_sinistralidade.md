@@ -49,6 +49,8 @@ Imagens com dados fictícios (base de demonstração).
 
 Headline 'Sinistralidade sem esperar o fechamento' em duas linhas; recorte de sin-01 à direita.
 
+Peça HTML: 08_CRIATIVOS/pecas/thumbnails_youtube/THB-02.html
+
 ## Regras de compliance deste vídeo
 - Sem promessa de redução de sinistralidade, economia ou melhora de indicador; usar "ajuda a identificar", "apoia", "dá visibilidade".
 - Sem clientes, depoimentos ou números de mercado.

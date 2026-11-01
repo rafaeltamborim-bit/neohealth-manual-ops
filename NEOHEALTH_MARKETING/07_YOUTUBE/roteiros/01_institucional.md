@@ -47,7 +47,9 @@ Imagens da plataforma com dados fictícios (base de demonstração 'Operadora Mo
 
 ## Thumbnail
 
-Fundo #060A15, logotipo à esquerda, headline 'Dados em decisões' (Roboto Condensed Bold, branco + ciano #A9EFE5), recorte da capa coc-01 à direita. Sem rosto de médico. Peça: 08_CRIATIVOS/pecas/thumbnails_youtube/YT-01.html
+Fundo #060A15, logotipo à esquerda, headline 'Dados em decisões' (Roboto Condensed Bold, branco + ciano #A9EFE5), recorte da capa coc-01 à direita. Sem rosto de médico.
+
+Peça HTML: 08_CRIATIVOS/pecas/thumbnails_youtube/THB-01.html
 
 ## Regras de compliance deste vídeo
 - Sem promessa de redução de sinistralidade, economia ou melhora de indicador; usar "ajuda a identificar", "apoia", "dá visibilidade".

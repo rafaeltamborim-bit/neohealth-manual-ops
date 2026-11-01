@@ -55,6 +55,8 @@ Imagens com dados fictícios (base de demonstração).
 
 Capa mgd-01 recortada à direita, texto 'Conheça a plataforma' em branco, selo 'Tour' em ciano.
 
+Thumbnail HTML ainda não produzida (ver 08_CRIATIVOS/PENDENCIAS.md); capa de vídeo base: 08_CRIATIVOS/pecas/capas_video/CAP-01.html
+
 ## Regras de compliance deste vídeo
 - Sem promessa de redução de sinistralidade, economia ou melhora de indicador; usar "ajuda a identificar", "apoia", "dá visibilidade".
 - Sem clientes, depoimentos ou números de mercado.
