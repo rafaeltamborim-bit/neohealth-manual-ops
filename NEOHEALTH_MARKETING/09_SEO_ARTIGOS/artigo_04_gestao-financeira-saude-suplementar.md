@@ -1,7 +1,7 @@
 ---
 titulo_seo: "Gestão financeira na saúde suplementar: guia para operadoras"
 meta_description: "Como organizar a gestão financeira de operadoras: recebíveis, inadimplência, contabilidade ANS, provisões, indicadores prudenciais e rotina de decisão."
-slug: gestao-financeira-saude-suplementar
+slug: 04-gestao-financeira-saude-suplementar
 palavra_chave_principal: "gestão financeira saúde suplementar"
 palavras_chave_secundarias:
   - "gestão financeira operadora de plano de saúde"
@@ -57,7 +57,7 @@ As despesas assistenciais costumam ser a maior parcela do custo de uma operadora
 2. **Glosas.** Contas médicas contestadas e glosadas afetam valores a pagar e o relacionamento com prestadores. Acompanhar glosas por prestador, procedimento e beneficiário ajuda a identificar padrões.
 3. **Intercâmbio.** Valores a pagar e a receber por atendimentos entre operadoras (PTU) exigem conciliação específica.
 
-A ligação com a gestão da sinistralidade é direta: veja [Como acompanhar a sinistralidade](/blog/como-acompanhar-sinistralidade).
+A ligação com a gestão da sinistralidade é direta: veja [Como acompanhar a sinistralidade](/blog/03-acompanhar-sinistralidade).
 
 ## 3. Contabilidade e provisões
 
@@ -130,13 +130,13 @@ A NeoHealth BI · OPS oferece governança, auditoria e controle de acesso como p
 ## 9. Plano de implantação em etapas
 
 1. **Inventário de fontes e mapa contábil:** quais sistemas alimentam receitas, despesas e provisões.
-2. **Dicionário de indicadores financeiros** com fórmula e fonte. Veja [Indicadores fundamentais](/blog/indicadores-fundamentais-operadoras).
+2. **Dicionário de indicadores financeiros** com fórmula e fonte. Veja [Indicadores fundamentais](/blog/02-indicadores-fundamentais-operadoras).
 3. **Painel de recebíveis e inadimplência,** que costuma trazer ganho rápido de visibilidade.
 4. **Painel de resultado e sinistralidade,** conciliado com a contabilidade.
 5. **Visão prudencial e regulatória,** com acompanhamento de tendência.
 6. **Projeções e cenários,** com rotina mensal.
 
-O roteiro geral de estruturação de BI está em [Como estruturar BI para operadoras](/blog/como-estruturar-bi-para-operadoras).
+O roteiro geral de estruturação de BI está em [Como estruturar BI para operadoras](/blog/01-como-estruturar-bi-operadoras).
 
 ## Como a plataforma apoia a gestão financeira
 
@@ -160,10 +160,10 @@ Imagens de tela em materiais da NeoHealth correspondem a dados fictícios (base 
 
 ## Leia também
 
-- [Como acompanhar a sinistralidade](/blog/como-acompanhar-sinistralidade)
-- [Indicadores fundamentais para operadoras](/blog/indicadores-fundamentais-operadoras)
-- [IDSS: o que é e como acompanhar](/blog/idss-ans-guia-operadoras)
-- [Como estruturar BI para operadoras](/blog/como-estruturar-bi-para-operadoras)
+- [Como acompanhar a sinistralidade](/blog/03-acompanhar-sinistralidade)
+- [Indicadores fundamentais para operadoras](/blog/02-indicadores-fundamentais-operadoras)
+- [IDSS: o que é e como acompanhar](/blog/06-idss)
+- [Como estruturar BI para operadoras](/blog/01-como-estruturar-bi-operadoras)
 
 **Solicite uma demonstração.** Descubra como a plataforma organiza riscos e oportunidades financeiras da sua operadora: [/#pilar](/#pilar).
 

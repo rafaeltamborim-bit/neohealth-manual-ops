@@ -1,7 +1,7 @@
 ---
 titulo_seo: "Indicadores assistenciais: o que operadoras devem acompanhar"
 meta_description: "Entenda os indicadores assistenciais de operadoras: utilização, internação, alto custo, rede e prevenção, e como relacioná-los ao resultado da operadora."
-slug: indicadores-assistenciais-operadoras
+slug: 05-indicadores-assistenciais
 palavra_chave_principal: "indicadores assistenciais operadoras"
 palavras_chave_secundarias:
   - "indicadores assistenciais saúde suplementar"
@@ -24,7 +24,7 @@ Este artigo apresenta as principais famílias de indicadores assistenciais, o cu
 - **Explicar o custo:** decompõem a variação em frequência, complexidade e preço.
 - **Apoiar programas de cuidado:** identificam populações que podem se beneficiar de acompanhamento.
 - **Qualificar a rede:** mostram padrões de uso por prestador e região.
-- **Dialogar com o regulador:** parte dos indicadores de qualidade e de acesso monitorados pela ANS tem natureza assistencial. Veja [IDSS: o que é e como acompanhar](/blog/idss-ans-guia-operadoras).
+- **Dialogar com o regulador:** parte dos indicadores de qualidade e de acesso monitorados pela ANS tem natureza assistencial. Veja [IDSS: o que é e como acompanhar](/blog/06-idss).
 - **Alimentar a precificação:** perfil de uso por faixa etária e produto informa a análise atuarial.
 
 ## 1. Utilização: o ponto de partida
@@ -124,7 +124,7 @@ Uma tabela simples de raciocínio:
 | Vazamento de rede crescente | Rede insuficiente ou desalinhada | Quais especialidades/regiões faltam? |
 | Alto custo concentrado | Poucos casos explicam o desvio | Há gestão de caso? O contrato é pequeno? |
 
-O artigo [Como acompanhar a sinistralidade](/blog/como-acompanhar-sinistralidade) mostra como juntar esses sinais na análise do resultado.
+O artigo [Como acompanhar a sinistralidade](/blog/03-acompanhar-sinistralidade) mostra como juntar esses sinais na análise do resultado.
 
 ## 9. Dados necessários e cuidados de qualidade
 
@@ -134,7 +134,7 @@ Para produzir bons indicadores assistenciais é preciso:
 - **Cadastro de beneficiários** consistente, com histórico de vigência.
 - **Vinculação entre evento, prestador, contrato e competência.**
 - **Tratamento de dados sensíveis** com controles de acesso e anonimização quando possível.
-- **Dicionário** com a definição de cada indicador. Veja [Como estruturar BI para operadoras](/blog/como-estruturar-bi-para-operadoras).
+- **Dicionário** com a definição de cada indicador. Veja [Como estruturar BI para operadoras](/blog/01-como-estruturar-bi-operadoras).
 
 ## 10. Rotina de análise assistencial
 
@@ -166,10 +166,10 @@ Imagens de tela em materiais da NeoHealth correspondem a dados fictícios (base 
 
 ## Leia também
 
-- [Indicadores fundamentais para operadoras](/blog/indicadores-fundamentais-operadoras)
-- [Como acompanhar a sinistralidade](/blog/como-acompanhar-sinistralidade)
-- [IDSS: o que é e como acompanhar](/blog/idss-ans-guia-operadoras)
-- [Gestão financeira na saúde suplementar](/blog/gestao-financeira-saude-suplementar)
+- [Indicadores fundamentais para operadoras](/blog/02-indicadores-fundamentais-operadoras)
+- [Como acompanhar a sinistralidade](/blog/03-acompanhar-sinistralidade)
+- [IDSS: o que é e como acompanhar](/blog/06-idss)
+- [Gestão financeira na saúde suplementar](/blog/04-gestao-financeira-saude-suplementar)
 
 **Solicite uma demonstração.** Veja como a utilização dos serviços de saúde pode ser analisada junto ao resultado da sua operadora: [/#pilar](/#pilar).
 

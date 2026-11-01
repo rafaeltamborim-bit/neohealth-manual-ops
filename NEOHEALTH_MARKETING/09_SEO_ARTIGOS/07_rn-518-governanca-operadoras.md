@@ -132,6 +132,12 @@ Segundo o manual da ANS (edição 2022, rev. 05), os anexos V a VII tratam de in
 **Usar uma plataforma de BI garante a conformidade?**
 Não. Uma plataforma apoia o monitoramento e a organização de evidências; a conformidade depende de políticas, processos, pessoas e da validação de auditoria e jurídico.
 
+## Como a diretoria pode apresentar evidências de forma organizada
+
+Um erro frequente é montar o dossiê de governança apenas perto de auditorias ou envios periódicos. Uma abordagem mais sustentável é manter, ao longo do ano, um repositório vivo de evidências: atas de comitês, relatórios de indicadores, planos de ação, registros de testes de controles e histórico de alertas tratados. Quando os indicadores vêm de uma base única, a diretoria consegue mostrar não só o número atual, mas a série histórica, quem foi acionado e qual ação foi tomada.
+
+Também vale definir um calendário interno de revisão: trimestral para o mapa de riscos, mensal para indicadores críticos e semanal para pontos de atenção operacionais. Esse calendário é uma sugestão de gestão, não uma exigência normativa; a periodicidade obrigatória de cada item deve ser lida na norma: **[VERIFICAR NA FONTE]**. O ganho está em reduzir surpresas: quando o acompanhamento é contínuo, o fechamento anual deixa de ser uma corrida e passa a ser consolidação do que já foi acompanhado.
+
 ## Próximos passos
 
 Se a diretoria quer enxergar, em um único lugar, indicadores regulatórios, riscos financeiros e pontos de atenção da operação, vale conhecer a plataforma na prática. Conheça a [página da NeoHealth BI · OPS](/neohealth-bi-ops) [A CONFIRMAR: URL final da landing page].

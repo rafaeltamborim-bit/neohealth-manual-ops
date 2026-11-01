@@ -1,0 +1,47 @@
+dimensao,valor,pontos,teto_dimensao,observacao
+tipo_operadora,Medicina de grupo,25,25,ICP principal [hipótese A CONFIRMAR]
+tipo_operadora,Cooperativa médica,25,25,ICP principal
+tipo_operadora,Autogestão,22,25,
+tipo_operadora,Seguradora de saúde,22,25,
+tipo_operadora,Odontológica,12,25,Aderência parcial dos módulos [A CONFIRMAR]
+tipo_operadora,Filantropia,18,25,
+tipo_operadora,Outro,5,25,
+tipo_operadora,Nao sou operadora,0,25,Descarte salvo consultoria/parceiro (tratar à parte)
+porte,Faixa 1 (menor),4,10,Faixas [A DEFINIR]
+porte,Faixa 2,7,10,
+porte,Faixa 3,10,10,
+porte,Nao informado,3,10,
+cargo,Diretoria/Superintendencia,20,20,Decisor
+cargo,Financeiro/Controladoria,17,20,
+cargo,Atuaria,16,20,
+cargo,Assistencial/Medico,15,20,
+cargo,Regulatorio/Compliance,15,20,
+cargo,TI/BI,10,20,Influenciador
+cargo,Gerencia/Coordenacao outra,8,20,
+cargo,Analista,5,20,
+cargo,Outro,2,20,
+erp,Philips Tasy,10,10,Integração confirmada pela ficha
+erp,Oracle (outro sistema),6,10,
+erp,Outro,3,10,Compatibilidade [A CONFIRMAR]
+erp,Nao sei,2,10,
+desafios,Visibilidade financeira,5,15,Máx. 15 por soma
+desafios,Sinistralidade,5,15,
+desafios,Gestao assistencial,4,15,
+desafios,Obrigacoes regulatorias/ANS,4,15,
+desafios,Previsao de cenarios,4,15,
+desafios,Consolidacao de dados,3,15,
+interesse,Solicitou demonstracao,20,20,Maior intenção
+interesse,Solicitou contato comercial,16,20,
+interesse,Baixou checklist,8,20,
+interesse,Baixou ebook,6,20,
+interesse,Visitou pagina de demonstracao 2+ vezes,10,20,
+interesse,Abriu/clicou 3+ e-mails,6,20,
+interesse,Assistiu video >=50%,4,20,
+penalidade,E-mail pessoal/gratuito,-10,-10,Aplica após soma
+penalidade,Concorrente direto/fornecedor,-100,-100,Descarte automático
+penalidade,Estudante/pesquisa,-100,-100,Descarte automático
+penalidade,Sem consentimento de contato,-100,-100,Não contatar; manter só o necessário
+classe,A,70,,Pontuação >=70: contato em até 4 h úteis
+classe,B,45,,45 a 69: contato em até 1 dia útil
+classe,C,20,,20 a 44: nutrição
+classe,Descarte,0,,<20 ou penalidade eliminatória

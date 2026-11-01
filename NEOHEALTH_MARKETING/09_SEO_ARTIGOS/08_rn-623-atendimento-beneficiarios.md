@@ -130,6 +130,12 @@ Não. Um painel dá visibilidade e apoia o acompanhamento; o cumprimento depende
 **A plataforma substitui o sistema de protocolos?**
 Não há essa afirmação nas fontes do projeto. O papel descrito é de análise e acompanhamento sobre dados integrados (Oracle e ERP Philips Tasy). Detalhes de integração com sistemas de atendimento específicos: **[A CONFIRMAR]**.
 
+## Indicadores sugeridos para um painel de atendimento
+
+Como ponto de partida para a diretoria e a coordenação de atendimento, considere acompanhar: volume de demandas por canal e por tipo; tempo médio e distribuição do tempo de resposta; percentual de demandas resolvidas no primeiro atendimento; quantidade de demandas escalonadas e motivo; reclamações e NIPs por motivo, produto e prestador; e demandas próximas do vencimento do prazo. Esses indicadores são sugestões de gestão, e as definições oficiais de cada medida regulatória devem ser conferidas na norma e no FAQ da ANS: **[VERIFICAR NA FONTE]**.
+
+Um bom painel mostra também a tendência: um número isolado pouco ajuda, mas a comparação semana a semana revela deterioração antes que ela vire reclamação formal. E um bom processo define o que fazer quando o painel acende: quem atua, em que prazo e como o resultado é registrado. É essa combinação de visibilidade e rotina que sustenta a gestão regulatória no dia a dia.
+
 ## Próximos passos
 
 Se a sua operadora quer acompanhar prazos, canais, NIPs e reclamações em um ambiente analítico integrado, conheça a plataforma na prática na [página da NeoHealth BI · OPS](/neohealth-bi-ops) [A CONFIRMAR: URL final da landing page].

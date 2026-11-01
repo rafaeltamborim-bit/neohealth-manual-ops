@@ -131,6 +131,12 @@ Informação não disponível na ficha de fatos; arquitetura de tratamento e eve
 **Posso usar IA com dados de saúde sob a LGPD?**
 Depende de finalidade, base legal e salvaguardas, e deve ser avaliado por jurídico e encarregado de dados.
 
+## Perguntas para avaliar uma solução com IA
+
+Antes de contratar ou ampliar o uso de qualquer solução com IA, reúna jurídico, TI, atuária e áreas de negócio e responda: qual problema será resolvido e como o sucesso será medido? Quais dados serão usados e qual é a base legal? Onde os dados ficam armazenados e quem tem acesso? A saída pode ser explicada a um gestor, a um auditor e, quando aplicável, ao titular? Há revisão humana nas decisões relevantes? Como o desempenho será acompanhado ao longo do tempo? O que acontece se o modelo for desligado?
+
+Se a resposta a alguma dessas perguntas depender de informação do fornecedor, peça por escrito. No caso da NeoHealth BI · OPS, os pontos técnicos específicos estão marcados **[A CONFIRMAR]** e serão detalhados em conversa de demonstração. A cautela é uma vantagem competitiva: operadoras que tratam IA com governança tendem a ter mais segurança para ampliar o uso.
+
 ## Próximos passos
 
 Para ver como previsões, detecção de anomalias, alertas e chat inteligente aparecem na plataforma, conheça a [página da NeoHealth BI · OPS](/neohealth-bi-ops) [A CONFIRMAR: URL final da landing page]. Transforme dados em decisões. Decisões em resultados.

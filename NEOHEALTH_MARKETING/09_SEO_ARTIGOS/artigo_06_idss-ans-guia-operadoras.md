@@ -1,7 +1,7 @@
 ---
 titulo_seo: "IDSS da ANS: o que é e como operadoras podem acompanhar"
 meta_description: "Entenda o IDSS da ANS: as quatro dimensões (IDQS, IDGA, IDSM, IDGR), pesos, como o índice é composto e como acompanhar o desempenho da operadora."
-slug: idss-ans-guia-operadoras
+slug: 06-idss
 palavra_chave_principal: "IDSS ANS"
 palavras_chave_secundarias:
   - "Índice de Desempenho da Saúde Suplementar"
@@ -58,7 +58,7 @@ Os documentos consultados indicam ainda que:
 
 Os indicadores são calculados pela ANS a partir de bases que as operadoras enviam ou que o regulador consulta, por exemplo informações de beneficiários, de produtos, da troca de informações em saúde suplementar (TISS) e de dados econômico-financeiros [VERIFICAR NA FONTE quais bases alimentam cada indicador]. Na prática, isso significa que **a qualidade do envio influencia o resultado**: dados incompletos ou fora do prazo podem afetar o indicador.
 
-Por isso, o acompanhamento do IDSS passa pelo acompanhamento das obrigações de envio. Veja o panorama em [Indicadores fundamentais para operadoras](/blog/indicadores-fundamentais-operadoras).
+Por isso, o acompanhamento do IDSS passa pelo acompanhamento das obrigações de envio. Veja o panorama em [Indicadores fundamentais para operadoras](/blog/02-indicadores-fundamentais-operadoras).
 
 ## Por que acompanhar o IDSS durante o ano
 
@@ -80,7 +80,7 @@ Para cada ciclo, a ANS publica o método de cálculo, fichas técnicas dos indic
 
 ### 2. Monte o dicionário dos indicadores
 
-Para cada indicador: nome, dimensão, fórmula, fonte de dados, periodicidade, responsável interno e área impactada. Veja o roteiro em [Como estruturar BI para operadoras](/blog/como-estruturar-bi-para-operadoras).
+Para cada indicador: nome, dimensão, fórmula, fonte de dados, periodicidade, responsável interno e área impactada. Veja o roteiro em [Como estruturar BI para operadoras](/blog/01-como-estruturar-bi-operadoras).
 
 ### 3. Replique o cálculo e compare com o oficial
 
@@ -96,7 +96,7 @@ Priorize indicadores com maior potencial de melhora e menor custo de intervenç�
 
 ### 6. Conecte o IDSS à gestão assistencial e financeira
 
-Indicadores de qualidade e acesso dependem de ações assistenciais; os de sustentabilidade, da gestão financeira; os de processos, do cumprimento de obrigações. Por isso o IDSS não pertence a uma única área. Leia também [Indicadores assistenciais](/blog/indicadores-assistenciais-operadoras) e [Gestão financeira na saúde suplementar](/blog/gestao-financeira-saude-suplementar).
+Indicadores de qualidade e acesso dependem de ações assistenciais; os de sustentabilidade, da gestão financeira; os de processos, do cumprimento de obrigações. Por isso o IDSS não pertence a uma única área. Leia também [Indicadores assistenciais](/blog/05-indicadores-assistenciais) e [Gestão financeira na saúde suplementar](/blog/04-gestao-financeira-saude-suplementar).
 
 ## Dimensão por dimensão: o que costuma exigir atenção
 
@@ -159,10 +159,10 @@ Imagens de tela em materiais da NeoHealth correspondem a dados fictícios (base 
 
 ## Leia também
 
-- [Indicadores fundamentais para operadoras](/blog/indicadores-fundamentais-operadoras)
-- [Indicadores assistenciais](/blog/indicadores-assistenciais-operadoras)
-- [Gestão financeira na saúde suplementar](/blog/gestao-financeira-saude-suplementar)
-- [Como estruturar BI para operadoras](/blog/como-estruturar-bi-para-operadoras)
+- [Indicadores fundamentais para operadoras](/blog/02-indicadores-fundamentais-operadoras)
+- [Indicadores assistenciais](/blog/05-indicadores-assistenciais)
+- [Gestão financeira na saúde suplementar](/blog/04-gestao-financeira-saude-suplementar)
+- [Como estruturar BI para operadoras](/blog/01-como-estruturar-bi-operadoras)
 
 **Solicite uma demonstração.** Veja como a plataforma organiza o acompanhamento do IDSS e das obrigações regulatórias da sua operadora: [/#pilar](/#pilar).
 

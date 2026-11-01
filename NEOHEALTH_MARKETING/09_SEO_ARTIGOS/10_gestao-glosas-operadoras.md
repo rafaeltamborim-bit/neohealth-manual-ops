@@ -131,6 +131,12 @@ Sim, a ANS disponibiliza um Painel de Indicadores de Glosa com dados do TISS (ve
 **Os números nas telas são reais?**
 Não. Os exemplos usam dados fictícios da base "Operadora Modelo".
 
+## Indicadores de acompanhamento sugeridos
+
+Para quem está começando, uma lista enxuta já gera visibilidade: valor glosado por mês; proporção do valor glosado sobre o valor apresentado; glosas por motivo; dez maiores prestadores em valor glosado; taxa de contestação; taxa de reversão após recurso; e tempo médio de tratamento da contestação. Cada operadora deve formalizar as definições, para que áreas distintas leiam o mesmo número. Quando houver indicador oficial equivalente no painel da ANS, vale confrontar as definições: **[VERIFICAR NA FONTE]**.
+
+Outro cuidado é a sazonalidade e a maturação dos dados: contas chegam com atraso, e comparar um mês incompleto com um mês fechado distorce a leitura. Defina a regra de corte e informe-a no painel. Por fim, associe cada indicador a um dono e a uma ação padrão quando o valor sair da faixa definida internamente. Assim, a gestão de glosas deixa de ser reativa e passa a ser parte da rotina de inteligência da operadora.
+
 ## Próximos passos
 
 Se a sua operadora quer enxergar glosas por prestador, procedimento, beneficiário e outliers em um mesmo ambiente, conheça a [página da NeoHealth BI · OPS](/neohealth-bi-ops) [A CONFIRMAR: URL final da landing page].

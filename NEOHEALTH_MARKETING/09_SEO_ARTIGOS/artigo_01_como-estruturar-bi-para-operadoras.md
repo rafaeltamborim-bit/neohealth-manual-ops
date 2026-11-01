@@ -1,7 +1,7 @@
 ---
 titulo_seo: "Como estruturar BI para operadoras de saúde: guia prático"
 meta_description: "Passo a passo para estruturar BI em operadoras de planos de saúde: fontes de dados, governança, indicadores, rotina de decisão e erros comuns."
-slug: como-estruturar-bi-para-operadoras
+slug: 01-como-estruturar-bi-operadoras
 palavra_chave_principal: "BI para operadoras de saúde"
 palavras_chave_secundarias:
   - "business intelligence operadora de plano de saúde"
@@ -25,7 +25,7 @@ Em qualquer setor, BI é o conjunto de práticas e ferramentas que transforma da
 
 - **Volume e granularidade:** cada evento assistencial gera registros (guias, itens, glosas, pagamentos) que precisam ser conciliados com a contabilidade.
 - **Múltiplos sistemas:** o ERP, o sistema de gestão de beneficiários, o faturamento e as bases do regulador raramente falam a mesma língua.
-- **Obrigações regulatórias:** parte das informações precisa ser enviada à Agência Nacional de Saúde Suplementar (ANS) e parte dos indicadores é monitorada por ela. Veja o artigo [Indicadores fundamentais para operadoras](/blog/indicadores-fundamentais-operadoras).
+- **Obrigações regulatórias:** parte das informações precisa ser enviada à Agência Nacional de Saúde Suplementar (ANS) e parte dos indicadores é monitorada por ela. Veja o artigo [Indicadores fundamentais para operadoras](/blog/02-indicadores-fundamentais-operadoras).
 - **Risco assumido:** diferentemente de muitos negócios, a operadora precifica antes de conhecer o custo. Acompanhar o custo assistencial com rapidez é parte do negócio.
 
 Por isso, um BI para operadoras não pode ser apenas uma ferramenta genérica de gráficos. Precisa refletir o vocabulário e as relações do setor: contrato, produto, faixa etária, prestador, evento, competência.
@@ -62,7 +62,7 @@ Metade das discussões improdutivas em operadoras nasce de um mesmo termo com du
 - Registre o que entra e o que fica de fora do numerador e do denominador.
 - Quando houver uma definição oficial da ANS, **documente a referência** e diferencie claramente o indicador "regulatório" do indicador "gerencial".
 
-O artigo [Como acompanhar a sinistralidade](/blog/como-acompanhar-sinistralidade) mostra como uma única métrica pode ter leituras diferentes, e por que isso importa.
+O artigo [Como acompanhar a sinistralidade](/blog/03-acompanhar-sinistralidade) mostra como uma única métrica pode ter leituras diferentes, e por que isso importa.
 
 ## Passo 4: construa uma camada analítica confiável
 
@@ -102,7 +102,7 @@ A navegação entre camadas deve ser fluida: o executivo clica no desvio e chega
 
 Operadoras convivem com indicadores e obrigações definidos pela ANS. Tratá-los como "um relatório à parte" costuma gerar retrabalho. Ao contrário, vale integrá-los ao BI:
 
-- Acompanhar, ao longo do ano, indicadores usados pelo regulador, como os do Programa de Qualificação de Operadoras (IDSS). Detalhes no artigo [IDSS: o que é e como acompanhar](/blog/idss-ans-guia-operadoras).
+- Acompanhar, ao longo do ano, indicadores usados pelo regulador, como os do Programa de Qualificação de Operadoras (IDSS). Detalhes no artigo [IDSS: o que é e como acompanhar](/blog/06-idss).
 - Monitorar os indicadores econômico-financeiros e prudenciais estabelecidos em normativo da ANS (a Resolução Normativa nº 518/2022 trata de requisitos de governança e traz, em seu Anexo IV, fórmulas de indicadores [VERIFICAR NA FONTE o texto oficial]).
 - Manter rastreabilidade: de onde veio cada número que será usado em resposta ao regulador.
 
@@ -171,10 +171,10 @@ Imagens de tela exibidas em materiais da NeoHealth correspondem a uma base de de
 
 ## Leia também
 
-- [Indicadores fundamentais para operadoras](/blog/indicadores-fundamentais-operadoras)
-- [Como acompanhar a sinistralidade](/blog/como-acompanhar-sinistralidade)
-- [Gestão financeira na saúde suplementar](/blog/gestao-financeira-saude-suplementar)
-- [IDSS: o que é e como acompanhar](/blog/idss-ans-guia-operadoras)
+- [Indicadores fundamentais para operadoras](/blog/02-indicadores-fundamentais-operadoras)
+- [Como acompanhar a sinistralidade](/blog/03-acompanhar-sinistralidade)
+- [Gestão financeira na saúde suplementar](/blog/04-gestao-financeira-saude-suplementar)
+- [IDSS: o que é e como acompanhar](/blog/06-idss)
 
 **Solicite uma demonstração.** Veja como a NeoHealth BI · OPS organiza os dados da sua operadora em visões para decisão: [/#pilar](/#pilar).
 

@@ -1,7 +1,7 @@
 ---
 titulo_seo: "Indicadores fundamentais para operadoras de planos de saúde"
 meta_description: "Conheça os principais indicadores para operadoras: financeiros, sinistralidade, assistenciais, carteira e regulatórios, e como acompanhar cada um."
-slug: indicadores-fundamentais-operadoras
+slug: 02-indicadores-fundamentais-operadoras
 palavra_chave_principal: "indicadores para operadoras de saúde"
 palavras_chave_secundarias:
   - "indicadores operadora de plano de saúde"
@@ -24,7 +24,7 @@ Este artigo organiza os indicadores fundamentais de uma operadora em cinco famí
 Antes da lista, três critérios práticos:
 
 1. **Ligação com decisão.** Se ninguém muda de conduta em função do número, ele é curiosidade, não indicador.
-2. **Definição única.** Fórmula, fonte, periodicidade e responsável documentados. Veja o passo a passo em [Como estruturar BI para operadoras](/blog/como-estruturar-bi-para-operadoras).
+2. **Definição única.** Fórmula, fonte, periodicidade e responsável documentados. Veja o passo a passo em [Como estruturar BI para operadoras](/blog/01-como-estruturar-bi-operadoras).
 3. **Contexto.** Todo indicador precisa de comparação: meta, período anterior, mesma competência do ano passado ou referência setorial confiável.
 
 Uma boa regra é manter um painel executivo com 10 a 15 indicadores, e deixar o restante para as camadas de investigação.
@@ -51,7 +51,7 @@ A ANS estabelece, em normativo próprio, indicadores econômico-financeiros mín
 - **Prazo médio de recebimento** e **taxa de recuperação**.
 - **Inadimplência por safra e canal de venda**, para identificar onde nascem os contratos problemáticos.
 
-Aprofunde em [Gestão financeira na saúde suplementar](/blog/gestao-financeira-saude-suplementar).
+Aprofunde em [Gestão financeira na saúde suplementar](/blog/04-gestao-financeira-saude-suplementar).
 
 ## Família 2: sinistralidade e custo
 
@@ -64,7 +64,7 @@ Variações que mudam o resultado:
 - Tratamento de **coparticipação**, **recuperação de despesas** e **receitas pós-estabelecidas**.
 - Receita **bruta**, **líquida** ou **efetiva**.
 
-Por isso, a recomendação é manter **duas leituras claramente rotuladas**: a gerencial (a que orienta a operação) e a regulatória (a que segue a definição oficial). O artigo [Como acompanhar a sinistralidade](/blog/como-acompanhar-sinistralidade) detalha o tema.
+Por isso, a recomendação é manter **duas leituras claramente rotuladas**: a gerencial (a que orienta a operação) e a regulatória (a que segue a definição oficial). O artigo [Como acompanhar a sinistralidade](/blog/03-acompanhar-sinistralidade) detalha o tema.
 
 Outros indicadores de custo:
 
@@ -84,7 +84,7 @@ Explicam *por que* o custo é o que é, olhando para o uso dos serviços de saú
 - **Cobertura de ações de promoção da saúde e prevenção**, e adesão a programas.
 - **Alto custo:** pacientes e eventos de elevada complexidade, com gestão de casos.
 
-Esses indicadores precisam ser lidos com cautela: dependem do perfil da carteira (idade, sexo, comorbidades), e comparações só fazem sentido entre grupos semelhantes. Veja [Indicadores assistenciais: o que acompanhar](/blog/indicadores-assistenciais-operadoras).
+Esses indicadores precisam ser lidos com cautela: dependem do perfil da carteira (idade, sexo, comorbidades), e comparações só fazem sentido entre grupos semelhantes. Veja [Indicadores assistenciais: o que acompanhar](/blog/05-indicadores-assistenciais).
 
 ## Família 4: carteira e comercial
 
@@ -104,7 +104,7 @@ O regulador acompanha a operadora por meio de diversos instrumentos. Dois merece
 
 ### Programa de Qualificação de Operadoras e IDSS
 
-O Índice de Desempenho da Saúde Suplementar (IDSS) é o índice composto do Programa de Qualificação de Operadoras. Segundo o documento de método de cálculo publicado pela ANS para o ano-base 2026, o IDSS é obtido por meio da combinação ponderada de quatro dimensões: qualidade em atenção à saúde (IDQS), garantia de acesso (IDGA), sustentabilidade no mercado (IDSM) e gestão de processos e regulação (IDGR), com pesos de 0,30 para as três primeiras e 0,10 para a última. Os detalhes estão no artigo [IDSS: o que é e como acompanhar](/blog/idss-ans-guia-operadoras).
+O Índice de Desempenho da Saúde Suplementar (IDSS) é o índice composto do Programa de Qualificação de Operadoras. Segundo o documento de método de cálculo publicado pela ANS para o ano-base 2026, o IDSS é obtido por meio da combinação ponderada de quatro dimensões: qualidade em atenção à saúde (IDQS), garantia de acesso (IDGA), sustentabilidade no mercado (IDSM) e gestão de processos e regulação (IDGR), com pesos de 0,30 para as três primeiras e 0,10 para a última. Os detalhes estão no artigo [IDSS: o que é e como acompanhar](/blog/06-idss).
 
 ### Obrigações e envio de informações
 
@@ -160,11 +160,11 @@ Imagens da plataforma em materiais da NeoHealth usam dados fictícios (base de d
 
 ## Leia também
 
-- [Como estruturar BI para operadoras](/blog/como-estruturar-bi-para-operadoras)
-- [Como acompanhar a sinistralidade](/blog/como-acompanhar-sinistralidade)
-- [Gestão financeira na saúde suplementar](/blog/gestao-financeira-saude-suplementar)
-- [Indicadores assistenciais](/blog/indicadores-assistenciais-operadoras)
-- [IDSS](/blog/idss-ans-guia-operadoras)
+- [Como estruturar BI para operadoras](/blog/01-como-estruturar-bi-operadoras)
+- [Como acompanhar a sinistralidade](/blog/03-acompanhar-sinistralidade)
+- [Gestão financeira na saúde suplementar](/blog/04-gestao-financeira-saude-suplementar)
+- [Indicadores assistenciais](/blog/05-indicadores-assistenciais)
+- [IDSS](/blog/06-idss)
 
 **Solicite uma demonstração.** Veja como os indicadores da sua operadora podem ser organizados em visões de decisão: [/#pilar](/#pilar).
 

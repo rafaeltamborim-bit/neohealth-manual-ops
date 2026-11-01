@@ -1,7 +1,7 @@
 ---
 titulo_seo: "Como acompanhar a sinistralidade na operadora de saúde"
 meta_description: "Aprenda a acompanhar a sinistralidade além do fechamento do mês: definições, quebras por contrato e faixa etária, ofensores, previsão e rotina de gestão."
-slug: como-acompanhar-sinistralidade
+slug: 03-acompanhar-sinistralidade
 palavra_chave_principal: "como acompanhar a sinistralidade"
 palavras_chave_secundarias:
   - "sinistralidade operadora de saúde"
@@ -81,7 +81,7 @@ Quando a sinistralidade sobe, a pergunta útil é: **o que mudou?** Uma decompos
 
 Separar esses efeitos evita ações erradas. Um aumento de frequência pede uma resposta diferente de um aumento de preço.
 
-Ver também: [Indicadores assistenciais](/blog/indicadores-assistenciais-operadoras).
+Ver também: [Indicadores assistenciais](/blog/05-indicadores-assistenciais).
 
 ## 5. Identifique os ofensores
 
@@ -162,10 +162,10 @@ Imagens de tela em materiais da NeoHealth correspondem a dados fictícios (base 
 
 ## Leia também
 
-- [Indicadores fundamentais para operadoras](/blog/indicadores-fundamentais-operadoras)
-- [Gestão financeira na saúde suplementar](/blog/gestao-financeira-saude-suplementar)
-- [Indicadores assistenciais](/blog/indicadores-assistenciais-operadoras)
-- [Como estruturar BI para operadoras](/blog/como-estruturar-bi-para-operadoras)
+- [Indicadores fundamentais para operadoras](/blog/02-indicadores-fundamentais-operadoras)
+- [Gestão financeira na saúde suplementar](/blog/04-gestao-financeira-saude-suplementar)
+- [Indicadores assistenciais](/blog/05-indicadores-assistenciais)
+- [Como estruturar BI para operadoras](/blog/01-como-estruturar-bi-operadoras)
 
 **Solicite uma demonstração.** Veja como a sinistralidade da sua operadora pode ser acompanhada em tempo útil: [/#pilar](/#pilar).
 

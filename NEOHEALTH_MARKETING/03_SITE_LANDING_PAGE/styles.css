@@ -70,3 +70,4 @@ footer .cols{display:grid;grid-template-columns:2fr 1fr;gap:32px}
  section{padding:52px 0}form.lead-form{grid-template-columns:1fr;padding:20px}.hero{padding-top:40px}}
 @media (max-width:480px){.btn{width:100%;text-align:center}.container{padding:0 18px}}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}.btn{transition:none}}
+@media (max-width:480px){.bar .btn{width:auto;padding:8px 12px;font-size:.85rem}}

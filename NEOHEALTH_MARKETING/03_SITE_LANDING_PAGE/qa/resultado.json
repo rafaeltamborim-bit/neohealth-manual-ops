@@ -52,12 +52,12 @@
  {
   "n": "UTM/gclid/li_fat_id capturados nos campos ocultos",
   "c": true,
-  "d": "{\"s\":\"linkedin\",\"m\":\"paid\",\"g\":\"G123\",\"l\":\"L456\",\"u\":\"http://127.0.0.1:44985/index.html?utm_source=linkedin&utm_medium=paid&utm_campaign=teste&gclid=G123&li_fat_id=L456\"}"
+  "d": "{\"s\":\"linkedin\",\"m\":\"paid\",\"g\":\"G123\",\"l\":\"L456\",\"u\":\"http://127.0.0.1:37163/index.html?utm_source=linkedin&utm_medium=paid&utm_campaign=teste&gclid=G123&li_fat_id=L456\"}"
  },
  {
   "n": "dataLayer: lp_view e scroll_depth",
   "c": true,
-  "d": "lp_view,section_view,section_view,section_view,scroll_depth,section_view,section_view,section_view,section_view,scroll_depth,section_view,section_view,section_view,section_view,section_view,scroll_depth,section_view,section_view,schedule_view,section_view,scroll_depth"
+  "d": "lp_view,section_view,section_view,section_view,scroll_depth,section_view,section_view,section_view,section_view,scroll_depth,section_view,section_view,section_view,section_view,section_view,scroll_depth,section_view,section_view,section_view,schedule_view,scroll_depth"
  },
  {
   "n": "links internos (11 unicos) resolvem",
@@ -92,7 +92,7 @@
  {
   "n": "submit valido (sem endpoint) vai para obrigado em modo homologacao",
   "c": true,
-  "d": "http://127.0.0.1:44985/obrigado.html?modo=homologacao"
+  "d": "http://127.0.0.1:37163/obrigado.html?modo=homologacao"
  },
  {
   "n": "politica de privacidade carrega",

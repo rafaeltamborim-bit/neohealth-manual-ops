@@ -129,6 +129,18 @@ Existe a tela "Verticalização (Rede Própria x Credenciada)" na plataforma. O 
 **Os dados dos exemplos são reais?**
 Não. Todas as telas de demonstração usam dados fictícios da base "Operadora Modelo".
 
+## Perguntas para a próxima reunião de rede
+
+Se você precisa preparar uma reunião de gestão de rede, estas perguntas ajudam a estruturar a pauta com base em dados: quais dez prestadores concentram mais custo e como esse conjunto mudou nos últimos doze meses? Em quais regiões ou especialidades a cobertura é frágil? Quais prestadores entraram ou saíram da rede e qual foi o efeito na utilização? Qual é o prazo médio de pagamento por prestador e quais diferem muito da média? Os reajustes concedidos estão alinhados à estratégia e aos índices de referência escolhidos? Quais prestadores aparecem repetidamente em glosas, reclamações ou negativas de autorização?
+
+Registre as respostas, defina responsáveis e revise na reunião seguinte. O valor está na repetição: a gestão de prestadores melhora quando as mesmas perguntas são feitas com os mesmos critérios ao longo do tempo, sem prometer que um número específico será alcançado.
+
+## Rede própria, rede credenciada e verticalização
+
+Operadoras com serviços próprios precisam comparar, com os mesmos critérios, o desempenho da rede própria e da credenciada: custo por procedimento, volume, tempo de acesso, qualidade e satisfação. A comparação só é justa se os perfis de pacientes e a complexidade forem considerados. A plataforma possui a tela "Verticalização (Rede Própria x Credenciada)" para apoiar essa leitura [DISPONÍVEL; escopo por cliente: A CONFIRMAR]. A decisão sobre ampliar ou reduzir a rede própria envolve investimento, regulação e estratégia, e foge ao que um painel pode indicar sozinho; o papel da análise é dar visibilidade aos fatos que embasam a discussão.
+
+Da mesma forma, ao observar o honorário por especialidade e os modelos de remuneração, lembre que a remuneração influencia incentivos. Modelos diferentes podem favorecer volume, pacote ou resultado, e cada um tem vantagens e riscos. Acompanhe os efeitos ao longo do tempo, por exemplo na frequência de utilização e nas glosas, e revise periodicamente, sempre com base em dados conciliados e em discussão técnica com a rede.
+
 ## Próximos passos
 
 Para ver como a rede, os custos e a qualidade podem ser analisados em um só ambiente, conheça a [página da NeoHealth BI · OPS](/neohealth-bi-ops) [A CONFIRMAR: URL final da landing page].

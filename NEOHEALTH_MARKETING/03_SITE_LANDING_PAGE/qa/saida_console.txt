@@ -1,0 +1,23 @@
+PASS [375] sem overflow horizontal - scrollWidth=375 clientWidth=375
+PASS [375] 15 secoes, 1 H1, imagens com alt, sem imagens quebradas - {"sw":375,"cw":375,"h1":1,"sections":15,"imgsNoAlt":0,"broken":0}
+PASS [375] sem erros de console
+PASS menu mobile abre
+PASS [768] sem overflow horizontal - scrollWidth=768 clientWidth=768
+PASS [768] 15 secoes, 1 H1, imagens com alt, sem imagens quebradas - {"sw":768,"cw":768,"h1":1,"sections":15,"imgsNoAlt":0,"broken":0}
+PASS [768] sem erros de console
+PASS [1440] sem overflow horizontal - scrollWidth=1440 clientWidth=1440
+PASS [1440] 15 secoes, 1 H1, imagens com alt, sem imagens quebradas - {"sw":1440,"cw":1440,"h1":1,"sections":15,"imgsNoAlt":0,"broken":0}
+PASS [1440] sem erros de console
+PASS UTM/gclid/li_fat_id capturados nos campos ocultos - {"s":"linkedin","m":"paid","g":"G123","l":"L456","u":"http://127.0.0.1:37163/index.html?utm_source=linkedin&utm_medium=paid&utm_campaign=teste&gclid=G123&li_fat_id=L456"}
+PASS dataLayer: lp_view e scroll_depth - lp_view,section_view,section_view,section_view,scroll_depth,section_view,section_view,section_view,section_view,scroll_depth,section_view,section_view,section_view,section_view,section_view,scroll_depth,section_view,section_view,section_view,schedule_view,scroll_depth
+PASS links internos (11 unicos) resolvem
+PASS FAQ abre e dispara faq_open
+PASS form vazio: 8 campos invalidos - invalidos=8
+PASS e-mail pessoal rejeitado
+PASS consentimento obrigatorio
+PASS honeypot bloqueia envio
+PASS submit valido (sem endpoint) vai para obrigado em modo homologacao - http://127.0.0.1:37163/obrigado.html?modo=homologacao
+PASS politica de privacidade carrega
+PASS JSON-LD Organization e FAQPage validos - Organization,FAQPage
+PASS nenhuma requisicao externa (nada enviado/carregado fora do host local)
+PASS nenhum POST/PUT recebido pelo servidor local

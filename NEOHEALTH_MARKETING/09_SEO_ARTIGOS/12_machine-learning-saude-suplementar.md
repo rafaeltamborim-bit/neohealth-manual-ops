@@ -138,6 +138,12 @@ Não constam na ficha de fatos: **[A CONFIRMAR]**.
 **A detecção de anomalias acusa fraude?**
 Não. Ela sinaliza desvios para análise; a conclusão é humana.
 
+## Um exemplo conceitual de ciclo de vida de um modelo
+
+Imagine uma operadora que queira acompanhar a evolução mensal de um custo assistencial. O ciclo seria: (1) definir o indicador e o horizonte; (2) preparar a série histórica, tratando lacunas e mudanças de regra; (3) treinar o modelo com parte do histórico; (4) testar em períodos posteriores, comparando com uma referência simples; (5) apresentar a previsão com faixa de incerteza e premissas; (6) acompanhar o realizado e registrar o erro; (7) reavaliar o modelo periodicamente. Este exemplo é ilustrativo e não descreve uma implementação específica da plataforma.
+
+O ponto central é o aprendizado contínuo da organização: cada comparação entre previsto e realizado ensina algo sobre os dados, sobre o negócio e sobre os limites do modelo. É isso que transforma o ML de uma caixa-preta em um instrumento de apoio à decisão, com responsáveis claros e revisão humana.
+
 ## Próximos passos
 
 Se a sua operadora quer conhecer como previsões, detecção de anomalias e simulações podem se somar à análise histórica, conheça a [página da NeoHealth BI · OPS](/neohealth-bi-ops) [A CONFIRMAR: URL final da landing page].
