@@ -93,7 +93,14 @@ for c in CAMPS:
     rows["snippets"].append({"Campaign":c["nome"],"Header":"Service catalog",**{f"Value {i}":t for i,t in enumerate(SNIPPETS,1)},"Status":"Paused"})
 if erros: print("\n".join(erros)); sys.exit(1)
 os.makedirs(BASE+"/csv_editor",exist_ok=True)
+FASE2={c["nome"] for c in CAMPS if c["orc"]==0}
 for k,v in rows.items():
+    f2=[r for r in v if r.get("Campaign") in FASE2]; v=[r for r in v if r.get("Campaign") not in FASE2]
+    os.makedirs(BASE+"/csv_editor/fase2",exist_ok=True)
+    cols=[]; [cols.append(x) for r in f2 for x in r if x not in cols]
+    if f2:
+        with open(f"{BASE}/csv_editor/fase2/{k}.csv","w",newline="",encoding="utf-8-sig") as f:
+            w=csv.DictWriter(f,fieldnames=cols); w.writeheader(); [w.writerow({x:r.get(x,"") for x in cols}) for r in f2]
     cols=[]; [cols.append(x) for r in v for x in r if x not in cols]
     with open(f"{BASE}/csv_editor/{k}.csv","w",newline="",encoding="utf-8-sig") as f:
         w=csv.DictWriter(f,fieldnames=cols); w.writeheader(); [w.writerow({x:r.get(x,"") for x in cols}) for r in v]

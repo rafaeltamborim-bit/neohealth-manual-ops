@@ -86,7 +86,7 @@
       return FREE.indexOf(d)===-1 || 'Use seu e-mail corporativo.'; },
     cargo:  function(v){ return v.trim().length>=2 || 'Informe seu cargo.'; },
     empresa:function(v){ return v.trim().length>=2 || 'Informe o nome da operadora/empresa.'; },
-    tipo_operadora:function(v){ return v!=='' || 'Selecione o tipo de operadora.'; },
+    tipo_operadora:function(v){ return v!=='' || 'Selecione o tipo de organização.'; },
     erp:    function(v){ return v!=='' || 'Selecione o ERP utilizado.'; },
     desafio:function(v){ return v.trim().length>=10 || 'Descreva brevemente seu principal desafio (mín. 10 caracteres).'; },
     consentimento:function(_,el){ return el.checked || 'É necessário aceitar o tratamento de dados para enviar.'; }
