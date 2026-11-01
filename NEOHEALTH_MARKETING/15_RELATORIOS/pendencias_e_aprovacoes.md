@@ -46,7 +46,7 @@ Detalhes por pasta: arquivos `PENDENCIAS*.md` em cada diretório.
 Linguagem sem garantia de resultado (varredura feita: sem ocorrências afirmativas); nota "dados fictícios" em toda peça com tela; sem clientes/depoimentos/certificações; LGPD (consentimento, opt-out, sem dado de saúde pessoal); Meta/Google restringem segmentação por atributos de saúde.
 
 ## 6. Atualização 01/11/2026 — decisões do proprietário
-- Verba definida: **R$ 500/mês** (revisado de R$ 1.000) (ver 01_ESTRATEGIA/05b_orcamento_1000.md). Falta ajustar os orçamentos de Google (05) e Meta (06) escritos para R$ 1.200/R$ 600.
+- Verba definida: **R$ 500 operadoras + R$ 500 hospitais = R$ 1.000/mês** (ver 01_ESTRATEGIA/05b_orcamento_1000.md). Posicionamento: qualquer ERP e dois públicos (ficha, seção F). Falta reescrever Tasy-centrismo (~60 arquivos) e criar segmento hospitais após levantamento nas sessões locais.
 - Funcionalidades da seção A da ficha autorizadas como [DISPONÍVEL] (ficha, seção E). Falta revisar as peças que ainda mostram [A CONFIRMAR] para esses itens.
 - Domínio https://neohealth.com.br/ e logotipo: **site inacessível pelo ambiente** (host bloqueado na política de rede). Para liberar: menu do ambiente na barra de título da sessão > Edit > Network access, adicionando neohealth.com.br em Allowed domains. Alternativa: enviar o logotipo (SVG/PNG) ao repositório.
 - Continuam sem decisão: contas de anúncio, faturamento, publicação da landing, endpoint do formulário, GTM/GA4, revisão jurídica, uso da marca Philips Tasy.
