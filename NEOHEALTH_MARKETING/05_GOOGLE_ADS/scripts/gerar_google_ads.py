@@ -2,62 +2,55 @@
 """Gera CSVs (Google Ads Editor) e campanhas/*.md; verifica limites de caracteres. Rodar: python3 gerar_google_ads.py"""
 import csv, os, sys
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DOM = "https://DOMINIO-A-CONFIRMAR"   # [A CONFIRMAR] domínio/landing definitivos (03_SITE_LANDING_PAGE)
+DOM = "https://neohealth.com.br"   # domínio informado pelo proprietário; páginas /lp/* ainda a publicar (03_SITE_LANDING_PAGE)
 COMUNS = ["Solicite uma demonstração","Transforme dados em decisões","Decisões em resultados","NeoHealth BI · OPS",
           "Veja a plataforma em ação","Conheça o potencial dos dados","Inteligência para operadoras"]
 NEG_GERAIS = ["vaga","vagas","emprego","estágio","salário","curso","cursos","treinamento","certificação","faculdade","tcc","monografia",
  "grátis","gratuito","download","pdf","apostila","tutorial","youtube","hospital","clínica","consultório","prontuário","laboratório","farmácia",
  "plano de saúde individual","cotação","comparar planos","carteirinha","segunda via","boleto","telefone","reclamação","convênio médico","enfermagem","residência"]
+COMUNS_H = ["Solicite uma demonstração","Transforme dados em decisões","Decisões em resultados","NeoHealth BI · OPS",
+          "Veja a plataforma em ação","Conheça o potencial dos dados","Inteligência para hospitais"]
+NEG_H = [n for n in NEG_GERAIS if n not in ("hospital","clínica")] + ["plano de saúde","operadora de saúde"]
+D_COM = "Transforme dados em decisões. Decisões em resultados. Veja a plataforma em ação."
 CAMPS = [
- dict(slug="bi-operadoras", nome="GS - BI para operadoras de planos de saúde", orc=300, lp="bi-operadoras",
-  grupos={"BI operadoras":["bi para operadoras de planos de saúde","business intelligence operadora de saúde","bi para operadora de saúde","bi operadoras saúde suplementar"],
-          "Software plataforma operadora":["software para operadora de planos de saúde","sistema de gestão para operadoras de saúde","plataforma de inteligência para operadoras","software gestão operadora saúde"],
-          "Dashboard operadora":["dashboard para operadora de saúde","painel de indicadores operadora de saúde","cockpit executivo operadora","dashboard gestão plano de saúde"]},
-  h=["BI para operadoras de saúde","Plataforma para operadoras","Painel executivo da operadora","Financeiro e sinistralidade","Visão assistencial e ANS","Dados da operadora num painel","Mais visibilidade na gestão","Cockpit para gestores"],
-  d=["Plataforma de inteligência estratégica para operadoras. Solicite uma demonstração.","Visão financeira, sinistralidade, assistencial e regulatória em um só lugar.","Transforme dados em decisões. Decisões em resultados. Veja a plataforma em ação.","Conheça o potencial dos dados da sua operadora. Demonstração com base fictícia."],
-  extra_neg=["power bi download","excel"], path=("bi-operadoras","demonstracao")),
- dict(slug="bi-tasy", nome="GS - BI para Philips Tasy", orc=200, lp="bi-philips-tasy",
-  grupos={"BI Tasy":["bi para tasy","bi philips tasy","business intelligence tasy","bi tasy operadora de planos de saúde"],
-          "Dados Tasy operadora":["dados do tasy operadora de saúde","integração tasy bi","análise de dados tasy","relatórios tasy operadora"],
-          "Dashboard Tasy":["dashboard tasy financeiro","tasy plano de saúde indicadores","painel gerencial tasy operadora"]},
-  h=["BI para operadoras com Tasy","Dados do Tasy em painéis","Integração com Philips Tasy","Do ERP à decisão","Seus dados do ERP, mais claros","Painéis financeiros e ANS","Indicadores do seu ERP","Análise além dos relatórios"],
-  d=["Plataforma de BI para operadoras com integração a ERP Philips Tasy. Peça uma demonstração.","Leve os dados do seu ERP a painéis de sinistralidade, finanças e regulação.","Transforme dados em decisões. Decisões em resultados. Veja a plataforma em ação.","Conheça o potencial dos dados da sua operadora. Demonstração com base fictícia."],
-  extra_neg=["suporte tasy","login tasy","tasy ehr hospital","vaga tasy","curso tasy","treinamento tasy","tasy prontuário"], path=("bi-tasy","demonstracao")),
- dict(slug="indicadores-operadoras", nome="GS - Indicadores para operadoras", orc=150, lp="indicadores-operadoras",
-  grupos={"Indicadores operadora":["indicadores para operadoras de saúde","indicadores de gestão operadora de saúde","indicadores de desempenho operadora","kpis operadora de planos de saúde"],
-          "Indicadores setoriais":["indicadores financeiros operadora de saúde","indicadores assistenciais operadora","indicadores de sinistralidade"],
-          "Painel de indicadores":["painel de indicadores ans","indicadores operadora planos de saúde dashboard"]},
-  h=["Indicadores para operadoras","KPIs da sua operadora","Painel de indicadores","Indicadores financeiros","Indicadores assistenciais","Indicadores de sinistralidade","Indicadores em um só painel","Acompanhe indicadores-chave"],
-  d=["Acompanhe indicadores financeiros, assistenciais e regulatórios da operadora em um painel.","Mais visibilidade sobre os indicadores que importam para a gestão. Peça demonstração.","Transforme dados em decisões. Decisões em resultados. Veja a plataforma em ação.","Conheça o potencial dos dados da sua operadora. Demonstração com base fictícia."],
-  extra_neg=["kpi rh","indicadores educação"], path=("indicadores","demonstracao")),
- dict(slug="gestao-sinistralidade", nome="GS - Gestão de sinistralidade", orc=200, lp="gestao-sinistralidade",
+ dict(slug="op-decisao", nome="GS - Operadoras: inteligência de dados e decisão", orc=200, lp="operadoras",
+  grupos={"Inteligência operadoras":["inteligência de dados para operadoras de saúde","plataforma de inteligência para operadoras","inteligência estratégica operadora de saúde","bi para operadoras de planos de saúde"],
+          "Gestão operadora":["software para operadora de planos de saúde","sistema de gestão para operadoras de saúde","gestão estratégica operadora de saúde","indicadores para operadoras de saúde"],
+          "Decisão e previsão":["previsão de sinistralidade","gestão de sinistralidade operadora","análise preditiva operadora de saúde"]},
+  h=["Inteligência estratégica","Decida com dados","Antecipe cenários","Visão integrada da operadora","Financeiro e sinistralidade","Assistencial e regulatório","Apoio a decisões na gestão","Previsões e simuladores"],
+  d=["Plataforma de inteligência estratégica para operadoras. Solicite uma demonstração.","Visão financeira, sinistralidade, assistencial e regulatória para decidir e antecipar.",D_COM,"Conheça o potencial dos dados da sua operadora. Demonstração com base fictícia."],
+  extra_neg=["power bi download","excel"], path=("operadoras","demonstracao")),
+ dict(slug="op-erp", nome="GS - Operadoras: qualquer ERP", orc=200, lp="operadoras-erp",
+  grupos={"Integração ERP":["bi integrado ao erp operadora de saúde","integração erp operadora de saúde bi","inteligência de dados erp operadora","dados do erp da operadora em um só lugar"],
+          "ERPs específicos":["bi tasy operadora de planos de saúde","dados do tasy operadora de saúde","análise de dados tasy operadora"],
+          "Qualquer ERP":["bi para qualquer erp operadora","plataforma independente de erp operadora"]},
+  h=["Funciona com seu ERP","Dados do ERP em decisões","Inteligência de dados","Do ERP à decisão","Visão integrada de dados","Financeiro e sinistralidade","Assistencial e regulatório","Antecipe cenários"],
+  d=["Integra-se ao ERP da sua operadora. Transforme dados em decisões. Peça uma demonstração.","Dados do ERP em visão integrada: financeiro, sinistralidade, assistencial e ANS.",D_COM,"Conheça o potencial dos dados da sua operadora. Demonstração com base fictícia."],
+  extra_neg=["suporte tasy","login tasy","tasy ehr hospital","vaga tasy","curso tasy","treinamento tasy","tasy prontuário"], path=("operadoras","erp")),
+ dict(slug="op-sinistralidade", nome="GS - Operadoras: sinistralidade (fase 2)", orc=0, lp="gestao-sinistralidade",
   grupos={"Gestão de sinistralidade":["gestão de sinistralidade","controle de sinistralidade operadora","como controlar sinistralidade operadora","gestão da sinistralidade plano de saúde"],
-          "Análise e previsão":["análise de sinistralidade","previsão de sinistralidade","evolução da sinistralidade operadora","sinistralidade projetado x real"],
-          "Software sinistralidade":["software gestão de sinistralidade","sistema controle de sinistralidade","dashboard sinistralidade"]},
+          "Análise e previsão":["análise de sinistralidade","previsão de sinistralidade","evolução da sinistralidade operadora","sinistralidade projetado x real"]},
   h=["Gestão de sinistralidade","Evolução da sinistralidade","Previsão de sinistralidade","Projetado x real","Fatores que pressionam custos","Não espere o fechamento do mês","Ofensores assistenciais","Sinistralidade mais clara"],
-  d=["Ajuda a identificar os fatores que pressionam a sinistralidade, sem esperar o fechamento.","Evolução, previsão e projetado x real da sinistralidade em painéis. Peça uma demonstração.","Transforme dados em decisões. Decisões em resultados. Veja a plataforma em ação.","Conheça o potencial dos dados da sua operadora. Demonstração com base fictícia."],
+  d=["Ajuda a identificar os fatores que pressionam a sinistralidade, sem esperar o fechamento.","Evolução, previsão e projetado x real da sinistralidade. Peça uma demonstração.",D_COM,"Conheça o potencial dos dados da sua operadora. Demonstração com base fictícia."],
   extra_neg=["sinistralidade seguro auto","sinistro seguro","sinistralidade veículo","franquia"], path=("sinistralidade","demonstracao")),
- dict(slug="gestao-financeira", nome="GS - Gestão financeira de operadoras", orc=120, lp="gestao-financeira-operadoras",
-  grupos={"Gestão financeira operadora":["gestão financeira de operadoras de saúde","gestão financeira operadora de planos de saúde","controle financeiro operadora de saúde"],
-          "Temas financeiros":["inadimplência operadora de saúde","dre operadora de saúde","reajuste de mensalidades operadora"],
-          "Software financeiro":["software financeiro operadora de saúde","sistema contábil operadora de planos de saúde","dashboard financeiro operadora"]},
-  h=["Gestão financeira operadoras","Riscos e oportunidades","DRE e contabilidade","Inadimplência sob controle","Gestão de reajustes","Visão financeira da operadora","Finanças e sinistralidade","Painéis financeiros"],
-  d=["Sua operadora sabe onde estão os riscos financeiros e as oportunidades?","Contabilidade, DRE, inadimplência e reajustes em painéis para a gestão.","Transforme dados em decisões. Decisões em resultados. Veja a plataforma em ação.","Conheça o potencial dos dados da sua operadora. Demonstração com base fictícia."],
-  extra_neg=["contador","contabilidade escritório","mei","nota fiscal","imposto de renda"], path=("financeiro","demonstracao")),
- dict(slug="inteligencia-regulatoria-ans", nome="GS - Inteligência regulatória ANS", orc=150, lp="inteligencia-regulatoria-ans",
+ dict(slug="op-ans", nome="GS - Operadoras: inteligência regulatória ANS (fase 2)", orc=0, lp="inteligencia-regulatoria-ans",
   grupos={"Inteligência regulatória":["inteligência regulatória ans","monitoramento indicadores ans","gestão de obrigações ans","obrigações regulatórias operadora de saúde"],
-          "IDSS e Sala de Situação":["idss gestão operadora","sistema para idss","acompanhamento idss operadora","sala de situação ans"],
-          "RN 623 TISS SIB":["rn 623 atendimento operadora","monitoramento tiss operadora","sib operadora gestão"]},
-  h=["Inteligência regulatória ANS","Gestão de IDSS","Sala de Situação ANS","Obrigações ANS em painéis","Mais visibilidade regulatória","Indicadores e obrigações","Monitoramento TISS e SIB","Atendimentos e RN 623"],
-  d=["Mais visibilidade sobre indicadores, obrigações e riscos regulatórios da sua operadora.","IDSS, Sala de Situação, TISS, SIB e RN 623 em painéis. Peça uma demonstração.","Transforme dados em decisões. Decisões em resultados. Veja a plataforma em ação.","Conheça o potencial dos dados da sua operadora. Demonstração com base fictícia."],
+          "IDSS e Sala de Situação":["idss gestão operadora","sistema para idss","acompanhamento idss operadora","sala de situação ans"]},
+  h=["Inteligência regulatória ANS","Gestão de IDSS","Sala de Situação ANS","Obrigações ANS em visão única","Mais visibilidade regulatória","Indicadores e obrigações","Monitoramento TISS e SIB","Atendimentos e RN 623"],
+  d=["Mais visibilidade sobre indicadores, obrigações e riscos regulatórios da sua operadora.","IDSS, Sala de Situação, TISS, SIB e RN 623 em uma visão integrada. Peça demonstração.",D_COM,"Conheça o potencial dos dados da sua operadora. Demonstração com base fictícia."],
   extra_neg=["consulta idss","resultado idss unimed","rol de procedimentos lista","protocolo ans","reclamação ans","denúncia ans"], path=("regulatorio-ans","demonstracao")),
- dict(slug="bi-saude", nome="GS - Business Intelligence na saúde", orc=80, lp="bi-saude-suplementar",
-  grupos={"BI na saúde":["business intelligence na saúde","bi na saúde","bi para saúde suplementar","bi healthcare brasil"],
-          "Analytics saúde suplementar":["analytics saúde suplementar","inteligência de dados saúde suplementar","big data saúde operadoras"],
-          "Gestão em saúde":["bi para gestão em saúde","dashboard gestão em saúde"]},
-  h=["BI para saúde suplementar","Business Intelligence em saúde","Inteligência de dados em saúde","Analytics para operadoras","Dados de saúde suplementar","Painéis para gestores","Foco em operadoras de saúde","Da análise à decisão"],
-  d=["Inteligência estratégica de dados para operadoras de planos de saúde. Demonstração.","Mais que dashboards: apoio a decisões financeiras, assistenciais e regulatórias.","Transforme dados em decisões. Decisões em resultados. Veja a plataforma em ação.","Conheça o potencial dos dados da sua operadora. Demonstração com base fictícia."],
-  extra_neg=["hospitalar","hospital","ti saúde","tecnologia da informação curso","python","sql","power bi curso","tableau","qlik"], path=("bi-saude","demonstracao")),
+ dict(slug="hosp-decisao", nome="GS - Hospitais: inteligência de dados e decisão", orc=200, lp="hospitais", comuns=COMUNS_H, neg=NEG_H,
+  grupos={"Inteligência hospitais":["inteligência de dados para hospitais","plataforma de inteligência hospitalar","inteligência estratégica gestão hospitalar","bi para hospitais"],
+          "Gestão hospitalar":["indicadores de gestão hospitalar","software de gestão hospitalar indicadores","analytics hospitalar","gestão hospitalar baseada em dados"]},
+  h=["Inteligência estratégica","Decida com dados","Visão integrada da gestão","Antecipe cenários","Dados que viram decisão","Gestão hospitalar com dados","Apoio a decisões na gestão","Mais visibilidade na gestão"],
+  d=["Plataforma de inteligência de dados e decisão para hospitais. Solicite uma demonstração.","Transforme os dados do seu hospital em visão integrada para decidir e antecipar.",D_COM,"Conheça o potencial dos dados do seu hospital. Demonstração com base fictícia."],
+  extra_neg=["prontuário eletrônico","vaga hospital","concurso hospital"], path=("hospitais","demonstracao")),
+ dict(slug="hosp-erp", nome="GS - Hospitais: qualquer ERP", orc=200, lp="hospitais-erp", comuns=COMUNS_H, neg=NEG_H,
+  grupos={"Integração ERP hospital":["bi integrado ao erp hospitalar","inteligência de dados erp hospitalar","dados do erp do hospital em um só lugar","integração erp hospital bi"],
+          "ERPs específicos":["bi tasy hospital","dados do tasy hospital","análise de dados tasy hospital"]},
+  h=["Funciona com seu ERP","Dados do ERP em decisões","Inteligência de dados","Do ERP à decisão","Visão integrada de dados","Gestão hospitalar com dados","Antecipe cenários","Dados que viram decisão"],
+  d=["Integra-se ao ERP do seu hospital. Transforme dados em decisões. Peça uma demonstração.","Dados do ERP hospitalar em uma visão integrada para a gestão decidir e antecipar.",D_COM,"Conheça o potencial dos dados do seu hospital. Demonstração com base fictícia."],
+  extra_neg=["suporte tasy","login tasy","vaga tasy","curso tasy","treinamento tasy","tasy prontuário"], path=("hospitais","erp")),
 ]
 SITELINKS=[("Solicite uma demonstração","Veja a plataforma em ação","Dados fictícios de demonstração","demonstracao"),
  ("Sinistralidade","Evolução e previsão","Fatores que pressionam custos","gestao-sinistralidade"),
@@ -73,13 +66,13 @@ def chk(txt,lim,rot):
 rows={k:[] for k in ["campanhas","grupos","palavras","negativas","rsa","sitelinks","callouts","snippets"]}
 rep=["# Relatório de verificação de caracteres (gerado por scripts/gerar_google_ads.py)\n","| Campanha | Títulos (máx. chars) | Descrições (máx. chars) | Status |\n|---|---|---|---|"]
 for c in CAMPS:
-    hs=(c["h"]+COMUNS)[:15]; ds=c["d"]
+    hs=(c["h"]+c.get("comuns",COMUNS))[:15]; ds=c["d"]
     assert len(hs)==15 and len(set(hs))==15 and len(ds)==4,c["slug"]
     for t in hs: chk(t,30,c["slug"]+" H")
     for t in ds: chk(t,90,c["slug"]+" D")
     for t in c["path"]: chk(t,15,"path")
     rep.append(f"| {c['nome']} | {max(map(len,hs))} | {max(map(len,ds))} | {'OK' if all(len(x)<=30 for x in hs) and all(len(x)<=90 for x in ds) else 'FALHA'} |")
-    rows["campanhas"].append({"Campaign":c["nome"],"Campaign Type":"Search","Status":"Paused","Budget":f"{c['orc']/30.4:.2f}","Budget type":"Daily","Networks":"Google search","Languages":"pt","Bid Strategy Type":"Maximize clicks","Maximum CPC limit":"","Location":"Brazil","EU political ads":"No"})
+    rows["campanhas"].append({"Campaign":c["nome"],"Campaign Type":"Search","Status":"Paused","Budget":(f"{c['orc']/30.4:.2f}" if c["orc"] else "A DEFINIR (fase 2)"),"Budget type":"Daily","Networks":"Google search","Languages":"pt","Bid Strategy Type":"Maximize clicks","Maximum CPC limit":"","Location":"Brazil","EU political ads":"No"})
     for g,kws in c["grupos"].items():
         rows["grupos"].append({"Campaign":c["nome"],"Ad Group":g,"Ad Group Type":"Standard","Status":"Paused"})
         for k in kws:
@@ -90,7 +83,7 @@ for c in CAMPS:
         for i,t in enumerate(hs,1): r[f"Headline {i}"]=t
         for i,t in enumerate(ds,1): r[f"Description {i}"]=t
         rows["rsa"].append(r)
-    for n in sorted(set(NEG_GERAIS+c["extra_neg"])):
+    for n in sorted(set(c.get("neg",NEG_GERAIS)+c["extra_neg"])):
         rows["negativas"].append({"Campaign":c["nome"],"Keyword":n,"Criterion Type":"Negative Phrase","Status":"Enabled"})
     for l,d1,d2,p in SITELINKS:
         chk(l,25,"sl");chk(d1,35,"sl d1");chk(d2,35,"sl d2")
@@ -110,7 +103,7 @@ rep.append(f"\nTotal: {len(CAMPS)} campanhas, {len(rows['grupos'])} grupos, {len
 open(BASE+"/csv_editor/VERIFICACAO_CARACTERES.md","w",encoding="utf-8").write("\n".join(rep)+"\n")
 # md por campanha
 for n,c in enumerate(CAMPS,1):
-    hs=(c["h"]+COMUNS)[:15]
+    hs=(c["h"]+c.get("comuns",COMUNS))[:15]
     L=[f"# Campanha {n}: {c['nome']}\n",f"- Orçamento do cenário: **R$ {c['orc']}/mês** (≈ R$ {c['orc']/30.4:.2f}/dia) · Rede: somente Pesquisa Google (sem parceiros de pesquisa/Display) · Local: Brasil · Idioma: pt · Status ao importar: **Pausada**",
        f"- Landing page de destino: `{DOM}/lp/{c['lp']}` [A CONFIRMAR domínio e criação da LP, ver 03_SITE_LANDING_PAGE]",
        f"- Final URL com UTM: `{utm(c)}`","- Lance inicial: **Maximizar cliques** com teto de CPC [HIPÓTESE: definir após Planejador de Palavras-chave] → após 15-30 conversões (principais/qualificadas offline) migrar para **Maximizar conversões**; tCPA só com ≥30 conversões/30 dias (improvável neste orçamento).",
@@ -122,6 +115,6 @@ for n,c in enumerate(CAMPS,1):
     L.append("\n## RSA: 4 descrições (≤90 car.)\n"); [L.append(f"{i}. {t} ({len(t)})") for i,t in enumerate(c['d'],1)]
     L.append(f"\nCaminho de exibição: /{c['path'][0]}/{c['path'][1]}\n\n## Extensões\n- Sitelinks: "+"; ".join(f"{a} → /lp/{p}" for a,_,_,p in SITELINKS)+"\n- Callouts: "+"; ".join(CALLOUTS)+" ([A CONFIRMAR] on-premise e controle de acesso)\n- Snippet estruturado (Catálogo de serviços): "+", ".join(SNIPPETS)+"\n")
     L.append("## Observações de intenção/SERP\nVer ../PESQUISA_INTENCAO_SERP.md. Termos observáveis: validar volumes e CPC no Planejador de Palavras-chave.\n")
-    L.append("Funcionalidades citadas e status: painéis financeiros/sinistralidade/ANS [DISPONÍVEL, conforme Ficha A e inventário de telas]; integração Philips Tasy [A CONFIRMAR escopo comercial e uso da marca em anúncio]; previsões [DISPONÍVEL conforme Ficha A, sem promessa de resultado].")
+    L.append("Funcionalidades citadas e status: painéis financeiros/sinistralidade/ANS [DISPONÍVEL, conforme Ficha A e inventário de telas]; integração com ERPs (qualquer ERP, conforme proprietário; lista e forma [A CONFIRMAR]); Tasy citado só como palavra-chave, sem parceria; hospitais: funcionalidades específicas [A CONFIRMAR]; previsões [DISPONÍVEL conforme Ficha A, sem promessa de resultado].")
     open(f"{BASE}/campanhas/{n:02d}_{c['slug']}.md","w",encoding="utf-8").write("\n".join(L)+"\n")
 print("OK",open(BASE+"/csv_editor/VERIFICACAO_CARACTERES.md").read())

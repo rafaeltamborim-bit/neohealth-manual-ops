@@ -1,8 +1,8 @@
-# Campanha 6: GS - Inteligência regulatória ANS
+# Campanha 4: GS - Operadoras: inteligência regulatória ANS (fase 2)
 
-- Orçamento do cenário: **R$ 150/mês** (≈ R$ 4.93/dia) · Rede: somente Pesquisa Google (sem parceiros de pesquisa/Display) · Local: Brasil · Idioma: pt · Status ao importar: **Pausada**
-- Landing page de destino: `https://DOMINIO-A-CONFIRMAR/lp/inteligencia-regulatoria-ans` [A CONFIRMAR domínio e criação da LP, ver 03_SITE_LANDING_PAGE]
-- Final URL com UTM: `https://DOMINIO-A-CONFIRMAR/lp/inteligencia-regulatoria-ans?utm_source=google&utm_medium=cpc&utm_campaign=inteligencia-regulatoria-ans&utm_term={keyword}&utm_content={creative}`
+- Orçamento do cenário: **R$ 0/mês** (≈ R$ 0.00/dia) · Rede: somente Pesquisa Google (sem parceiros de pesquisa/Display) · Local: Brasil · Idioma: pt · Status ao importar: **Pausada**
+- Landing page de destino: `https://neohealth.com.br/lp/inteligencia-regulatoria-ans` [A CONFIRMAR domínio e criação da LP, ver 03_SITE_LANDING_PAGE]
+- Final URL com UTM: `https://neohealth.com.br/lp/inteligencia-regulatoria-ans?utm_source=google&utm_medium=cpc&utm_campaign=op-ans&utm_term={keyword}&utm_content={creative}`
 - Lance inicial: **Maximizar cliques** com teto de CPC [HIPÓTESE: definir após Planejador de Palavras-chave] → após 15-30 conversões (principais/qualificadas offline) migrar para **Maximizar conversões**; tCPA só com ≥30 conversões/30 dias (improvável neste orçamento).
 - Evento de conversão principal: `generate_lead_demo` (envio do formulário de demonstração). Ver ../PLANO_MEDICAO_CONVERSOES.md
 
@@ -20,11 +20,6 @@
 - "acompanhamento idss operadora" (frase) · [acompanhamento idss operadora] (exata)
 - "sala de situação ans" (frase) · [sala de situação ans] (exata)
 
-**RN 623 TISS SIB**
-- "rn 623 atendimento operadora" (frase) · [rn 623 atendimento operadora] (exata)
-- "monitoramento tiss operadora" (frase) · [monitoramento tiss operadora] (exata)
-- "sib operadora gestão" (frase) · [sib operadora gestão] (exata)
-
 ## Negativas de campanha (frase)
 consulta idss, denúncia ans, protocolo ans, reclamação ans, resultado idss unimed, rol de procedimentos lista
 
@@ -35,7 +30,7 @@ Mais a lista compartilhada `Negativas_Gerais_NeoHealth` (ver ../csv_editor/lista
 1. Inteligência regulatória ANS (28)
 2. Gestão de IDSS (14)
 3. Sala de Situação ANS (20)
-4. Obrigações ANS em painéis (25)
+4. Obrigações ANS em visão única (29)
 5. Mais visibilidade regulatória (29)
 6. Indicadores e obrigações (24)
 7. Monitoramento TISS e SIB (24)
@@ -51,7 +46,7 @@ Mais a lista compartilhada `Negativas_Gerais_NeoHealth` (ver ../csv_editor/lista
 ## RSA: 4 descrições (≤90 car.)
 
 1. Mais visibilidade sobre indicadores, obrigações e riscos regulatórios da sua operadora. (87)
-2. IDSS, Sala de Situação, TISS, SIB e RN 623 em painéis. Peça uma demonstração. (77)
+2. IDSS, Sala de Situação, TISS, SIB e RN 623 em uma visão integrada. Peça demonstração. (85)
 3. Transforme dados em decisões. Decisões em resultados. Veja a plataforma em ação. (80)
 4. Conheça o potencial dos dados da sua operadora. Demonstração com base fictícia. (79)
 
@@ -65,4 +60,4 @@ Caminho de exibição: /regulatorio-ans/demonstracao
 ## Observações de intenção/SERP
 Ver ../PESQUISA_INTENCAO_SERP.md. Termos observáveis: validar volumes e CPC no Planejador de Palavras-chave.
 
-Funcionalidades citadas e status: painéis financeiros/sinistralidade/ANS [DISPONÍVEL, conforme Ficha A e inventário de telas]; integração Philips Tasy [A CONFIRMAR escopo comercial e uso da marca em anúncio]; previsões [DISPONÍVEL conforme Ficha A, sem promessa de resultado].
+Funcionalidades citadas e status: painéis financeiros/sinistralidade/ANS [DISPONÍVEL, conforme Ficha A e inventário de telas]; integração com ERPs (qualquer ERP, conforme proprietário; lista e forma [A CONFIRMAR]); Tasy citado só como palavra-chave, sem parceria; hospitais: funcionalidades específicas [A CONFIRMAR]; previsões [DISPONÍVEL conforme Ficha A, sem promessa de resultado].
