@@ -28,6 +28,6 @@
 - Pilares: Financeira · Sinistralidade · Assistencial · Regulatória · Preditiva (mensagens no plano, seção 6).
 
 ## E. Decisões do proprietário (registro — 01/11/2026)
-1. **Verba:** R$ 1.000,00/mês de mídia (abaixo do cenário inicial de R$ 3.000). Ver `01_ESTRATEGIA/05b_orcamento_1000.md`.
+1. **Verba:** R$ 500,00/mês de mídia (revisada de R$ 1.000; abaixo do cenário inicial de R$ 3.000). Ver `01_ESTRATEGIA/05b_orcamento_1000.md`.
 2. **Status de funcionalidades:** o proprietário autorizou tratar como **[DISPONÍVEL]** todas as funcionalidades listadas na seção A (resumo técnico/funcional): multi-tenant, integração Oracle/Tasy, DuckDB, módulos financeiro/contábil/sinistralidade/atuarial/beneficiários/assistencial/prestadores/autorizações/glosas/PTU, indicadores ANS (IDSS, RN 518, RN 623, TISS, SIB), Sala de Situação, simuladores, modelos de ML/previsões/anomalias, chat inteligente, alertas por WhatsApp e e-mail, governança/auditoria/controle de acesso, on-premise e app mobile. **Continuam [A CONFIRMAR]** detalhes não listados (algoritmos, métricas, SLAs, integração com outros ERPs, certificações). Alertas de [A CONFIRMAR] nas peças já escritas devem ser relidos à luz desta decisão.
 3. **Domínio e logotipo:** indicado https://neohealth.com.br/ como fonte do logotipo original e domínio. **Não foi possível acessar o site** (bloqueado pela política de rede do ambiente, host neohealth.com.br). Logotipo continua provisório até o arquivo ser fornecido ou o domínio liberado.
