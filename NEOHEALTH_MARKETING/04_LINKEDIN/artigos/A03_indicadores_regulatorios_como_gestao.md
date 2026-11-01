@@ -61,6 +61,20 @@ A promessa aqui é de visibilidade, não de resultado: mais visibilidade sobre i
 
 Pergunte à equipe: "se a ANS divulgasse hoje o resultado do nosso último ciclo, quais indicadores nos surpreenderiam?" Se a resposta for "não sabemos", o ponto de partida é construir a visibilidade contínua.
 
+### Um roteiro de implantação em três fases
+
+Para equipes que queiram sair do modo calendário, um caminho gradual costuma funcionar.
+
+**Fase 1 — Inventário.** Liste as obrigações e os indicadores acompanhados, os responsáveis e as fontes de dados de cada um. O resultado costuma revelar duplicidades (duas áreas calculando o mesmo número de formas diferentes) e lacunas (indicadores sem dono).
+
+**Fase 2 — Visibilidade.** Reúna os indicadores em uma visão única, com atualização frequente e histórico. A meta não é perfeição, é ter uma linha de base confiável para comparar períodos e identificar divergências com os números oficiais.
+
+**Fase 3 — Rotina.** Defina uma reunião periódica curta, com pauta fixa: o que mudou, o que preocupa, que ação foi atribuída a quem. Com o tempo, a pauta deixa de ser reativa e passa a ser preventiva.
+
+### O que medir na própria gestão regulatória
+
+Além dos indicadores da ANS, a própria área pode acompanhar métricas internas, como a proporção de lotes devolvidos, o tempo médio para corrigir inconsistências e o número de ações abertas e concluídas. Essas métricas são definições da operadora, não números de mercado, e servem para mostrar à diretoria se a gestão está ficando mais madura.
+
 ### Conclusão
 
 Cumprir obrigações é condição. Usar os indicadores para entender e melhorar a operação é escolha. Transformar o calendário regulatório em rotina de gestão tende a reduzir surpresas, melhorar a conversa entre áreas e deixar o registro das decisões mais claro.

@@ -63,6 +63,14 @@ Uma plataforma de inteligência não exige abandonar o ERP nem refazer processos
 
 Nenhuma plataforma substitui a equipe técnica. Ela amplia o alcance dela. Atuários, analistas de sinistralidade, auditores e gestores continuam sendo quem interpreta, valida e decide. A tecnologia reduz o tempo gasto em levantar dados e libera tempo para pensar.
 
+### Um exemplo ilustrativo (hipotético)
+
+Imagine uma diretoria que recebe, todo mês, um painel mostrando que a despesa assistencial de um produto subiu. No modelo tradicional, a pergunta seguinte ("por quê?") vira uma solicitação para a TI ou para a atuária, que levam dias para cruzar utilização, prestadores e faixas etárias. Quando a resposta chega, a reunião já passou. Numa plataforma desenhada para o negócio, o mesmo caminho acontece em poucos cliques: do produto à faixa, da faixa ao prestador, do prestador ao procedimento. O exemplo é ilustrativo e não descreve nenhum cliente nem resultado real; serve para mostrar a diferença entre mostrar e orientar.
+
+### Como começar sem grandes rupturas
+
+Uma abordagem prudente é escolher um tema, por exemplo sinistralidade ou glosas, e avaliar em 30 a 60 dias se a visão disponibilizada reduz o tempo entre pergunta e resposta. Defina de antemão a pergunta que se quer responder, quem a faz e que decisão ela apoia. Ao final, a avaliação é objetiva: a equipe passou a decidir com mais informação e mais cedo? [Prazos e formato de piloto: A CONFIRMAR com o time comercial.]
+
 ### Conclusão
 
 BI e inteligência não são opostos; inteligência é o que se constrói quando o BI deixa de ser um conjunto de gráficos e passa a ser uma ferramenta de decisão, desenhada para o contexto de uma operadora. A pergunta útil não é "qual ferramenta tem mais telas?", mas "qual me ajuda a decidir melhor, com governança e a tempo?".
