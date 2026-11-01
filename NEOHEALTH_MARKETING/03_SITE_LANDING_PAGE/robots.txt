@@ -1,0 +1,9 @@
+# MODELO. Homologação: bloquear tudo. Em produção (após aprovação), trocar para o bloco abaixo.
+User-agent: *
+Disallow: /
+
+# --- PRODUÇÃO (descomentar após aprovação) ---
+# User-agent: *
+# Allow: /
+# Disallow: /obrigado.html
+# Sitemap: https://www.EXEMPLO-DOMINIO.com.br/sitemap.xml
