@@ -1,0 +1,71 @@
+# Calendário Editorial LinkedIn — 60 dias (a partir de 03/11/2026)
+
+Todas as datas são **sugeridas**; nada é publicado sem aprovação. Fins de semana sem publicação (fora de rotina B2B). Dia 1 = 03/11/2026; dia 60 = 01/01/2027. Peças da Parte B (C, A, V, S) têm IDs reservados; pilar e objetivo são indicativos até o outro agente concluir. Anúncios S01–S05 dependem de aprovação de orçamento ([A CONFIRMAR]); nenhum gasto está autorizado. Feriados: 15/11, 20/11 (consciência negra), 25/12 e 01/01 — verificar e remanejar.
+
+| Dia | Data | Dia sem. | ID | Formato | Pilar | Objetivo | Status |
+|---|---|---|---|---|---|---|---|
+| 1 | 03/11/2026 | ter | INS01 | Post (texto + imagem) | Financeira | Apresentar o posicionamento da marca no pilar Financeiro e gerar reconhecimento | rascunho — aguardando aprovação |
+| 2 | 04/11/2026 | qua | C01 | Carrossel (PDF) | Financeira (sugerido; confirmar com Parte B) | [definido pelo agente da Parte B — espaço reservado] | rascunho — aguardando aprovação |
+| 2 | 04/11/2026 | qua | INS02 | Post (texto + imagem) | Sinistralidade | Posicionar a marca no tema sinistralidade e abrir conversa nos comentários | rascunho — aguardando aprovação |
+| 3 | 05/11/2026 | qui | TEC01 | Post (texto + imagem) | Financeira | Educar e demonstrar profundidade contábil | rascunho — aguardando aprovação |
+| 3 | 05/11/2026 | qui | V01 | Vídeo | Financeira (sugerido; confirmar com Parte B) | [definido pelo agente da Parte B — espaço reservado] | rascunho — aguardando aprovação |
+| 4 | 06/11/2026 | sex | A01 | Artigo LinkedIn | Financeira (sugerido; confirmar com Parte B) | [definido pelo agente da Parte B — espaço reservado] | rascunho — aguardando aprovação |
+| 4 | 06/11/2026 | sex | COM01 | Post (texto + imagem) | Financeira | Gerar solicitações de demonstração | rascunho — aguardando aprovação |
+| 7 | 09/11/2026 | seg | INS03 | Post (texto + imagem) | Assistencial | Apresentar o pilar Assistencial e a integração entre áreas | rascunho — aguardando aprovação |
+| 8 | 10/11/2026 | ter | C02 | Carrossel (PDF) | Sinistralidade (sugerido; confirmar com Parte B) | [definido pelo agente da Parte B — espaço reservado] | rascunho — aguardando aprovação |
+| 8 | 10/11/2026 | ter | INS04 | Post (texto + imagem) | Regulatória | Posicionar a marca no pilar Regulatório | rascunho — aguardando aprovação |
+| 9 | 11/11/2026 | qua | TEC02 | Post (texto + imagem) | Financeira | Educar e gerar leads qualificados no financeiro | rascunho — aguardando aprovação |
+| 10 | 12/11/2026 | qui | COM02 | Post (texto + imagem) | Financeira | Gerar conversas com a diretoria financeira | rascunho — aguardando aprovação |
+| 11 | 13/11/2026 | sex | INS05 | Post (texto + imagem) | Preditiva | Apresentar o pilar Preditivo com linguagem responsável | rascunho — aguardando aprovação |
+| 14 | 16/11/2026 | seg | C03 | Carrossel (PDF) | Assistencial (sugerido; confirmar com Parte B) | [definido pelo agente da Parte B — espaço reservado] | rascunho — aguardando aprovação |
+| 14 | 16/11/2026 | seg | INS06 | Post (texto + imagem) | Financeira | Diferenciar o posicionamento (especialização setorial) sem comparar concorrentes | rascunho — aguardando aprovação |
+| 15 | 17/11/2026 | ter | TEC03 | Post (texto + imagem) | Sinistralidade | Educar e gerar engajamento técnico | rascunho — aguardando aprovação |
+| 15 | 17/11/2026 | ter | V02 | Vídeo | Sinistralidade (sugerido; confirmar com Parte B) | [definido pelo agente da Parte B — espaço reservado] | rascunho — aguardando aprovação |
+| 16 | 18/11/2026 | qua | A02 | Artigo LinkedIn | Sinistralidade (sugerido; confirmar com Parte B) | [definido pelo agente da Parte B — espaço reservado] | rascunho — aguardando aprovação |
+| 16 | 18/11/2026 | qua | COM03 | Post (texto + imagem) | Sinistralidade | Gerar demonstrações | rascunho — aguardando aprovação |
+| 17 | 19/11/2026 | qui | INS07 | Post (texto + imagem) | Sinistralidade | Educar sobre investigação da sinistralidade e gerar comentários | rascunho — aguardando aprovação |
+| 18 | 20/11/2026 | sex | C04 | Carrossel (PDF) | Regulatória (sugerido; confirmar com Parte B) | [definido pelo agente da Parte B — espaço reservado] | rascunho — aguardando aprovação |
+| 18 | 20/11/2026 | sex | INS08 | Post (texto + imagem) | Assistencial | Defender a integração entre áreas e gerar identificação | rascunho — aguardando aprovação |
+| 22 | 24/11/2026 | ter | TEC04 | Post (texto + imagem) | Sinistralidade | Mostrar profundidade em autorizações e auditoria | rascunho — aguardando aprovação |
+| 23 | 25/11/2026 | qua | COM04 | Post (texto + imagem) | Sinistralidade | Gerar demonstrações com perfil de auditoria | rascunho — aguardando aprovação |
+| 24 | 26/11/2026 | qui | C05 | Carrossel (PDF) | Preditiva (sugerido; confirmar com Parte B) | [definido pelo agente da Parte B — espaço reservado] | rascunho — aguardando aprovação |
+| 24 | 26/11/2026 | qui | INS09 | Post (texto + imagem) | Regulatória | Educar sobre IDSS e posicionar a marca como apoio regulatório | rascunho — aguardando aprovação |
+| 25 | 27/11/2026 | sex | INS10 | Post (texto + imagem) | Preditiva | Apresentar simuladores como apoio à decisão | rascunho — aguardando aprovação |
+| 25 | 27/11/2026 | sex | V03 | Vídeo | Assistencial (sugerido; confirmar com Parte B) | [definido pelo agente da Parte B — espaço reservado] | rascunho — aguardando aprovação |
+| 28 | 30/11/2026 | seg | A03 | Artigo LinkedIn | Assistencial (sugerido; confirmar com Parte B) | [definido pelo agente da Parte B — espaço reservado] | rascunho — aguardando aprovação |
+| 28 | 30/11/2026 | seg | TEC05 | Post (texto + imagem) | Assistencial | Educar sobre estratificação e demonstrar o módulo | rascunho — aguardando aprovação |
+| 29 | 01/12/2026 | ter | COM05 | Post (texto + imagem) | Assistencial | Gerar demonstrações assistenciais | rascunho — aguardando aprovação |
+| 30 | 02/12/2026 | qua | C06 | Carrossel (PDF) | Financeira (sugerido; confirmar com Parte B) | [definido pelo agente da Parte B — espaço reservado] | rascunho — aguardando aprovação |
+| 30 | 02/12/2026 | qua | INS11 | Post (texto + imagem) | Financeira | Mostrar profundidade contábil especializada | rascunho — aguardando aprovação |
+| 31 | 03/12/2026 | qui | INS12 | Post (texto + imagem) | Sinistralidade | Conectar glosas e auditoria ao pilar Sinistralidade | rascunho — aguardando aprovação |
+| 32 | 04/12/2026 | sex | TEC06 | Post (texto + imagem) | Assistencial | Educar e gerar leads assistenciais | rascunho — aguardando aprovação |
+| 35 | 07/12/2026 | seg | COM06 | Post (texto + imagem) | Assistencial | Gerar demonstrações com foco em rede | rascunho — aguardando aprovação |
+| 36 | 08/12/2026 | ter | C07 | Carrossel (PDF) | Sinistralidade (sugerido; confirmar com Parte B) | [definido pelo agente da Parte B — espaço reservado] | rascunho — aguardando aprovação |
+| 36 | 08/12/2026 | ter | INS13 | Post (texto + imagem) | Assistencial | Apresentar a gestão de alto custo | rascunho — aguardando aprovação |
+| 36 | 08/12/2026 | ter | S01 | Anúncio patrocinado (Sponsored Content) | Financeira (sugerido; confirmar com Parte B) | [definido pelo agente da Parte B — espaço reservado] | rascunho — aguardando aprovação |
+| 37 | 09/12/2026 | qua | INS14 | Post (texto + imagem) | Regulatória | Posicionar a marca em obrigações regulatórias | rascunho — aguardando aprovação |
+| 37 | 09/12/2026 | qua | V04 | Vídeo | Regulatória (sugerido; confirmar com Parte B) | [definido pelo agente da Parte B — espaço reservado] | rascunho — aguardando aprovação |
+| 38 | 10/12/2026 | qui | A04 | Artigo LinkedIn | Regulatória (sugerido; confirmar com Parte B) | [definido pelo agente da Parte B — espaço reservado] | rascunho — aguardando aprovação |
+| 38 | 10/12/2026 | qui | TEC07 | Post (texto + imagem) | Regulatória | Educar e demonstrar valor regulatório | rascunho — aguardando aprovação |
+| 39 | 11/12/2026 | sex | COM07 | Post (texto + imagem) | Regulatória | Gerar demonstrações regulatórias | rascunho — aguardando aprovação |
+| 39 | 11/12/2026 | sex | S02 | Anúncio patrocinado (Sponsored Content) | Sinistralidade (sugerido; confirmar com Parte B) | [definido pelo agente da Parte B — espaço reservado] | rascunho — aguardando aprovação |
+| 42 | 14/12/2026 | seg | C08 | Carrossel (PDF) | Assistencial (sugerido; confirmar com Parte B) | [definido pelo agente da Parte B — espaço reservado] | rascunho — aguardando aprovação |
+| 43 | 15/12/2026 | ter | INS15 | Post (texto + imagem) | Preditiva | Reforçar pilar Preditivo | rascunho — aguardando aprovação |
+| 44 | 16/12/2026 | qua | INS16 | Post (texto + imagem) | Financeira | Apresentar o Cockpit Executivo ao público de alta gestão | rascunho — aguardando aprovação |
+| 44 | 16/12/2026 | qua | S03 | Anúncio patrocinado (Sponsored Content) | Assistencial (sugerido; confirmar com Parte B) | [definido pelo agente da Parte B — espaço reservado] | rascunho — aguardando aprovação |
+| 45 | 17/12/2026 | qui | TEC08 | Post (texto + imagem) | Regulatória | Mostrar cobertura em intercâmbio PTU | rascunho — aguardando aprovação |
+| 46 | 18/12/2026 | sex | C09 | Carrossel (PDF) | Regulatória (sugerido; confirmar com Parte B) | [definido pelo agente da Parte B — espaço reservado] | rascunho — aguardando aprovação |
+| 46 | 18/12/2026 | sex | COM08 | Post (texto + imagem) | Regulatória | Gerar conversas iniciais | rascunho — aguardando aprovação |
+| 49 | 21/12/2026 | seg | INS17 | Post (texto + imagem) | Sinistralidade | Falar com alta gestão sobre governança | rascunho — aguardando aprovação |
+| 49 | 21/12/2026 | seg | S04 | Anúncio patrocinado (Sponsored Content) | Regulatória (sugerido; confirmar com Parte B) | [definido pelo agente da Parte B — espaço reservado] | rascunho — aguardando aprovação |
+| 49 | 21/12/2026 | seg | V05 | Vídeo | Preditiva (sugerido; confirmar com Parte B) | [definido pelo agente da Parte B — espaço reservado] | rascunho — aguardando aprovação |
+| 50 | 22/12/2026 | ter | A05 | Artigo LinkedIn | Preditiva (sugerido; confirmar com Parte B) | [definido pelo agente da Parte B — espaço reservado] | rascunho — aguardando aprovação |
+| 50 | 22/12/2026 | ter | INS18 | Post (texto + imagem) | Assistencial | Ampliar percepção de cobertura da plataforma | rascunho — aguardando aprovação |
+| 51 | 23/12/2026 | qua | TEC09 | Post (texto + imagem) | Preditiva | Educar com transparência sobre IA | rascunho — aguardando aprovação |
+| 52 | 24/12/2026 | qui | C10 | Carrossel (PDF) | Preditiva (sugerido; confirmar com Parte B) | [definido pelo agente da Parte B — espaço reservado] | rascunho — aguardando aprovação |
+| 52 | 24/12/2026 | qui | COM09 | Post (texto + imagem) | Preditiva | Gerar demonstrações preditivas | rascunho — aguardando aprovação |
+| 52 | 24/12/2026 | qui | S05 | Anúncio patrocinado (Sponsored Content) | Preditiva (sugerido; confirmar com Parte B) | [definido pelo agente da Parte B — espaço reservado] | rascunho — aguardando aprovação |
+| 53 | 25/12/2026 | sex | INS19 | Post (texto + imagem) | Regulatória | Posicionar suporte à gestão de atendimentos RN 623 | rascunho — aguardando aprovação |
+| 56 | 28/12/2026 | seg | INS20 | Post (texto + imagem) | Preditiva | Reforçar a assinatura da marca e convidar à conversa | rascunho — aguardando aprovação |
+| 57 | 29/12/2026 | ter | TEC10 | Post (texto + imagem) | Preditiva | Educar e gerar demonstrações | rascunho — aguardando aprovação |
+| 58 | 30/12/2026 | qua | COM10 | Post (texto + imagem) | Preditiva | Gerar leads de nível diretoria | rascunho — aguardando aprovação |

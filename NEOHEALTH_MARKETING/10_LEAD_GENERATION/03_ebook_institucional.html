@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="pt-BR"><head><meta charset="utf-8">
+<title>Do dado à decisão: inteligência estratégica para operadoras de planos de saúde — NeoHealth BI · OPS</title>
+<style>
+/* EDITÁVEL: cores e tipografia. Imprimir: Ctrl+P > Salvar como PDF (A4, margens padrão, "gráficos de fundo" ligado). */
+:root{--navy:#0F172A;--deep:#060A15;--blue:#4190D3;--cyan:#5FBEEC;--mint:#A9EFE5}
+*{box-sizing:border-box}
+body{font-family:'Roboto Condensed','Roboto',Arial,sans-serif;color:#1e293b;line-height:1.55;font-size:12pt;margin:0;background:#e5e7eb}
+.page{background:#fff;width:210mm;min-height:297mm;margin:10mm auto;padding:22mm 20mm;page-break-after:always;break-after:page}
+.cover{background:var(--deep);color:#fff;display:flex;flex-direction:column;justify-content:center}
+.cover h1{font-size:34pt;line-height:1.1;margin:0 0 8mm;color:#fff}
+.cover .tag{color:var(--cyan);letter-spacing:.2em;text-transform:uppercase;font-size:11pt}
+.cover .sub{color:var(--mint);font-size:15pt}
+.cover small{color:#94a3b8;margin-top:30mm;display:block}
+h2{color:var(--navy);font-size:20pt;border-bottom:3px solid var(--blue);padding-bottom:3mm;margin-top:0}
+h3{color:var(--blue);font-size:14pt;margin-top:7mm}
+.q{border-left:4px solid var(--cyan);background:#f1f9fe;padding:3mm 5mm;font-style:italic;margin:5mm 0}
+.box{border:1px solid #cbd5e1;background:#f8fafc;padding:4mm 5mm;margin:5mm 0;font-size:11pt}
+.status{font-size:9pt;background:var(--navy);color:var(--mint);padding:0 2mm;border-radius:2px;white-space:nowrap}
+table{border-collapse:collapse;width:100%;font-size:10.5pt;margin:4mm 0}
+th{background:var(--navy);color:#fff;text-align:left;padding:2mm}
+td{border:1px solid #cbd5e1;padding:2mm;vertical-align:top}
+footer.note{font-size:9pt;color:#64748b;border-top:1px solid #cbd5e1;margin-top:8mm;padding-top:2mm}
+@media print{body{background:#fff}.page{margin:0;box-shadow:none;width:auto;min-height:0;padding:0}.cover{min-height:260mm;padding:20mm}@page{size:A4;margin:18mm}}
+</style></head><body>
+
+<section class="page cover">
+<div class="tag">NeoHealth BI · OPS</div>
+<h1>Do dado à decisão</h1>
+<div class="sub">Inteligência estratégica para operadoras de planos de saúde</div>
+<p>Transforme dados em decisões. Decisões em resultados.</p>
+<small>E-book institucional · versão de trabalho 01/11/2026 · [DATA DE PUBLICAÇÃO: A DEFINIR] · Revisão jurídica/comercial: [A CONFIRMAR]</small>
+</section>
+
+<section class="page">
+<h2>Sumário</h2>
+<ol>
+<li>Apresentação</li>
+<li>O desafio: decidir com dados em uma operadora</li>
+<li>Da informação à decisão: o que muda com inteligência estratégica</li>
+<li>Os cinco pilares de decisão
+<ul><li>Financeira</li><li>Sinistralidade</li><li>Assistencial</li><li>Regulatória</li><li>Preditiva</li></ul></li>
+<li>Fundamentos técnicos e governança</li>
+<li>Alertas e acesso à informação</li>
+<li>Como avaliar o potencial dos dados da sua operadora</li>
+<li>Perguntas frequentes</li>
+<li>Transparência: o que este material afirma e o que não afirma</li>
+<li>Glossário</li>
+<li>Próximo passo</li>
+</ol>
+<div class="box"><strong>Como ler as etiquetas de status.</strong> Ao longo do texto, cada funcionalidade citada traz seu status: <span class="status">DISPONÍVEL</span> confirmado em material técnico/tutorial; <span class="status">CONFIGURÁVEL</span> depende de parametrização; <span class="status">EM DESENVOLVIMENTO</span>; <span class="status">PLANEJADO</span>; <span class="status">A CONFIRMAR</span> quando ainda não validado com o proprietário do produto. Todas as imagens e exemplos de telas utilizam a base de demonstração <em>Operadora Modelo</em>, com dados fictícios.</div>
+<div class="box"><strong>Aviso.</strong> Este e-book não contém dados de clientes, resultados obtidos, estatísticas de mercado ou promessas de desempenho. Ele descreve uma abordagem e as capacidades da plataforma.</div>
+</section>
+
+<section class="page">
+<h2>1. Apresentação</h2>
+<p>Operar um plano de saúde significa decidir todos os dias sob pressão: custos assistenciais, regras regulatórias, relacionamento com a rede de prestadores, equilíbrio de contratos e expectativas de beneficiários. Cada uma dessas frentes produz dados — em sistemas de gestão, em arquivos de troca com a Agência Nacional de Saúde Suplementar (ANS), em planilhas de áreas especializadas. O desafio raramente é a falta de dados. É transformá-los, em tempo útil, em decisões que a diretoria consiga tomar e acompanhar.</p>
+<p>A NeoHealth BI · OPS é uma plataforma especializada em inteligência estratégica para operadoras de planos de saúde. Ela não nasceu para ser mais um conjunto de gráficos genéricos: foi organizada em torno das perguntas que gestores de operadoras precisam responder — financeiras, de sinistralidade, assistenciais, regulatórias e preditivas.</p>
+<div class="q">Transforme dados em decisões. Decisões em resultados.</div>
+<p>Este material apresenta a visão por trás da plataforma, organiza as perguntas-chave por área de gestão e propõe um caminho prático para avaliar o potencial dos dados da sua operadora. O texto é institucional: explica conceitos, mostra onde cada tema aparece na plataforma e deixa claros os limites do que pode ser afirmado.</p>
+<h3>Para quem é este e-book</h3>
+<ul>
+<li><strong>Diretoria e superintendência:</strong> visão consolidada e priorização.</li>
+<li><strong>Financeiro, controladoria e contabilidade:</strong> resultado, provisões, inadimplência, reajustes.</li>
+<li><strong>Atuária e gestão de risco:</strong> sinistralidade, projeções, cenários.</li>
+<li><strong>Gestão assistencial e médica:</strong> utilização, alto custo, linhas de cuidado, rede.</li>
+<li><strong>Regulatório e compliance:</strong> indicadores e obrigações perante a ANS.</li>
+<li><strong>TI e BI:</strong> arquitetura, integração, segurança e governança.</li>
+</ul>
+</section>
+
+<section class="page">
+<h2>2. O desafio: decidir com dados em uma operadora</h2>
+<p>A gestão de uma operadora combina áreas com linguagens e prazos diferentes. O financeiro olha o fechamento contábil; a área assistencial acompanha a utilização; o regulatório responde a obrigações periódicas; a diretoria precisa de uma visão única. Quando cada área trabalha com sua própria fonte e sua própria definição de indicador, surgem situações bem conhecidas por quem atua no setor:</p>
+<ul>
+<li><strong>Informação tardia.</strong> O número que explica uma pressão sobre o resultado só aparece depois do fechamento do mês.</li>
+<li><strong>Versões divergentes.</strong> O mesmo indicador, calculado de formas diferentes por áreas diferentes, gera discussões sobre o número em vez de discussões sobre a decisão.</li>
+<li><strong>Análise manual.</strong> Equipes qualificadas gastam tempo consolidando planilhas em vez de analisar causas.</li>
+<li><strong>Visão fragmentada.</strong> Dados financeiros, assistenciais e regulatórios raramente conversam entre si, embora as causas de um problema costumem atravessar essas fronteiras.</li>
+<li><strong>Dificuldade de antecipar.</strong> Sem projeções e cenários, a gestão tende a reagir em vez de se preparar.</li>
+</ul>
+<div class="box">Observação: a lista acima descreve situações recorrentes de gestão, formuladas a partir do conhecimento geral do setor; não se trata de estatística de mercado. Qualquer número sobre o setor que venha a ser incluído neste material deve citar fonte oficial [VERIFICAR NA FONTE].</div>
+<h3>Painéis não são o fim do caminho</h3>
+<p>Um painel mostra o que aconteceu. Uma decisão exige mais: entender por que aconteceu, onde atuar, qual o impacto provável de cada alternativa e como acompanhar o resultado da ação. Por isso, a abordagem da NeoHealth BI · OPS parte das decisões da operadora e não da quantidade de gráficos disponíveis.</p>
+</section>
+
+<section class="page">
+<h2>3. Da informação à decisão</h2>
+<p>Uma forma útil de organizar a jornada dos dados é pensá-la em cinco degraus, cada um respondendo a uma pergunta diferente:</p>
+<table>
+<tr><th>Degrau</th><th>Pergunta</th><th>Exemplo de uso em operadoras</th></tr>
+<tr><td>1. Consolidar</td><td>Onde estão os dados e eles são confiáveis?</td><td>Reunir dados de gestão, financeiros e de troca com a ANS em um único ambiente analítico.</td></tr>
+<tr><td>2. Descrever</td><td>O que está acontecendo?</td><td>Acompanhar indicadores financeiros, de utilização e regulatórios.</td></tr>
+<tr><td>3. Diagnosticar</td><td>Por que está acontecendo?</td><td>Detalhar por contrato, produto, faixa etária, prestador, procedimento.</td></tr>
+<tr><td>4. Antecipar</td><td>O que pode acontecer?</td><td>Projeções, cenários e detecção de comportamentos fora do padrão.</td></tr>
+<tr><td>5. Agir</td><td>O que fazer e como acompanhar?</td><td>Planos de ação, alertas e acompanhamento de execução.</td></tr>
+</table>
+<p>A plataforma cobre esses degraus com módulos conectados entre si. Por exemplo, uma pressão observada em indicadores de sinistralidade pode ser detalhada por tipo de contratação, faixa etária, contrato, produto e beneficiário; e o mesmo recorte pode ser conectado à utilização assistencial e à rede de prestadores.</p>
+<h3>Princípios que orientam a plataforma</h3>
+<ol>
+<li><strong>Especialização do setor.</strong> Os conceitos, as nomenclaturas e as obrigações do setor de saúde suplementar fazem parte do desenho, e não são adaptações de um modelo genérico.</li>
+<li><strong>Do geral ao detalhe.</strong> Um painel executivo conduz o gestor a recortes cada vez mais específicos.</li>
+<li><strong>Rastreabilidade.</strong> Quando um indicador é calculado, é importante poder entender como (há telas de memória de cálculo em módulos como indicadores de atendimento).</li>
+<li><strong>Governança.</strong> Controle de acesso, auditoria e login corporativo (SSO) fazem parte do produto.</li>
+<li><strong>Transparência sobre limites.</strong> A plataforma apoia decisões; ela não substitui o julgamento da gestão e não garante resultados.</li>
+</ol>
+</section>
+
+<section class="page">
+<h2>4. Os cinco pilares de decisão</h2>
+<p>A comunicação e a organização dos módulos da NeoHealth BI · OPS seguem cinco pilares. Para cada um, apresentamos a pergunta central, os temas que a plataforma cobre e algumas telas que ilustram cada tema (identificadas pelo código no inventário interno).</p>
+
+<h3>4.1 Financeira</h3>
+<div class="q">Sua operadora sabe exatamente onde estão os riscos financeiros e as oportunidades de melhoria?</div>
+<p>A gestão financeira de uma operadora vai além do contas a pagar e a receber. Envolve o resultado operacional, as provisões técnicas, os ativos garantidores, a inadimplência e a política de reajustes. O pilar financeiro reúne esses temas para que a diretoria e a controladoria enxerguem riscos e oportunidades no mesmo ambiente.</p>
+<table>
+<tr><th>Tema</th><th>O que a plataforma apresenta</th><th>Telas de referência</th><th>Status</th></tr>
+<tr><td>Contabilidade e resultado</td><td>Balancete, demonstrativo de resultado (DRE), previsão e simulação do DRE, resultado operacional e EBITDA</td><td>con-01, con-02, con-03, con-04, con-15</td><td><span class="status">DISPONÍVEL</span></td></tr>
+<tr><td>Provisões e garantias</td><td>PEONA, ativos garantidores x provisões, PPSC x inadimplência, PESL x eventos avisados</td><td>con-05, con-12, con-13, con-14, con-17</td><td><span class="status">DISPONÍVEL</span></td></tr>
+<tr><td>Contas e inadimplência</td><td>Títulos a receber e a pagar, vencimentos, inadimplência por safra e canal, devedor contumaz, relatório de cobrança</td><td>fin-01 a fin-09</td><td><span class="status">DISPONÍVEL</span></td></tr>
+<tr><td>Mensalidades e reajustes</td><td>Aplicação de reajustes, índices, auditoria de reajustes, simulador de reajuste, renovação dos coletivos</td><td>men-01 a men-18</td><td><span class="status">DISPONÍVEL</span></td></tr>
+<tr><td>Visão executiva</td><td>Cockpit Executivo e Painel de Gestão</td><td>coc-01, mgd-01</td><td><span class="status">DISPONÍVEL</span></td></tr>
+</table>
+<p><strong>Perguntas que o pilar ajuda a responder:</strong> onde o resultado operacional está sendo pressionado? Como a inadimplência se distribui por safra e canal de venda? Os reajustes aplicados estão coerentes com o planejado? As provisões e os ativos garantidores estão alinhados?</p>
+</section>
+
+<section class="page">
+<h3>4.2 Sinistralidade</h3>
+<div class="q">Não espere o fechamento do mês para identificar os fatores que pressionam a sinistralidade.</div>
+<p>A sinistralidade é um dos indicadores mais acompanhados em uma operadora e também um dos mais difíceis de explicar com um único número. O pilar organiza a análise em camadas: visão geral, recortes por tipo de contratação, faixa etária, grupo de contratos, contrato, produto e beneficiário, além de projeções e comparação entre o projetado e o realizado.</p>
+<table>
+<tr><th>Tema</th><th>O que a plataforma apresenta</th><th>Telas de referência</th><th>Status</th></tr>
+<tr><td>Evolução da sinistralidade</td><td>Visão geral e recortes por tipo de contratação, faixa etária, grupos, contratos, produtos e beneficiários</td><td>sin-01 a sin-07</td><td><span class="status">DISPONÍVEL</span></td></tr>
+<tr><td>Projeções</td><td>Previsão da sinistralidade, simulador de resultado, projetado x real</td><td>sin-08, sin-09, sin-10</td><td><span class="status">DISPONÍVEL</span></td></tr>
+<tr><td>Fatores de pressão</td><td>Ofensores assistenciais, frequência de utilização, dispersão de preço por procedimento, VCMH próprio</td><td>ass-05, ass-02, ass-10, ass-09</td><td><span class="status">DISPONÍVEL</span></td></tr>
+<tr><td>Glosas</td><td>Glosas por prestador, procedimento e beneficiário, outliers</td><td>ass-16 a ass-20</td><td><span class="status">DISPONÍVEL</span></td></tr>
+</table>
+<p><strong>Perguntas que o pilar ajuda a responder:</strong> quais grupos de contratos, produtos ou faixas etárias concentram a pressão? O que mudou na utilização? Existem preços muito dispersos para o mesmo procedimento? A trajetória projetada está se confirmando?</p>
+<div class="box">A plataforma ajuda a identificar fatores e dar visibilidade a oportunidades que a inteligência pode ajudar a administrar. Ela não promete redução de sinistralidade: o resultado depende das decisões e das ações da operadora.</div>
+
+<h3>4.3 Assistencial</h3>
+<div class="q">Entenda como a utilização dos serviços de saúde impacta os resultados da sua operadora.</div>
+<p>Custo e cuidado caminham juntos. O pilar assistencial conecta a utilização dos serviços à gestão da carteira, à rede de prestadores e ao processo de autorização. A intenção é apoiar equipes médicas e de gestão de saúde com informação para priorizar populações, casos e processos.</p>
+<table>
+<tr><th>Tema</th><th>O que a plataforma apresenta</th><th>Telas de referência</th><th>Status</th></tr>
+<tr><td>Risco e populações</td><td>Estratificação de risco, alto custo e gestão de caso, risco de subscrição</td><td>ass-11, ass-12, ass-01</td><td><span class="status">DISPONÍVEL</span></td></tr>
+<tr><td>Utilização</td><td>Utilização hospitalar, reinternação em 30 dias, internações sensíveis à atenção primária (ICSAP), saúde mental e terapias</td><td>ass-23, ass-24, ass-22, ass-25</td><td><span class="status">DISPONÍVEL</span></td></tr>
+<tr><td>Rede de prestadores</td><td>Especialidades, cobertura geográfica, qualidade hospitalar, verticalização, modelos de remuneração, prazo de pagamento</td><td>pre-01 a pre-13</td><td><span class="status">DISPONÍVEL</span></td></tr>
+<tr><td>Autorizações e auditoria</td><td>Visão geral, fila de análise, auditoria médica, prazos, negativas por motivo</td><td>aut-01 a aut-16</td><td><span class="status">DISPONÍVEL</span></td></tr>
+<tr><td>Beneficiários</td><td>Perfil, envelhecimento da carteira, movimentação, permanência e rotatividade</td><td>ben-01 a ben-21</td><td><span class="status">DISPONÍVEL</span></td></tr>
+<tr><td>Atendimento</td><td>Indicadores de atendimento, ouvidoria, canais digitais</td><td>ate-01 a ate-19</td><td><span class="status">DISPONÍVEL</span></td></tr>
+</table>
+<p><strong>Perguntas que o pilar ajuda a responder:</strong> que parcela da carteira concentra o uso mais intenso? Há reinternações que merecem atenção? Como está a cobertura de rede por especialidade e região? As autorizações estão fluindo nos prazos esperados?</p>
+</section>
+
+<section class="page">
+<h3>4.4 Regulatória</h3>
+<div class="q">Mais visibilidade sobre indicadores, obrigações e riscos regulatórios.</div>
+<p>Operadoras respondem a um conjunto extenso de obrigações perante a ANS: envio de informações, acompanhamento de indicadores de desempenho, prazos assistenciais, canais de reclamação e outras. O pilar regulatório reúne esse acompanhamento em módulos próprios, para que a área responsável tenha visibilidade contínua, e não apenas nas datas de entrega.</p>
+<table>
+<tr><th>Tema</th><th>O que a plataforma apresenta</th><th>Telas de referência</th><th>Status</th></tr>
+<tr><td>IDSS</td><td>Gestão de IDSS, comparativo calculado x ANS, plano de ação, dimensões (IDQS, IDGA, IDSM, IDGR), capital regulatório</td><td>ans-03 a ans-12</td><td><span class="status">DISPONÍVEL</span></td></tr>
+<tr><td>Sala de Situação ANS</td><td>Visão geral, composição de carteira, ressarcimento ao SUS, reclamações (NIP), glosa x painel ANS, garantia de atendimento por produto</td><td>ans-13 a ans-19</td><td><span class="status">DISPONÍVEL</span></td></tr>
+<tr><td>SIB</td><td>Movimentações, rejeições da ANS, conferência ANS x sistema</td><td>ans-20 a ans-23</td><td><span class="status">DISPONÍVEL</span></td></tr>
+<tr><td>TISS</td><td>Lotes e arquivos, retorno da ANS, pendências de reenvio, conciliação com o DIOPS, crítica de pré-envio</td><td>ans-24 a ans-33</td><td><span class="status">DISPONÍVEL</span></td></tr>
+<tr><td>Atendimentos (RN 623)</td><td>Indicadores de atendimento e prazos, ouvidoria</td><td>ate-04 a ate-12</td><td><span class="status">DISPONÍVEL</span></td></tr>
+<tr><td>Intercâmbio PTU</td><td>Contas e cobrança, movimentação PTU, glosas e contestação, indicadores</td><td>int-01 a int-11</td><td><span class="status">DISPONÍVEL</span></td></tr>
+</table>
+<p><strong>Perguntas que o pilar ajuda a responder:</strong> quais indicadores do IDSS merecem plano de ação? Há rejeições ou pendências de envio acumulando? Os dados calculados internamente conferem com os divulgados pela ANS?</p>
+<div class="box"><strong>Sobre normas.</strong> Este material cita normas e programas apenas pelo nome. Prazos, percentuais, fórmulas e requisitos devem ser consultados diretamente nas fontes oficiais da ANS (<em>www.gov.br/ans</em>) [VERIFICAR NA FONTE]. A plataforma apoia o acompanhamento; a responsabilidade pelo cumprimento é da operadora.</div>
+
+<h3>4.5 Preditiva</h3>
+<div class="q">Vá além da análise histórica. Utilize seus dados para antecipar cenários e apoiar decisões.</div>
+<p>Análise histórica responde ao que aconteceu. A camada preditiva busca apoiar a gestão com projeções, simulações e identificação de comportamentos fora do padrão. É importante tratar essas capacidades com rigor: projeções dependem da qualidade e da quantidade dos dados disponíveis e são estimativas, não certezas.</p>
+<table>
+<tr><th>Tema</th><th>O que a plataforma apresenta</th><th>Telas de referência</th><th>Status</th></tr>
+<tr><td>Previsões</td><td>Previsão da sinistralidade, previsão da produção, previsão do DRE</td><td>sin-08, ass-06, con-03</td><td><span class="status">DISPONÍVEL</span></td></tr>
+<tr><td>Simuladores</td><td>Simulador de resultado, simulador DRE, simulador de reajuste, simulador assistencial</td><td>sin-09, con-04, men-15, ass-13</td><td><span class="status">DISPONÍVEL</span></td></tr>
+<tr><td>Sinais de tendência</td><td>Sinais de tendência (IRIS), governança de algoritmos</td><td>con-16, con-10</td><td><span class="status">DISPONÍVEL</span></td></tr>
+<tr><td>Modelos de machine learning e detecção de anomalias</td><td>Modelos e detecção de comportamentos atípicos (por exemplo, outliers de glosa)</td><td>ass-20 e demais</td><td><span class="status">A CONFIRMAR</span> detalhamento por modelo</td></tr>
+<tr><td>Chat inteligente</td><td>Consulta em linguagem natural a informações da plataforma</td><td>—</td><td><span class="status">A CONFIRMAR</span></td></tr>
+</table>
+<p><strong>Perguntas que o pilar ajuda a responder:</strong> qual a trajetória provável do resultado se nada mudar? O que acontece com a sinistralidade projetada sob diferentes hipóteses de reajuste? Quais pontos fogem do padrão histórico e merecem investigação?</p>
+</section>
+
+<section class="page">
+<h2>5. Fundamentos técnicos e governança</h2>
+<p>Para a diretoria, o importante é a decisão; para TI e para a segurança da informação, é igualmente importante entender como a plataforma é construída e operada. Os pontos abaixo resumem o que consta na descrição técnica do produto. Qualquer detalhe adicional (dimensionamento, requisitos de infraestrutura, política de backup, certificações) deve ser validado individualmente [A CONFIRMAR COM O PROPRIETÁRIO].</p>
+<table>
+<tr><th>Tema</th><th>Descrição</th></tr>
+<tr><td>Arquitetura</td><td>Aplicação web multi-tenant, com espelhamento analítico local em DuckDB.</td></tr>
+<tr><td>Fontes de dados</td><td>Integração com Oracle e com o ERP Philips Tasy. Integração com outros sistemas: <span class="status">A CONFIRMAR</span> caso a caso.</td></tr>
+<tr><td>Implantação</td><td>Instalação on-premise disponível; demais modelos de implantação: <span class="status">A CONFIRMAR</span>.</td></tr>
+<tr><td>Acesso e governança</td><td>Controle de acesso por permissões, auditoria e login corporativo (SSO), com tela de configuração própria (adm-01).</td></tr>
+<tr><td>Mobilidade</td><td>Aplicativo mobile.</td></tr>
+<tr><td>Suporte</td><td>Central de chamados na própria plataforma (cha-01 a cha-05).</td></tr>
+<tr><td>Material de apoio</td><td>Tutoriais em vídeo por tela, gravados em base de demonstração com dados fictícios, e glossário das telas (glo-01).</td></tr>
+</table>
+<h3>Dados pessoais e segurança</h3>
+<p>Operadoras tratam dados pessoais, inclusive dados pessoais sensíveis de saúde, e estão sujeitas à Lei Geral de Proteção de Dados (Lei 13.709/2018). Em uma avaliação da plataforma, recomenda-se que o encarregado de proteção de dados e a área de segurança da informação da operadora participem desde o início, discutindo: papéis de controlador e operador, localização dos dados, controle de acesso, registros de auditoria e eventual anonimização em ambientes de análise. As respostas específicas devem constar do contrato e da documentação técnica [A CONFIRMAR].</p>
+<h3>Qualidade de dados</h3>
+<p>Nenhuma plataforma de análise supera a qualidade dos dados de origem. Parte do trabalho de uma avaliação consiste em mapear quais informações estão disponíveis, com que periodicidade e com que consistência. O checklist de indicadores que acompanha este e-book ajuda a organizar esse levantamento.</p>
+</section>
+
+<section class="page">
+<h2>6. Alertas e acesso à informação</h2>
+<p>Nem todo gestor abre um painel todos os dias. Por isso, a plataforma contempla alertas e resumos enviados por e-mail e por WhatsApp <span class="status">A CONFIRMAR</span> quanto ao escopo atual de cada canal, e um aplicativo mobile para consulta.</p>
+<h3>Boas práticas para alertas</h3>
+<ul>
+<li><strong>Poucos e relevantes.</strong> Alertas em excesso são ignorados. Defina quais indicadores justificam aviso e quem os recebe.</li>
+<li><strong>Com contexto.</strong> Um alerta deve apontar para a tela onde o gestor pode investigar a causa.</li>
+<li><strong>Com responsável.</strong> Todo alerta relevante precisa de um dono para a ação.</li>
+<li><strong>Com privacidade.</strong> Mensagens por e-mail e WhatsApp não devem conter dados pessoais de beneficiários.</li>
+</ul>
+<h3>Do alerta à ação</h3>
+<p>O ciclo ideal conecta o alerta ao diagnóstico e à execução. Em temas regulatórios, por exemplo, a plataforma inclui telas de plano de ação associadas à gestão do IDSS (ans-06). A mesma lógica pode ser adotada internamente em outras frentes: identificar, investigar, decidir, agir e acompanhar.</p>
+<h3>Aprendizado contínuo</h3>
+<p>O valor de uma plataforma analítica cresce com o uso disciplinado: reuniões periódicas de resultado apoiadas nos mesmos painéis, definições de indicadores compartilhadas entre áreas e revisão regular do que de fato levou a decisões. Recomenda-se definir, no início, quais decisões a operadora quer melhorar e como acompanhará essa evolução, com métricas próprias [A DEFINIR PELA OPERADORA].</p>
+</section>
+
+<section class="page">
+<h2>7. Como avaliar o potencial dos dados da sua operadora</h2>
+<p>Antes de comparar ferramentas, vale avaliar a prontidão dos dados e das decisões. Propomos um roteiro simples, em cinco passos, que pode ser feito internamente ou com apoio da NeoHealth em uma conversa de demonstração.</p>
+<ol>
+<li><strong>Liste as decisões.</strong> Quais decisões recorrentes a diretoria, o financeiro, a atuária, a gestão assistencial e o regulatório tomam hoje? Quais são tomadas tarde ou com pouca informação?</li>
+<li><strong>Mapeie as fontes.</strong> Onde estão os dados que sustentam cada decisão? Em qual sistema, com qual periodicidade, com qual responsável?</li>
+<li><strong>Verifique a consistência.</strong> Os indicadores principais têm definição única? Duas áreas chegam ao mesmo número?</li>
+<li><strong>Priorize.</strong> Escolha de uma a três decisões cuja melhoria faria diferença visível e comece por elas.</li>
+<li><strong>Defina como acompanhar.</strong> Quem usará, com que frequência, e como se saberá se ajudou?</li>
+</ol>
+<h3>O que acontece em uma demonstração</h3>
+<p>A demonstração executiva da NeoHealth dura de 30 a 40 minutos e é adaptada ao perfil de cada participante (diretoria, financeiro, atuária, assistencial, regulatório, TI). As telas são mostradas em uma base de demonstração com dados fictícios. O objetivo é verificar se a abordagem conversa com as decisões da sua operadora; não se pressupõe compra.</p>
+<h3>Perguntas úteis para qualquer avaliação de plataforma</h3>
+<ul>
+<li>Como os dados da minha operadora chegam à plataforma e com que frequência são atualizados?</li>
+<li>Quais indicadores são calculados e como é possível auditar o cálculo?</li>
+<li>Quem acessa o quê, e como isso é registrado?</li>
+<li>Como é o suporte e a documentação para novos usuários?</li>
+<li>O que está disponível hoje, e o que está em desenvolvimento ou planejado?</li>
+</ul>
+<div class="box">A última pergunta é essencial. A NeoHealth identifica cada funcionalidade com seu status (disponível, configurável, em desenvolvimento, planejado) para que a avaliação seja baseada no que existe de fato.</div>
+</section>
+
+<section class="page">
+<h2>8. Perguntas frequentes</h2>
+<h3>A plataforma é “mais um BI de dashboards”?</h3>
+<p>A proposta é outra: uma plataforma especializada em inteligência estratégica para operadoras, organizada por decisões e áreas de gestão do setor. A quantidade de telas não é o argumento; o critério é se elas ajudam a responder às perguntas da sua operação.</p>
+<h3>A plataforma reduz a sinistralidade ou gera economia?</h3>
+<p>Não é feita essa promessa. A plataforma ajuda a identificar fatores, dá visibilidade a oportunidades e apoia decisões. Os resultados dependem das ações adotadas pela operadora.</p>
+<h3>Funciona com o nosso ERP?</h3>
+<p>Há integração com Oracle e com o ERP Philips Tasy. Para outros sistemas, é necessária uma análise técnica específica [A CONFIRMAR].</p>
+<h3>Podemos instalar no nosso ambiente?</h3>
+<p>A instalação on-premise faz parte das capacidades do produto. Requisitos e condições são definidos em avaliação técnica [A CONFIRMAR].</p>
+<h3>Como vocês tratam proteção de dados?</h3>
+<p>Aspectos de controlador/operador, localização, acesso e auditoria devem ser tratados em conjunto com o encarregado da operadora e constar do contrato. Esta página não substitui a documentação jurídica [A CONFIRMAR].</p>
+<h3>Vocês têm clientes de referência?</h3>
+<p>Este material não cita clientes. Eventuais referências só serão apresentadas com autorização expressa dos envolvidos [A CONFIRMAR].</p>
+<h3>Quanto custa?</h3>
+<p>Condições comerciais são apresentadas em proposta, após entendimento do escopo [A DEFINIR].</p>
+<h3>As telas que vejo nos materiais são de clientes?</h3>
+<p>Não. São imagens da base de demonstração “Operadora Modelo”, com dados fictícios.</p>
+</section>
+
+<section class="page">
+<h2>9. Transparência: o que este material afirma e não afirma</h2>
+<table>
+<tr><th>Afirma</th><th>Não afirma</th></tr>
+<tr><td>Descreve módulos e temas cobertos pela plataforma, com status.</td><td>Não promete redução de sinistralidade, economia ou melhora de indicador.</td></tr>
+<tr><td>Usa imagens de uma base de demonstração fictícia.</td><td>Não apresenta clientes, depoimentos, prêmios, certificações ou parcerias.</td></tr>
+<tr><td>Cita normas e programas pelo nome, remetendo à fonte oficial.</td><td>Não resume prazos, percentuais ou fórmulas regulatórias.</td></tr>
+<tr><td>Indica o que depende de confirmação.</td><td>Não compara a plataforma com concorrentes nem afirma superioridade.</td></tr>
+</table>
+
+<h2 style="margin-top:12mm">10. Glossário</h2>
+<table>
+<tr><th>Termo</th><th>Significado (uso neste material)</th></tr>
+<tr><td>ANS</td><td>Agência Nacional de Saúde Suplementar, órgão regulador do setor.</td></tr>
+<tr><td>IDSS</td><td>Índice de Desempenho da Saúde Suplementar, programa de qualificação de operadoras da ANS. Detalhes: fonte oficial [VERIFICAR NA FONTE].</td></tr>
+<tr><td>TISS</td><td>Troca de Informações na Saúde Suplementar, padrão de troca de informações entre operadoras e prestadores.</td></tr>
+<tr><td>SIB</td><td>Sistema de Informações de Beneficiários, base cadastral enviada à ANS.</td></tr>
+<tr><td>PTU</td><td>Padrão de intercâmbio de informações entre operadoras (módulo Intercâmbio PTU). Denominação e regras: fonte oficial [VERIFICAR NA FONTE].</td></tr>
+<tr><td>DRE</td><td>Demonstração do Resultado do Exercício.</td></tr>
+<tr><td>PEONA</td><td>Provisão de eventos ocorridos e não avisados. Metodologia: fonte oficial [VERIFICAR NA FONTE].</td></tr>
+<tr><td>VCMH</td><td>Variação de custo médico-hospitalar.</td></tr>
+<tr><td>ICSAP</td><td>Internações sensíveis à atenção primária.</td></tr>
+<tr><td>Multi-tenant</td><td>Arquitetura em que uma mesma aplicação atende várias organizações com dados logicamente separados.</td></tr>
+<tr><td>On-premise</td><td>Instalação no ambiente de infraestrutura do cliente.</td></tr>
+<tr><td>SSO</td><td>Login único corporativo.</td></tr>
+</table>
+</section>
+
+<section class="page">
+<h2>11. Próximo passo</h2>
+<div class="q">Conheça o potencial dos dados da sua operadora.</div>
+<p>Se este material fez sentido para a sua realidade, o próximo passo é uma conversa de 30 a 40 minutos, em que mostramos as telas da plataforma na base de demonstração e discutimos as decisões prioritárias da sua operadora.</p>
+<p style="font-size:16pt;color:#4190D3"><strong>Solicite uma demonstração.</strong></p>
+<p>[URL DA LANDING PAGE — A DEFINIR] · [E-MAIL COMERCIAL — A CONFIRMAR] · [TELEFONE/WHATSAPP — A CONFIRMAR]</p>
+<div class="box"><strong>Nota sobre imagens.</strong> Ao inserir capturas de tela neste e-book (por exemplo, a partir de <code>08_CRIATIVOS/assets_reais/</code>), incluir sempre a legenda: “Imagem da plataforma com dados fictícios (base de demonstração).”</div>
+<footer class="note">NeoHealth BI · OPS. Material institucional sujeito à revisão final do proprietário. Informações sobre normas devem ser conferidas na fonte oficial. Para deixar de receber comunicações da NeoHealth, utilize o link de cancelamento nos e-mails ou escreva para [E-MAIL DO ENCARREGADO — A CONFIRMAR]. Controlador: [RAZÃO SOCIAL/CNPJ — A CONFIRMAR].</footer>
+</section>
+</body></html>

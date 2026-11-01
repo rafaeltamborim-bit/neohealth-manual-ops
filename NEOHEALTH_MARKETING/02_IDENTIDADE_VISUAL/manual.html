@@ -1,0 +1,37 @@
+<!DOCTYPE html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Manual de Identidade Visual — NeoHealth BI · OPS</title>
+<link rel="stylesheet" href="tokens.css"><style>
+body{margin:0;background:var(--nh-bg-900);color:#fff;font-family:var(--nh-font);line-height:1.6;font-size:17px}
+main{max-width:1000px;margin:auto;padding:32px 20px 80px} h1,h2,h3{line-height:1.12} h2{color:var(--nh-cyan);margin-top:56px;border-bottom:1px solid var(--nh-border);padding-bottom:8px}
+.sws{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px} .sw{background:var(--nh-bg-800);border:1px solid var(--nh-border);border-radius:12px;padding:10px;display:flex;flex-direction:column;font-size:14px}
+.sw i{height:56px;border-radius:8px;border:1px solid #fff3;margin-bottom:8px} .sw span{color:var(--nh-gray-400)}
+table{width:100%;border-collapse:collapse;font-size:15px} td,th{border:1px solid var(--nh-border);padding:8px;text-align:left;vertical-align:top} th{background:var(--nh-bg-800);color:var(--nh-mint)}
+img{max-width:100%;border-radius:12px;border:1px solid var(--nh-border)} figcaption{font-size:13px;color:var(--nh-gray-300)} .box{background:var(--nh-bg-800);padding:16px;border-radius:12px;border:1px solid var(--nh-border)}
+.clear{display:inline-block;padding:18px;outline:1px dashed var(--nh-cyan);background:var(--nh-bg-900)} .ok{color:var(--nh-ok)} .no{color:var(--nh-danger)} code{color:var(--nh-mint)}
+</style></head><body><main>
+<h1>Manual de Identidade Visual<br><small style="color:var(--nh-cyan)">NeoHealth BI · OPS</small></h1>
+<p>Versão 1.0 · 01/11/2026. Derivado das capas reais e da ficha de fatos. Texto completo: <code>manual_identidade_visual.md</code>. Tokens: <code>tokens.css</code>, <code>tokens.json</code>.</p>
+<p><b>Transforme dados em decisões. Decisões em resultados.</b></p>
+<h2>1. Paleta</h2><div class="sws"><div class="sw"><i style="background:#060A15"></i><b>bg-900</b><code>#060A15</code><span>Fundo base</span></div><div class="sw"><i style="background:#0F172A"></i><b>bg-800</b><code>#0F172A</code><span>Superfície</span></div><div class="sw"><i style="background:#16213A"></i><b>bg-700</b><code>#16213A</code><span>[A CONFIRMAR]</span></div><div class="sw"><i style="background:#4190D3"></i><b>blue</b><code>#4190D3</code><span>Ícone do logotipo</span></div><div class="sw"><i style="background:#5FBEEC"></i><b>cyan</b><code>#5FBEEC</code><span>"BI"</span></div><div class="sw"><i style="background:#A9EFE5"></i><b>mint</b><code>#A9EFE5</code><span>Destaque</span></div><div class="sw"><i style="background:#C4F1EE"></i><b>mint-soft</b><code>#C4F1EE</code><span>Tags</span></div><div class="sw"><i style="background:#FFFFFF"></i><b>white</b><code>#FFFFFF</code><span>Títulos</span></div><div class="sw"><i style="background:#98A5B6"></i><b>gray-400</b><code>#98A5B6</code><span>"OPS"</span></div><div class="sw"><i style="background:#95A4B9"></i><b>gray-300</b><code>#95A4B9</code><span>Subtítulos</span></div></div>
+<p>Hex amostrados das capas reais (fundo, ícone, "BI", "OPS", subtítulos) e da ficha. Cores de estado são [A CONFIRMAR].</p>
+<h2>2. Tipografia</h2><div class="box"><p style="font-size:44px;font-weight:700;margin:0">Roboto Condensed Bold</p><p style="margin:0">Corpo em Roboto Condensed Regular, 17px/1.6. Fallback: Arial Narrow, Arial, Helvetica Neue, sans-serif.</p></div>
+<p>As capas reais parecem usar sans geométrica; o brief define Roboto Condensed (pendência P-02).</p>
+<h2>3. Logotipo</h2>
+<figure><div class="clear"><img src="referencias/logo-recorte-capa-PROVISORIO.png" alt="Logotipo NeoHealth BI OPS (recorte provisório de capa real)" width="400" style="border:0"></div><figcaption>Recorte PROVISÓRIO de capa real, não é o arquivo original (pendência P-01). Linha tracejada = área de proteção (50% da altura do ícone).</figcaption></figure>
+<ul><li>Versão escura: como nas capas. Versão clara: pendente, não criar.</li><li>Largura mínima 120 px. Não esticar, recolorir, aplicar sombra, redesenhar.</li></ul>
+<h2>4. Grid</h2><p>Container 1200 px · 12 colunas · calha 24 px · base 8 px · breakpoints 375/768/1440.</p>
+<h2>5. Screenshots reais</h2><figure><img src="referencias/capa-referencia-coc-01.jpg" alt="Capa real do Cockpit Executivo, dados fictícios" loading="lazy"><figcaption>Imagem da plataforma com dados fictícios (base de demonstração). Esta nota é obrigatória em toda imagem com tela.</figcaption></figure>
+<h2>6. Tom de voz</h2><p>Consultivo, claro, técnico, especializado em operadoras. Usar "ajuda a identificar", "apoia", "dá visibilidade a". Nunca garantir redução de sinistralidade/economia, nem citar clientes, depoimentos ou certificações.</p>
+<h2>7. Do / Don't</h2><table><tr><th>Faça</th><th>Não faça</th></tr>
+<tr><td class="ok">Fundo escuro e destaque ciano/azul</td><td class="no">Fundo claro sem versão clara do logo</td></tr>
+<tr><td class="ok">Capas reais + nota de dados fictícios</td><td class="no">Telas inventadas, médicos de banco de imagem</td></tr>
+<tr><td class="ok">"Ajuda a identificar oportunidades"</td><td class="no">"Reduza sinistralidade em X%"</td></tr>
+<tr><td class="ok">Falar de módulos</td><td class="no">Vender quantidade de telas</td></tr></table>
+<h2>8. Especificações por canal</h2><p>Validar nas plataformas na produção [VERIFICAR NA FONTE].</p><table>
+<tr><th>Canal</th><th>Imagem</th><th>Texto</th></tr>
+<tr><td>LinkedIn</td><td>1200×627, 1080×1080, 1080×1350; vídeo 16:9/1:1</td><td>Título curto, CTA claro</td></tr>
+<tr><td>Google Ads</td><td>1200×628, 1200×1200; logo 1200×1200 e 1200×300</td><td>Títulos ≤30, descrições ≤90 car.</td></tr>
+<tr><td>Meta</td><td>1080×1080, 1080×1350, 1080×1920</td><td>Texto curto; zona segura em 9:16</td></tr>
+<tr><td>YouTube</td><td>Miniatura 1280×720; vídeo 1920×1080; banner 2560×1440</td><td>Título ≤60 car.; nota de dados fictícios</td></tr>
+<tr><td>E-mail</td><td>600 px de largura; imagens leves; alt obrigatório</td><td>Assunto ≤50 car.; opt-out; botão ≥44 px</td></tr></table>
+<h2>Pendências</h2><ul><li>P-01 logotipo original (escuro/claro/favicon)</li><li>P-02 fonte oficial e licença</li><li>P-03 cores de estado e bg-700</li><li>P-04 versão clara do logo</li><li>P-05 validar specs de canal</li></ul>
+</main></body></html>
