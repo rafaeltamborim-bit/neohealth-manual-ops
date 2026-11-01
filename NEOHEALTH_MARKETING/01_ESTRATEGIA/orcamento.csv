@@ -1,0 +1,16 @@
+cenario,canal,verba_brl,percentual,funcao,metrica_principal,custo_estimado_a_validar,observacao
+R$3.000,LinkedIn,1200,40%,Alcance e leads de decisores por cargo,CTR; custo por lead qualificado,ESTIMATIVA a validar nas plataformas; sem promessa de leads/contratos,Teste com 2 públicos e 2 criativos
+R$3.000,Google Ads (pesquisa),1200,40%,Captura de demanda explícita,CTR; conversão LP; custo por solicitação de demo,ESTIMATIVA a validar nas plataformas; sem promessa de leads/contratos,Termos de marca/categoria; negativar termos consumidor
+R$3.000,Meta Ads,600,20%,Topo de funil/remarketing permitido,CTR; frequência,ESTIMATIVA a validar nas plataformas; sem promessa de leads/contratos,Sem eventos de saúde no pixel
+R$3.000,Total,3000,100%,,,,
+R$5.000,LinkedIn,2000,40%,Principal,Custo por lead qualificado,ESTIMATIVA a validar nas plataformas; sem promessa de leads/contratos,
+R$5.000,Google Ads (pesquisa),1900,38%,Demanda explícita,Custo por demo,ESTIMATIVA a validar nas plataformas; sem promessa de leads/contratos,
+R$5.000,Meta Ads,700,14%,Remarketing/topo,CTR,ESTIMATIVA a validar nas plataformas; sem promessa de leads/contratos,
+R$5.000,YouTube,400,8%,Distribuição de vídeos reais,Visualização; retenção,ESTIMATIVA a validar nas plataformas; sem promessa de leads/contratos,Teste opcional
+R$5.000,Total,5000,100%,,,,
+R$10.000,LinkedIn,4000,40%,Principal,Custo por lead qualificado,ESTIMATIVA a validar nas plataformas; sem promessa de leads/contratos,
+R$10.000,Google Ads (pesquisa),3500,35%,Demanda explícita,Custo por demo,ESTIMATIVA a validar nas plataformas; sem promessa de leads/contratos,
+R$10.000,Meta Ads,1000,10%,Remarketing/topo,CTR,ESTIMATIVA a validar nas plataformas; sem promessa de leads/contratos,
+R$10.000,YouTube,1000,10%,Vídeos reais,Retenção,ESTIMATIVA a validar nas plataformas; sem promessa de leads/contratos,
+R$10.000,Reserva de realocação,500,5%,Alocar após 30 dias ao canal com melhor custo por demo,,ESTIMATIVA a validar nas plataformas; sem promessa de leads/contratos,
+R$10.000,Total,10000,100%,,,,

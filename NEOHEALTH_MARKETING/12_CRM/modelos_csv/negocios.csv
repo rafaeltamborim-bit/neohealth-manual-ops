@@ -1,0 +1,2 @@
+negocio_id,nome,empresa,contatos,etapa,probabilidade_pct,valor_estimado,moeda,data_fechamento_prevista,pilares_escopo,modelo_implantacao,decisor,campeao,processo_decisao,janela_decisao,alternativa_atual,motivo_perda,origem,responsavel,proxima_acao,data_proxima_acao,criado_em
+EXEMPLO-N01,Operadora Exemplo - Piloto,Operadora Exemplo,pessoa@operadora-exemplo.example,Demonstração realizada,35,[A DEFINIR],BRL,,Financeira;Sinistralidade,[A CONFIRMAR],,,,,Planilhas,,linkedin / demo-geral-q4-2026,[RESPONSAVEL],Enviar resumo,2026-11-10,2026-11-01

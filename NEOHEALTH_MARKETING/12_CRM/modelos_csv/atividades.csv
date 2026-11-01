@@ -1,0 +1,2 @@
+atividade_id,tipo,data_hora,responsavel,contato_email,negocio_id,assunto,resultado,observacao
+EXEMPLO-A01,Ligação,2026-11-02T10:00:00-03:00,[RESPONSAVEL],pessoa@operadora-exemplo.example,EXEMPLO-N01,Qualificação,Demo agendada,Sem dados de saúde nas notas

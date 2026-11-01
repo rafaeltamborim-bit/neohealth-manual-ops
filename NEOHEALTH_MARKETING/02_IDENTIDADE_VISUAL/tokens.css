@@ -1,0 +1,27 @@
+/* NeoHealth BI · OPS — design tokens (editável). Fonte: capas reais + 00_FICHA_DE_FATOS.md */
+:root{
+  /* Cores — derivadas das capas reais (amostragem de pixels, ver manual) */
+  --nh-bg-900:#060A15;      /* fundo das capas (≈ #070B16 amostrado) */
+  --nh-bg-800:#0F172A;      /* superfície elevada (brief) */
+  --nh-bg-700:#16213A;      /* [A CONFIRMAR] derivado, para cartões */
+  --nh-blue:#4190D3;        /* azul do ícone do logotipo */
+  --nh-cyan:#5FBEEC;        /* "BI" no logotipo (amostrado #5EBFEC) */
+  --nh-mint:#A9EFE5;        /* destaque menta/ciano (ficha) */
+  --nh-mint-soft:#C4F1EE;   /* texto de etiqueta nas capas (amostrado) */
+  --nh-white:#FFFFFF;
+  --nh-gray-400:#98A5B6;    /* "OPS" no logotipo (amostrado) */
+  --nh-gray-300:#95A4B9;    /* subtítulos das capas (amostrado) */
+  --nh-border:rgba(95,190,236,.22);
+  --nh-ok:#2DD4BF; --nh-warn:#F5B942; --nh-danger:#F87171; /* [A CONFIRMAR] estados de UI, não vêm das capas */
+  /* Tipografia */
+  --nh-font:"Roboto Condensed","Arial Narrow",Arial,"Helvetica Neue",sans-serif;
+  --nh-fs-display:clamp(2.4rem,5vw,4rem); --nh-fs-h1:clamp(2rem,4vw,3rem);
+  --nh-fs-h2:clamp(1.6rem,3vw,2.25rem); --nh-fs-h3:1.25rem; --nh-fs-body:1.0625rem; --nh-fs-small:.875rem;
+  --nh-lh-body:1.6; --nh-lh-head:1.12;
+  /* Espaçamento (base 8) / raios / grid */
+  --nh-s1:8px; --nh-s2:16px; --nh-s3:24px; --nh-s4:32px; --nh-s6:48px; --nh-s8:64px; --nh-s12:96px;
+  --nh-radius:12px; --nh-radius-sm:8px; --nh-radius-pill:999px;
+  --nh-container:1200px; --nh-gutter:24px; --nh-cols:12;
+  --nh-bp-sm:375px; --nh-bp-md:768px; --nh-bp-lg:1440px;
+  --nh-shadow:0 12px 40px rgba(0,0,0,.45);
+}

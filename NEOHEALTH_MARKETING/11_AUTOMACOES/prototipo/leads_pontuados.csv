@@ -1,0 +1,6 @@
+id,email,tipo_operadora,porte,cargo,erp,desafios,interesse,consentimento_contato,concorrente,estudante,score,classe,pts_tipo_operadora,pts_porte,pts_cargo,pts_erp,pts_desafios,pts_interesse,motivos_ajuste
+EX-001,pessoa.a@operadora-exemplo-a.example,Medicina de grupo,Faixa 3,Diretoria/Superintendencia,Philips Tasy,Sinistralidade;Visibilidade financeira,Solicitou demonstracao,Sim,Nao,Nao,95,A,25,10,20,10,10,20,
+EX-002,pessoa.b@operadora-exemplo-b.example,Cooperativa médica,Faixa 2,Financeiro/Controladoria,Outro,Consolidacao de dados,Baixou ebook,Sim,Nao,Nao,61,B,25,7,17,3,3,6,
+EX-003,pessoa.c@gmail.com,Outro,Nao informado,Analista,Nao sei,,Baixou ebook,Sim,Nao,Nao,11,Descarte,5,3,5,2,0,6,email_gratuito
+EX-004,pessoa.d@consultoria-exemplo.example,Nao sou operadora,Nao informado,Outro,Nao sei,,Baixou ebook,Sim,Sim,Nao,13,Descarte,0,3,2,2,0,6,concorrente
+EX-005,pessoa.e@operadora-exemplo-e.example,Autogestão,Faixa 1,TI/BI,Philips Tasy,Obrigacoes regulatorias/ANS,Baixou checklist,Nao,Nao,Nao,58,Descarte,22,4,10,10,4,8,sem_consentimento
