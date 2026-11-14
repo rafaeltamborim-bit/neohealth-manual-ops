@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-14T22:48:39.246Z",
- "total": 242,
+ "gerado_em": "2026-11-14T23:03:40.204Z",
+ "total": 243,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1937,6 +1937,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-censo-leitos-bloqueios.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-censo-leitos-bloqueios.jpg",
    "duracao": 230.4
+  },
+  "/dashboard/censo-leitos/higienizacao": {
+   "id": "his-censo-leitos-higienizacao",
+   "titulo": "Higienização e Liberação",
+   "caminho": "Gestão de Leitos › Censo de Leitos › Higienização e Liberação",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-censo-leitos-higienizacao.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-censo-leitos-higienizacao.jpg",
+   "duracao": 231.4
   }
  }
 }
