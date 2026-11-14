@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-14T21:48:39.588Z",
- "total": 239,
+ "gerado_em": "2026-11-14T22:18:40.136Z",
+ "total": 240,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1913,6 +1913,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-atendimentos-convenios.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-atendimentos-convenios.jpg",
    "duracao": 244.2
+  },
+  "/dashboard/atendimentos/fluxo": {
+   "id": "his-atendimentos-fluxo",
+   "titulo": "Fluxo e Tipos",
+   "caminho": "Atendimento › Volume de Atendimentos › Fluxo e Tipos",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-atendimentos-fluxo.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-atendimentos-fluxo.jpg",
+   "duracao": 298.6
   }
  }
 }
