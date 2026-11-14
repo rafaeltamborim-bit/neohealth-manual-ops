@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-23T20:51:05.104Z",
- "total": 223,
+ "gerado_em": "2026-11-14T20:33:25.199Z",
+ "total": 234,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1785,6 +1785,94 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/adm-01.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/adm-01.jpg",
    "duracao": 635.9
+  },
+  "/dashboard/anahp": {
+   "id": "his-anahp",
+   "titulo": "Indicadores Assistenciais",
+   "caminho": "Atendimento › Volume de Atendimentos › Indicadores Assistenciais",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-anahp.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-anahp.jpg",
+   "duracao": 233.5
+  },
+  "/dashboard/anahp/cirurgia": {
+   "id": "his-anahp-cirurgia",
+   "titulo": "Taxa de Cirurgia",
+   "caminho": "Centro Cirúrgico › Produção Cirúrgica › Taxa de Cirurgia",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-anahp-cirurgia.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-anahp-cirurgia.jpg",
+   "duracao": 239.8
+  },
+  "/dashboard/centro-cirurgico": {
+   "id": "his-centro-cirurgico",
+   "titulo": "Visão Geral",
+   "caminho": "Centro Cirúrgico › Produção Cirúrgica › Visão Geral",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-centro-cirurgico.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-centro-cirurgico.jpg",
+   "duracao": 234.4
+  },
+  "/dashboard/altas-previstas/internados": {
+   "id": "his-altas-previstas-internados",
+   "titulo": "Internados Além da Previsão",
+   "caminho": "Gestão de Leitos › Altas Previstas › Internados Além da Previsão",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-altas-previstas-internados.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-altas-previstas-internados.jpg",
+   "duracao": 235.2
+  },
+  "/dashboard/altas-previstas": {
+   "id": "his-altas-previstas",
+   "titulo": "Previstas × Realizadas",
+   "caminho": "Gestão de Leitos › Altas Previstas › Previstas × Realizadas",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-altas-previstas.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-altas-previstas.jpg",
+   "duracao": 248.8
+  },
+  "/dashboard/anahp/giro-leito": {
+   "id": "his-anahp-giro-leito",
+   "titulo": "Giro e Intervalo de Substituição",
+   "caminho": "Gestão de Leitos › Eficiência de Leito › Giro e Intervalo de Substituição",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-anahp-giro-leito.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-anahp-giro-leito.jpg",
+   "duracao": 213.5
+  },
+  "/dashboard/anahp/ocupacao": {
+   "id": "his-anahp-ocupacao",
+   "titulo": "Taxa de Ocupação",
+   "caminho": "Gestão de Leitos › Eficiência de Leito › Taxa de Ocupação",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-anahp-ocupacao.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-anahp-ocupacao.jpg",
+   "duracao": 203.8
+  },
+  "/dashboard/anahp/catalogo": {
+   "id": "his-anahp-catalogo",
+   "titulo": "Catálogo do BI",
+   "caminho": "Qualidade Assistencial › Cobertura de Indicadores › Catálogo do BI",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-anahp-catalogo.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-anahp-catalogo.jpg",
+   "duracao": 342.9
+  },
+  "/dashboard/anahp/cobertura": {
+   "id": "his-anahp-cobertura",
+   "titulo": "Cobertura ANAHP",
+   "caminho": "Qualidade Assistencial › Cobertura de Indicadores › Cobertura ANAHP",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-anahp-cobertura.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-anahp-cobertura.jpg",
+   "duracao": 141.2
+  },
+  "/dashboard/anahp/mortalidade": {
+   "id": "his-anahp-mortalidade",
+   "titulo": "Mortalidade Institucional",
+   "caminho": "Qualidade Assistencial › Desfechos Clínicos › Mortalidade Institucional",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-anahp-mortalidade.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-anahp-mortalidade.jpg",
+   "duracao": 285.5
+  },
+  "/dashboard/anahp/mortalidade-operatoria": {
+   "id": "his-anahp-mortalidade-operatoria",
+   "titulo": "Mortalidade Operatória",
+   "caminho": "Qualidade Assistencial › Desfechos Clínicos › Mortalidade Operatória",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-anahp-mortalidade-operatoria.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-anahp-mortalidade-operatoria.jpg",
+   "duracao": 241.2
   }
  }
 }
