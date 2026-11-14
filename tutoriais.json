@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-14T21:18:39.271Z",
- "total": 237,
+ "gerado_em": "2026-11-14T21:33:39.800Z",
+ "total": 238,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1897,6 +1897,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-anahp-residentes.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-anahp-residentes.jpg",
    "duracao": 264
+  },
+  "/dashboard/anahp/uti": {
+   "id": "his-anahp-uti",
+   "titulo": "Uso e Mortalidade em UTI",
+   "caminho": "Qualidade Assistencial › Desfechos Clínicos › Uso e Mortalidade em UTI",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-anahp-uti.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-anahp-uti.jpg",
+   "duracao": 304
   }
  }
 }
