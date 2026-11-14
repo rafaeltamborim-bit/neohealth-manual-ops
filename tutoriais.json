@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-14T23:03:40.204Z",
- "total": 243,
+ "gerado_em": "2026-11-14T23:18:39.308Z",
+ "total": 244,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1945,6 +1945,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-censo-leitos-higienizacao.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-censo-leitos-higienizacao.jpg",
    "duracao": 231.4
+  },
+  "/dashboard/censo-leitos/setores": {
+   "id": "his-censo-leitos-setores",
+   "titulo": "Setores",
+   "caminho": "Gestão de Leitos › Censo de Leitos › Setores",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-censo-leitos-setores.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-censo-leitos-setores.jpg",
+   "duracao": 226.1
   }
  }
 }
