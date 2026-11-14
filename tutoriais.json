@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-14T23:33:39.156Z",
- "total": 245,
+ "gerado_em": "2026-11-14T23:48:39.270Z",
+ "total": 246,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1961,6 +1961,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-centro-cirurgico-cancelamentos.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-centro-cirurgico-cancelamentos.jpg",
    "duracao": 236
+  },
+  "/dashboard/centro-cirurgico/cirurgias": {
+   "id": "his-centro-cirurgico-cirurgias",
+   "titulo": "Cirurgias",
+   "caminho": "Centro Cirúrgico › Produção Cirúrgica › Cirurgias",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-centro-cirurgico-cirurgias.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-centro-cirurgico-cirurgias.jpg",
+   "duracao": 192.9
   }
  }
 }
