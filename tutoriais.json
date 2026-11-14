@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-14T22:18:40.136Z",
- "total": 240,
+ "gerado_em": "2026-11-14T22:33:39.687Z",
+ "total": 241,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1921,6 +1921,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-atendimentos-fluxo.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-atendimentos-fluxo.jpg",
    "duracao": 298.6
+  },
+  "/dashboard/censo-leitos": {
+   "id": "his-censo-leitos",
+   "titulo": "Agora",
+   "caminho": "Gestão de Leitos › Censo de Leitos › Agora",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-censo-leitos.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-censo-leitos.jpg",
+   "duracao": 251.6
   }
  }
 }
