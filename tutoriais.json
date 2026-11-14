@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-14T21:03:39.404Z",
- "total": 236,
+ "gerado_em": "2026-11-14T21:18:39.271Z",
+ "total": 237,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1889,6 +1889,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-anahp-reinternacao.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-anahp-reinternacao.jpg",
    "duracao": 217.8
+  },
+  "/dashboard/anahp/residentes": {
+   "id": "his-anahp-residentes",
+   "titulo": "Pacientes Residentes",
+   "caminho": "Gestão de Leitos › Eficiência de Leito › Pacientes Residentes",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-anahp-residentes.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-anahp-residentes.jpg",
+   "duracao": 264
   }
  }
 }
