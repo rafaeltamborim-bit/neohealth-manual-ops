@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-14T21:33:39.800Z",
- "total": 238,
+ "gerado_em": "2026-11-14T21:48:39.588Z",
+ "total": 239,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1905,6 +1905,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-anahp-uti.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-anahp-uti.jpg",
    "duracao": 304
+  },
+  "/dashboard/atendimentos/convenios": {
+   "id": "his-atendimentos-convenios",
+   "titulo": "Por Convênio",
+   "caminho": "Atendimento › Volume de Atendimentos › Por Convênio",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-atendimentos-convenios.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-atendimentos-convenios.jpg",
+   "duracao": 244.2
   }
  }
 }
