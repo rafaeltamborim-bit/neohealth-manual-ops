@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-14T20:48:39.517Z",
- "total": 235,
+ "gerado_em": "2026-11-14T21:03:39.404Z",
+ "total": 236,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1881,6 +1881,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-anahp-permanencia.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-anahp-permanencia.jpg",
    "duracao": 285.9
+  },
+  "/dashboard/anahp/reinternacao": {
+   "id": "his-anahp-reinternacao",
+   "titulo": "Reinternação em 30 dias",
+   "caminho": "Qualidade Assistencial › Desfechos Clínicos › Reinternação em 30 dias",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-anahp-reinternacao.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-anahp-reinternacao.jpg",
+   "duracao": 217.8
   }
  }
 }
