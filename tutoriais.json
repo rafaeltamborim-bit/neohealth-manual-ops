@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T11:48:40.297Z",
- "total": 294,
+ "gerado_em": "2026-11-15T12:03:40.481Z",
+ "total": 295,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2353,6 +2353,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-qualidade.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-qualidade.jpg",
    "duracao": 203.6
+  },
+  "/dashboard/qualidade/eventos": {
+   "id": "his-qualidade-eventos",
+   "titulo": "Eventos e Incidentes",
+   "caminho": "Qualidade Assistencial › Segurança do Paciente › Eventos e Incidentes",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-qualidade-eventos.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-qualidade-eventos.jpg",
+   "duracao": 248.8
   }
  }
 }
