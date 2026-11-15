@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T01:48:39.282Z",
- "total": 254,
+ "gerado_em": "2026-11-15T02:03:39.582Z",
+ "total": 255,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2033,6 +2033,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-custos-unitarios.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-custos-unitarios.jpg",
    "duracao": 213.6
+  },
+  "/dashboard/diagnosticos": {
+   "id": "his-diagnosticos",
+   "titulo": "Permanência Esperada",
+   "caminho": "Qualidade Assistencial › Diagnósticos e Permanência › Permanência Esperada",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-diagnosticos.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-diagnosticos.jpg",
+   "duracao": 284.4
   }
  }
 }
