@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T12:48:39.880Z",
- "total": 298,
+ "gerado_em": "2026-11-15T13:03:40.037Z",
+ "total": 299,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2385,6 +2385,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-receita-perdas.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-receita-perdas.jpg",
    "duracao": 260.1
+  },
+  "/dashboard/receita-perdas/diagnostico-centro": {
+   "id": "his-receita-perdas-diagnostico-centro",
+   "titulo": "Custo por Diagnóstico e Centro",
+   "caminho": "Ciclo da Receita › Receita e Perdas › Custo por Diagnóstico e Centro",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-receita-perdas-diagnostico-centro.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-receita-perdas-diagnostico-centro.jpg",
+   "duracao": 225.9
   }
  }
 }
