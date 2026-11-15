@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T15:18:40.953Z",
- "total": 306,
+ "gerado_em": "2026-11-15T15:33:40.052Z",
+ "total": 307,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2449,6 +2449,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-tempos-sala.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-tempos-sala.jpg",
    "duracao": 233.4
+  },
+  "/dashboard/tempos-sala/giro": {
+   "id": "his-tempos-sala-giro",
+   "titulo": "Giro e Utilização",
+   "caminho": "Centro Cirúrgico › Tempos de Sala › Giro e Utilização",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-tempos-sala-giro.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-tempos-sala-giro.jpg",
+   "duracao": 221.4
   }
  }
 }
