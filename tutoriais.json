@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T00:18:39.309Z",
- "total": 248,
+ "gerado_em": "2026-11-15T00:33:39.694Z",
+ "total": 249,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1985,6 +1985,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-centro-cirurgico-salas.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-centro-cirurgico-salas.jpg",
    "duracao": 237.2
+  },
+  "/dashboard/contas-paciente/competencia": {
+   "id": "his-contas-paciente-competencia",
+   "titulo": "Contas por Competência",
+   "caminho": "Ciclo da Receita › Contas do Paciente › Contas por Competência",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-contas-paciente-competencia.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-contas-paciente-competencia.jpg",
+   "duracao": 248.3
   }
  }
 }
