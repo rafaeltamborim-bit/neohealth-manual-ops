@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T11:03:39.727Z",
- "total": 291,
+ "gerado_em": "2026-11-15T11:18:39.514Z",
+ "total": 292,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2329,6 +2329,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-pronto-atendimento-fluxo.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-pronto-atendimento-fluxo.jpg",
    "duracao": 270
+  },
+  "/dashboard/pronto-atendimento/superlotacao": {
+   "id": "his-pronto-atendimento-superlotacao",
+   "titulo": "Superlotação",
+   "caminho": "Atendimento › Pronto Atendimento › Superlotação",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-pronto-atendimento-superlotacao.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-pronto-atendimento-superlotacao.jpg",
+   "duracao": 174
   }
  }
 }
