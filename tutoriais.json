@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T12:18:40.437Z",
- "total": 296,
+ "gerado_em": "2026-11-15T12:33:40.624Z",
+ "total": 297,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2369,6 +2369,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-qualidade-infeccao.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-qualidade-infeccao.jpg",
    "duracao": 251.7
+  },
+  "/dashboard/qualidade/mortalidade": {
+   "id": "his-qualidade-mortalidade",
+   "titulo": "Mortalidade Ajustada",
+   "caminho": "Qualidade Assistencial › Segurança do Paciente › Mortalidade Ajustada",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-qualidade-mortalidade.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-qualidade-mortalidade.jpg",
+   "duracao": 228.6
   }
  }
 }
