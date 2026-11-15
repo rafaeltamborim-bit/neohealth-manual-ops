@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T10:33:39.697Z",
- "total": 289,
+ "gerado_em": "2026-11-15T10:48:40.325Z",
+ "total": 290,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2313,6 +2313,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-pronto-atendimento-atendimentos.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-pronto-atendimento-atendimentos.jpg",
    "duracao": 198.8
+  },
+  "/dashboard/pronto-atendimento/classificacao": {
+   "id": "his-pronto-atendimento-classificacao",
+   "titulo": "Classificação de Risco",
+   "caminho": "Atendimento › Pronto Atendimento › Classificação de Risco",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-pronto-atendimento-classificacao.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-pronto-atendimento-classificacao.jpg",
+   "duracao": 250.5
   }
  }
 }
