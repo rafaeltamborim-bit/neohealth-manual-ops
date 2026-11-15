@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T14:03:41.375Z",
- "total": 303,
+ "gerado_em": "2026-11-15T14:33:40.278Z",
+ "total": 304,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2425,6 +2425,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-saldo-estoque-giro.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-saldo-estoque-giro.jpg",
    "duracao": 215.2
+  },
+  "/dashboard/saldo-estoque/perdas": {
+   "id": "his-saldo-estoque-perdas",
+   "titulo": "Perdas e Vencimentos",
+   "caminho": "Suprimentos e Custos › Saldo de Estoque › Perdas e Vencimentos",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-saldo-estoque-perdas.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-saldo-estoque-perdas.jpg",
+   "duracao": 233.5
   }
  }
 }
