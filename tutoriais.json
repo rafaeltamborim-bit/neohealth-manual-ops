@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T11:33:40.095Z",
- "total": 293,
+ "gerado_em": "2026-11-15T11:48:40.297Z",
+ "total": 294,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2345,6 +2345,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-pronto-atendimento-tempos.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-pronto-atendimento-tempos.jpg",
    "duracao": 262.2
+  },
+  "/dashboard/qualidade": {
+   "id": "his-qualidade",
+   "titulo": "Visão Geral",
+   "caminho": "Qualidade Assistencial › Segurança do Paciente › Visão Geral",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-qualidade.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-qualidade.jpg",
+   "duracao": 203.6
   }
  }
 }
