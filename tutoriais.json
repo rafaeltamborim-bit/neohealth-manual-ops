@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T03:33:39.626Z",
- "total": 261,
+ "gerado_em": "2026-11-15T03:48:40.958Z",
+ "total": 262,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2089,6 +2089,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-faturamento-convenio.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-faturamento-convenio.jpg",
    "duracao": 202.3
+  },
+  "/dashboard/faturamento-convenio/contabil": {
+   "id": "his-faturamento-convenio-contabil",
+   "titulo": "Contábil",
+   "caminho": "Ciclo da Receita › Faturamento por Convênio › Contábil",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-faturamento-convenio-contabil.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-faturamento-convenio-contabil.jpg",
+   "duracao": 212.1
   }
  }
 }
