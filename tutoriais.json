@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T07:33:39.732Z",
- "total": 277,
+ "gerado_em": "2026-11-15T07:48:40.626Z",
+ "total": 278,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2217,6 +2217,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-movimento-estoque.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-movimento-estoque.jpg",
    "duracao": 259
+  },
+  "/dashboard/movimento-estoque/conta-estoque": {
+   "id": "his-movimento-estoque-conta-estoque",
+   "titulo": "Conta × Estoque",
+   "caminho": "Suprimentos e Custos › Movimento de Estoque › Conta × Estoque",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-movimento-estoque-conta-estoque.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-movimento-estoque-conta-estoque.jpg",
+   "duracao": 302.3
   }
  }
 }
