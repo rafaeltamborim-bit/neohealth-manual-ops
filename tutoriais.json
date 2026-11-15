@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T13:03:40.037Z",
- "total": 299,
+ "gerado_em": "2026-11-15T13:18:40.846Z",
+ "total": 300,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2393,6 +2393,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-receita-perdas-diagnostico-centro.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-receita-perdas-diagnostico-centro.jpg",
    "duracao": 225.9
+  },
+  "/dashboard/receita-perdas/leito-diaria": {
+   "id": "his-receita-perdas-leito-diaria",
+   "titulo": "Receita por Leito e Diária",
+   "caminho": "Ciclo da Receita › Receita e Perdas › Receita por Leito e Diária",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-receita-perdas-leito-diaria.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-receita-perdas-leito-diaria.jpg",
+   "duracao": 221.1
   }
  }
 }
