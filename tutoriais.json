@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T11:18:39.514Z",
- "total": 292,
+ "gerado_em": "2026-11-15T11:33:40.095Z",
+ "total": 293,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2337,6 +2337,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-pronto-atendimento-superlotacao.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-pronto-atendimento-superlotacao.jpg",
    "duracao": 174
+  },
+  "/dashboard/pronto-atendimento/tempos": {
+   "id": "his-pronto-atendimento-tempos",
+   "titulo": "Tempos de Espera",
+   "caminho": "Atendimento › Pronto Atendimento › Tempos de Espera",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-pronto-atendimento-tempos.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-pronto-atendimento-tempos.jpg",
+   "duracao": 262.2
   }
  }
 }
