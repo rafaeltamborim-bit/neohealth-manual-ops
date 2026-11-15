@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T09:03:40.477Z",
- "total": 283,
+ "gerado_em": "2026-11-15T09:18:40.240Z",
+ "total": 284,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2265,6 +2265,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-opme-consumo-paciente.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-opme-consumo-paciente.jpg",
    "duracao": 247.3
+  },
+  "/dashboard/opme-consumo/previsto-realizado": {
+   "id": "his-opme-consumo-previsto-realizado",
+   "titulo": "Previsto × Realizado",
+   "caminho": "Suprimentos e Custos › OPME e Consumo › Previsto × Realizado",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-opme-consumo-previsto-realizado.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-opme-consumo-previsto-realizado.jpg",
+   "duracao": 224.6
   }
  }
 }
