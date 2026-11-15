@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T00:48:39.975Z",
- "total": 250,
+ "gerado_em": "2026-11-15T01:03:39.383Z",
+ "total": 251,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2001,6 +2001,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-contas-paciente-pacientes.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-contas-paciente-pacientes.jpg",
    "duracao": 206.1
+  },
+  "/dashboard/contas-paciente/setores": {
+   "id": "his-contas-paciente-setores",
+   "titulo": "Por Setor e Convênio",
+   "caminho": "Ciclo da Receita › Contas do Paciente › Por Setor e Convênio",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-contas-paciente-setores.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-contas-paciente-setores.jpg",
+   "duracao": 260.6
   }
  }
 }
