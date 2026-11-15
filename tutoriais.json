@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-14T23:48:39.270Z",
- "total": 246,
+ "gerado_em": "2026-11-15T00:03:39.379Z",
+ "total": 247,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1969,6 +1969,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-centro-cirurgico-cirurgias.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-centro-cirurgico-cirurgias.jpg",
    "duracao": 192.9
+  },
+  "/dashboard/centro-cirurgico/cirurgioes": {
+   "id": "his-centro-cirurgico-cirurgioes",
+   "titulo": "Cirurgiões e Procedimentos",
+   "caminho": "Centro Cirúrgico › Produção Cirúrgica › Cirurgiões e Procedimentos",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-centro-cirurgico-cirurgioes.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-centro-cirurgico-cirurgioes.jpg",
+   "duracao": 281
   }
  }
 }
