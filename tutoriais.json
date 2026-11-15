@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T00:03:39.379Z",
- "total": 247,
+ "gerado_em": "2026-11-15T00:18:39.309Z",
+ "total": 248,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1977,6 +1977,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-centro-cirurgico-cirurgioes.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-centro-cirurgico-cirurgioes.jpg",
    "duracao": 281
+  },
+  "/dashboard/centro-cirurgico/salas": {
+   "id": "his-centro-cirurgico-salas",
+   "titulo": "Salas e Tempos",
+   "caminho": "Centro Cirúrgico › Produção Cirúrgica › Salas e Tempos",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-centro-cirurgico-salas.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-centro-cirurgico-salas.jpg",
+   "duracao": 237.2
   }
  }
 }
