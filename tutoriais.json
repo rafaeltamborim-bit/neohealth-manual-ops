@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T10:48:40.325Z",
- "total": 290,
+ "gerado_em": "2026-11-15T11:03:39.727Z",
+ "total": 291,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2321,6 +2321,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-pronto-atendimento-classificacao.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-pronto-atendimento-classificacao.jpg",
    "duracao": 250.5
+  },
+  "/dashboard/pronto-atendimento/fluxo": {
+   "id": "his-pronto-atendimento-fluxo",
+   "titulo": "Fluxo e Desfecho",
+   "caminho": "Atendimento › Pronto Atendimento › Fluxo e Desfecho",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-pronto-atendimento-fluxo.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-pronto-atendimento-fluxo.jpg",
+   "duracao": 270
   }
  }
 }
