@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T03:03:39.868Z",
- "total": 259,
+ "gerado_em": "2026-11-15T03:18:39.738Z",
+ "total": 260,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2073,6 +2073,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-exames-laudos.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-exames-laudos.jpg",
    "duracao": 300.4
+  },
+  "/dashboard/exames/receita": {
+   "id": "his-exames-receita",
+   "titulo": "Receita por Exame",
+   "caminho": "Atendimento › Exames e Procedimentos › Receita por Exame",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-exames-receita.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-exames-receita.jpg",
+   "duracao": 259.4
   }
  }
 }
