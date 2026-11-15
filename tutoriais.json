@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T07:03:39.936Z",
- "total": 275,
+ "gerado_em": "2026-11-15T07:18:39.395Z",
+ "total": 276,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2201,6 +2201,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-metas-planos.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-metas-planos.jpg",
    "duracao": 170.3
+  },
+  "/dashboard/metas-planos/planos": {
+   "id": "his-metas-planos-planos",
+   "titulo": "Planos de Ação",
+   "caminho": "Gestão e Estratégia › Metas e Planos › Planos de Ação",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-metas-planos-planos.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-metas-planos-planos.jpg",
+   "duracao": 126.6
   }
  }
 }
