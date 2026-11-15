@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T02:33:39.396Z",
- "total": 257,
+ "gerado_em": "2026-11-15T02:48:39.467Z",
+ "total": 258,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2057,6 +2057,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-exames.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-exames.jpg",
    "duracao": 217.6
+  },
+  "/dashboard/exames/consultas": {
+   "id": "his-exames-consultas",
+   "titulo": "Consultas",
+   "caminho": "Atendimento › Exames e Procedimentos › Consultas",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-exames-consultas.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-exames-consultas.jpg",
+   "duracao": 238.9
   }
  }
 }
