@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T13:18:40.846Z",
- "total": 300,
+ "gerado_em": "2026-11-15T13:33:41.042Z",
+ "total": 301,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2401,6 +2401,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-receita-perdas-leito-diaria.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-receita-perdas-leito-diaria.jpg",
    "duracao": 221.1
+  },
+  "/dashboard/receita-perdas/perdas": {
+   "id": "his-receita-perdas-perdas",
+   "titulo": "Perdas e Oportunidades",
+   "caminho": "Ciclo da Receita › Receita e Perdas › Perdas e Oportunidades",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-receita-perdas-perdas.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-receita-perdas-perdas.jpg",
+   "duracao": 252.2
   }
  }
 }
