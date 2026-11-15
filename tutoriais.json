@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T09:18:40.240Z",
- "total": 284,
+ "gerado_em": "2026-11-15T09:33:40.040Z",
+ "total": 285,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2273,6 +2273,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-opme-consumo-previsto-realizado.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-opme-consumo-previsto-realizado.jpg",
    "duracao": 224.6
+  },
+  "/dashboard/previsoes": {
+   "id": "his-previsoes",
+   "titulo": "Visão Geral",
+   "caminho": "Gestão e Estratégia › Previsões › Visão Geral",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-previsoes.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-previsoes.jpg",
+   "duracao": 210.6
   }
  }
 }
