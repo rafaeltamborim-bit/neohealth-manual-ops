@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T08:03:40.009Z",
- "total": 279,
+ "gerado_em": "2026-11-15T08:18:39.571Z",
+ "total": 280,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2233,6 +2233,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-movimento-estoque-materiais.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-movimento-estoque-materiais.jpg",
    "duracao": 248.3
+  },
+  "/dashboard/movimento-estoque/movimentos": {
+   "id": "his-movimento-estoque-movimentos",
+   "titulo": "Movimentos",
+   "caminho": "Suprimentos e Custos › Movimento de Estoque › Movimentos",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-movimento-estoque-movimentos.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-movimento-estoque-movimentos.jpg",
+   "duracao": 188.9
   }
  }
 }
