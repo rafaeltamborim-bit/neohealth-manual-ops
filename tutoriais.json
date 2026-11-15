@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T01:18:39.486Z",
- "total": 252,
+ "gerado_em": "2026-11-15T01:33:40.051Z",
+ "total": 253,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2017,6 +2017,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-custos.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-custos.jpg",
    "duracao": 231.5
+  },
+  "/dashboard/custos/centros": {
+   "id": "his-custos-centros",
+   "titulo": "Por Centro de Custo",
+   "caminho": "Suprimentos e Custos › Custos › Por Centro de Custo",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-custos-centros.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-custos-centros.jpg",
+   "duracao": 165.3
   }
  }
 }
