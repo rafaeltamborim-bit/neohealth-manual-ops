@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T01:33:40.051Z",
- "total": 253,
+ "gerado_em": "2026-11-15T01:48:39.282Z",
+ "total": 254,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2025,6 +2025,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-custos-centros.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-custos-centros.jpg",
    "duracao": 165.3
+  },
+  "/dashboard/custos/unitarios": {
+   "id": "his-custos-unitarios",
+   "titulo": "Custo Unitário e Margem",
+   "caminho": "Suprimentos e Custos › Custos › Custo Unitário e Margem",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-custos-unitarios.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-custos-unitarios.jpg",
+   "duracao": 213.6
   }
  }
 }
