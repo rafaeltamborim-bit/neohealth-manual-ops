@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T05:48:39.956Z",
- "total": 270,
+ "gerado_em": "2026-11-15T06:18:40.539Z",
+ "total": 271,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2161,6 +2161,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-gestao-leitos-solicitacoes.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-gestao-leitos-solicitacoes.jpg",
    "duracao": 200.5
+  },
+  "/dashboard/gestao-leitos/tempos": {
+   "id": "his-gestao-leitos-tempos",
+   "titulo": "Tempos de Espera",
+   "caminho": "Gestão de Leitos › Solicitações de Vaga › Tempos de Espera",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-gestao-leitos-tempos.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-gestao-leitos-tempos.jpg",
+   "duracao": 308.4
   }
  }
 }
