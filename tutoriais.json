@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T05:33:40.202Z",
- "total": 269,
+ "gerado_em": "2026-11-15T05:48:39.956Z",
+ "total": 270,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2153,6 +2153,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-gestao-leitos-setores.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-gestao-leitos-setores.jpg",
    "duracao": 328
+  },
+  "/dashboard/gestao-leitos/solicitacoes": {
+   "id": "his-gestao-leitos-solicitacoes",
+   "titulo": "Solicitações",
+   "caminho": "Gestão de Leitos › Solicitações de Vaga › Solicitações",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-gestao-leitos-solicitacoes.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-gestao-leitos-solicitacoes.jpg",
+   "duracao": 200.5
   }
  }
 }
