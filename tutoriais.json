@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T07:18:39.395Z",
- "total": 276,
+ "gerado_em": "2026-11-15T07:33:39.732Z",
+ "total": 277,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2209,6 +2209,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-metas-planos-planos.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-metas-planos-planos.jpg",
    "duracao": 126.6
+  },
+  "/dashboard/movimento-estoque": {
+   "id": "his-movimento-estoque",
+   "titulo": "Visão Geral",
+   "caminho": "Suprimentos e Custos › Movimento de Estoque › Visão Geral",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-movimento-estoque.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-movimento-estoque.jpg",
+   "duracao": 259
   }
  }
 }
