@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T13:33:41.042Z",
- "total": 301,
+ "gerado_em": "2026-11-15T13:48:40.597Z",
+ "total": 302,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2409,6 +2409,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-receita-perdas-perdas.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-receita-perdas-perdas.jpg",
    "duracao": 252.2
+  },
+  "/dashboard/saldo-estoque": {
+   "id": "his-saldo-estoque",
+   "titulo": "Posição",
+   "caminho": "Suprimentos e Custos › Saldo de Estoque › Posição",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-saldo-estoque.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-saldo-estoque.jpg",
+   "duracao": 250
   }
  }
 }
