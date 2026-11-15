@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T12:03:40.481Z",
- "total": 295,
+ "gerado_em": "2026-11-15T12:18:40.437Z",
+ "total": 296,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2361,6 +2361,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-qualidade-eventos.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-qualidade-eventos.jpg",
    "duracao": 248.8
+  },
+  "/dashboard/qualidade/infeccao": {
+   "id": "his-qualidade-infeccao",
+   "titulo": "Infecções (IRAS)",
+   "caminho": "Qualidade Assistencial › Segurança do Paciente › Infecções (IRAS)",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-qualidade-infeccao.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-qualidade-infeccao.jpg",
+   "duracao": 251.7
   }
  }
 }
