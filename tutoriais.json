@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T04:03:39.807Z",
- "total": 263,
+ "gerado_em": "2026-11-15T04:18:39.523Z",
+ "total": 264,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2105,6 +2105,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-faturamento-convenio-convenios.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-faturamento-convenio-convenios.jpg",
    "duracao": 226.4
+  },
+  "/dashboard/faturamento-prestador": {
+   "id": "his-faturamento-prestador",
+   "titulo": "Visão Geral",
+   "caminho": "Ciclo da Receita › Faturamento por Prestador › Visão Geral",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-faturamento-prestador.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-faturamento-prestador.jpg",
+   "duracao": 224.8
   }
  }
 }
