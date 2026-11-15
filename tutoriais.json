@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T02:03:39.582Z",
- "total": 255,
+ "gerado_em": "2026-11-15T02:18:39.912Z",
+ "total": 256,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2041,6 +2041,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-diagnosticos.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-diagnosticos.jpg",
    "duracao": 284.4
+  },
+  "/dashboard/diagnosticos/evitaveis": {
+   "id": "his-diagnosticos-evitaveis",
+   "titulo": "Internações Evitáveis",
+   "caminho": "Qualidade Assistencial › Diagnósticos e Permanência › Internações Evitáveis",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-diagnosticos-evitaveis.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-diagnosticos-evitaveis.jpg",
+   "duracao": 241.3
   }
  }
 }
