@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T10:18:40.106Z",
- "total": 288,
+ "gerado_em": "2026-11-15T10:33:39.697Z",
+ "total": 289,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2305,6 +2305,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-pronto-atendimento.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-pronto-atendimento.jpg",
    "duracao": 238.8
+  },
+  "/dashboard/pronto-atendimento/atendimentos": {
+   "id": "his-pronto-atendimento-atendimentos",
+   "titulo": "Atendimentos",
+   "caminho": "Atendimento › Pronto Atendimento › Atendimentos",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-pronto-atendimento-atendimentos.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-pronto-atendimento-atendimentos.jpg",
+   "duracao": 198.8
   }
  }
 }
