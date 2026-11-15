@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T14:48:41.385Z",
- "total": 305,
+ "gerado_em": "2026-11-15T15:18:40.953Z",
+ "total": 306,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2441,6 +2441,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-saldo-estoque-ruptura.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-saldo-estoque-ruptura.jpg",
    "duracao": 209.3
+  },
+  "/dashboard/tempos-sala": {
+   "id": "his-tempos-sala",
+   "titulo": "Visão Geral",
+   "caminho": "Centro Cirúrgico › Tempos de Sala › Visão Geral",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-tempos-sala.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-tempos-sala.jpg",
+   "duracao": 233.4
   }
  }
 }
