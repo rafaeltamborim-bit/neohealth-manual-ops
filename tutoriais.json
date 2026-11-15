@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T08:48:40.191Z",
- "total": 282,
+ "gerado_em": "2026-11-15T09:03:40.477Z",
+ "total": 283,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2257,6 +2257,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-opme-consumo-divergencia.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-opme-consumo-divergencia.jpg",
    "duracao": 300.8
+  },
+  "/dashboard/opme-consumo/paciente": {
+   "id": "his-opme-consumo-paciente",
+   "titulo": "Consumo por Paciente",
+   "caminho": "Suprimentos e Custos › OPME e Consumo › Consumo por Paciente",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-opme-consumo-paciente.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-opme-consumo-paciente.jpg",
+   "duracao": 247.3
   }
  }
 }
