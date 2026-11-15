@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T06:33:39.740Z",
- "total": 272,
+ "gerado_em": "2026-11-15T06:48:43.908Z",
+ "total": 274,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2177,6 +2177,22 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-glosas-recebimento.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-glosas-recebimento.jpg",
    "duracao": 210.6
+  },
+  "/dashboard/glosas-recebimento/motivos": {
+   "id": "his-glosas-recebimento-motivos",
+   "titulo": "Motivos de Glosa",
+   "caminho": "Ciclo da Receita › Glosas e Recebimento › Motivos de Glosa",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-glosas-recebimento-motivos.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-glosas-recebimento-motivos.jpg",
+   "duracao": 256.6
+  },
+  "/dashboard/glosas-recebimento/recebimento": {
+   "id": "his-glosas-recebimento-recebimento",
+   "titulo": "Prazo de Recebimento",
+   "caminho": "Ciclo da Receita › Glosas e Recebimento › Prazo de Recebimento",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-glosas-recebimento-recebimento.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-glosas-recebimento-recebimento.jpg",
+   "duracao": 205.6
   }
  }
 }
