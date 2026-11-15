@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T02:18:39.912Z",
- "total": 256,
+ "gerado_em": "2026-11-15T02:33:39.396Z",
+ "total": 257,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2049,6 +2049,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-diagnosticos-evitaveis.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-diagnosticos-evitaveis.jpg",
    "duracao": 241.3
+  },
+  "/dashboard/exames": {
+   "id": "his-exames",
+   "titulo": "Visão Geral",
+   "caminho": "Atendimento › Exames e Procedimentos › Visão Geral",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-exames.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-exames.jpg",
+   "duracao": 217.6
   }
  }
 }
