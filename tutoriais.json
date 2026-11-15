@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T00:33:39.694Z",
- "total": 249,
+ "gerado_em": "2026-11-15T00:48:39.975Z",
+ "total": 250,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -1993,6 +1993,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-contas-paciente-competencia.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-contas-paciente-competencia.jpg",
    "duracao": 248.3
+  },
+  "/dashboard/contas-paciente/pacientes": {
+   "id": "his-contas-paciente-pacientes",
+   "titulo": "Por Paciente",
+   "caminho": "Ciclo da Receita › Contas do Paciente › Por Paciente",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-contas-paciente-pacientes.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-contas-paciente-pacientes.jpg",
+   "duracao": 206.1
   }
  }
 }
