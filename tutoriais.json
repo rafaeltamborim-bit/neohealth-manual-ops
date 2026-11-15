@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T09:33:40.040Z",
- "total": 285,
+ "gerado_em": "2026-11-15T09:48:40.003Z",
+ "total": 286,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2281,6 +2281,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-previsoes.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-previsoes.jpg",
    "duracao": 210.6
+  },
+  "/dashboard/previsoes/ocupacao": {
+   "id": "his-previsoes-ocupacao",
+   "titulo": "Ocupação",
+   "caminho": "Gestão e Estratégia › Previsões › Ocupação",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-previsoes-ocupacao.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-previsoes-ocupacao.jpg",
+   "duracao": 193.5
   }
  }
 }
