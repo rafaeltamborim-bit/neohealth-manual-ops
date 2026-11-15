@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T05:03:40.240Z",
- "total": 267,
+ "gerado_em": "2026-11-15T05:18:39.983Z",
+ "total": 268,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2137,6 +2137,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-gestao-leitos.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-gestao-leitos.jpg",
    "duracao": 279.8
+  },
+  "/dashboard/gestao-leitos/fila": {
+   "id": "his-gestao-leitos-fila",
+   "titulo": "Fila Atual",
+   "caminho": "Gestão de Leitos › Solicitações de Vaga › Fila Atual",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-gestao-leitos-fila.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-gestao-leitos-fila.jpg",
+   "duracao": 232.1
   }
  }
 }
