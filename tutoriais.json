@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T12:33:40.624Z",
- "total": 297,
+ "gerado_em": "2026-11-15T12:48:39.880Z",
+ "total": 298,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2377,6 +2377,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-qualidade-mortalidade.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-qualidade-mortalidade.jpg",
    "duracao": 228.6
+  },
+  "/dashboard/receita-perdas": {
+   "id": "his-receita-perdas",
+   "titulo": "Prazo de Faturamento",
+   "caminho": "Ciclo da Receita › Receita e Perdas › Prazo de Faturamento",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-receita-perdas.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-receita-perdas.jpg",
+   "duracao": 260.1
   }
  }
 }
