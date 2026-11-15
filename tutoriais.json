@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T14:33:40.278Z",
- "total": 304,
+ "gerado_em": "2026-11-15T14:48:41.385Z",
+ "total": 305,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2433,6 +2433,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-saldo-estoque-perdas.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-saldo-estoque-perdas.jpg",
    "duracao": 233.5
+  },
+  "/dashboard/saldo-estoque/ruptura": {
+   "id": "his-saldo-estoque-ruptura",
+   "titulo": "Ruptura",
+   "caminho": "Suprimentos e Custos › Saldo de Estoque › Ruptura",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-saldo-estoque-ruptura.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-saldo-estoque-ruptura.jpg",
+   "duracao": 209.3
   }
  }
 }
