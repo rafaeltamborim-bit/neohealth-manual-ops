@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T03:18:39.738Z",
- "total": 260,
+ "gerado_em": "2026-11-15T03:33:39.626Z",
+ "total": 261,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2081,6 +2081,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-exames-receita.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-exames-receita.jpg",
    "duracao": 259.4
+  },
+  "/dashboard/faturamento-convenio": {
+   "id": "his-faturamento-convenio",
+   "titulo": "Visão Geral",
+   "caminho": "Ciclo da Receita › Faturamento por Convênio › Visão Geral",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-faturamento-convenio.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-faturamento-convenio.jpg",
+   "duracao": 202.3
   }
  }
 }
