@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T04:18:39.523Z",
- "total": 264,
+ "gerado_em": "2026-11-15T04:33:39.721Z",
+ "total": 265,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2113,6 +2113,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-faturamento-prestador.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-faturamento-prestador.jpg",
    "duracao": 224.8
+  },
+  "/dashboard/faturamento-prestador/contas": {
+   "id": "his-faturamento-prestador-contas",
+   "titulo": "Contas",
+   "caminho": "Ciclo da Receita › Faturamento por Prestador › Contas",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-faturamento-prestador-contas.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-faturamento-prestador-contas.jpg",
+   "duracao": 201.2
   }
  }
 }
