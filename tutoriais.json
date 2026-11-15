@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T05:18:39.983Z",
- "total": 268,
+ "gerado_em": "2026-11-15T05:33:40.202Z",
+ "total": 269,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2145,6 +2145,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-gestao-leitos-fila.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-gestao-leitos-fila.jpg",
    "duracao": 232.1
+  },
+  "/dashboard/gestao-leitos/setores": {
+   "id": "his-gestao-leitos-setores",
+   "titulo": "Origem e Destino",
+   "caminho": "Gestão de Leitos › Solicitações de Vaga › Origem e Destino",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-gestao-leitos-setores.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-gestao-leitos-setores.jpg",
+   "duracao": 328
   }
  }
 }
