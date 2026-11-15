@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T06:18:40.539Z",
- "total": 271,
+ "gerado_em": "2026-11-15T06:33:39.740Z",
+ "total": 272,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2169,6 +2169,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-gestao-leitos-tempos.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-gestao-leitos-tempos.jpg",
    "duracao": 308.4
+  },
+  "/dashboard/glosas-recebimento": {
+   "id": "his-glosas-recebimento",
+   "titulo": "Visão Geral",
+   "caminho": "Ciclo da Receita › Glosas e Recebimento › Visão Geral",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-glosas-recebimento.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-glosas-recebimento.jpg",
+   "duracao": 210.6
   }
  }
 }
