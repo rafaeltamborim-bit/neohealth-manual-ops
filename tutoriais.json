@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T13:48:40.597Z",
- "total": 302,
+ "gerado_em": "2026-11-15T14:03:41.375Z",
+ "total": 303,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2417,6 +2417,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-saldo-estoque.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-saldo-estoque.jpg",
    "duracao": 250
+  },
+  "/dashboard/saldo-estoque/giro": {
+   "id": "his-saldo-estoque-giro",
+   "titulo": "Giro e Cobertura",
+   "caminho": "Suprimentos e Custos › Saldo de Estoque › Giro e Cobertura",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-saldo-estoque-giro.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-saldo-estoque-giro.jpg",
+   "duracao": 215.2
   }
  }
 }
