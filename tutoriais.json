@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-15T02:48:39.467Z",
- "total": 258,
+ "gerado_em": "2026-11-15T03:03:39.868Z",
+ "total": 259,
  "tutoriais": {
   "/dashboard/management-dashboard": {
    "id": "mgd-01",
@@ -2065,6 +2065,14 @@
    "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-exames-consultas.mp4",
    "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-exames-consultas.jpg",
    "duracao": 238.9
+  },
+  "/dashboard/exames/laudos": {
+   "id": "his-exames-laudos",
+   "titulo": "Laudos e Pendências",
+   "caminho": "Atendimento › Exames e Procedimentos › Laudos e Pendências",
+   "video": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-exames-laudos.mp4",
+   "capa": "https://github.com/rafaeltamborim-bit/neohealth-manual-ops/releases/download/manual/his-exames-laudos.jpg",
+   "duracao": 300.4
   }
  }
 }
